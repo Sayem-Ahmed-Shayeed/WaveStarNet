@@ -1,0 +1,32 @@
+{
+  "ablation_key": "fixed_haar_wavedown",
+  "architecture_sha256": "12d2fb2b3f822d3afa5bca1b9378b402a96f4e19ab3750dbe440ab57b39a4180",
+  "backbone_schema_sha256": null,
+  "checkpoint_loaded": false,
+  "display_name": "WavestarNet (fixed Haar WaveDown)",
+  "downsampling_locations": [
+    "stages.0.0",
+    "stages.1.0",
+    "stages.2.0",
+    "stages.3.0"
+  ],
+  "downsampling_type": "fixed_haar_wavedown",
+  "fusion_operator": "multiplicative_star",
+  "head_type": "multistage_s2_s3_s4",
+  "initialization": "random",
+  "parameters": 2952257,
+  "pretrained": false,
+  "se_attention_count": 0,
+  "se_attention_locations": [],
+  "spectral_operator": "selective_wavelet_gate",
+  "state_schema_sha256": "85907b49517766eeab062b8132a5cb6fecaa0dd755de3b728539e0880f7b2068",
+  "teacher_loaded": false,
+  "wavelet_gate_count": 5,
+  "wavelet_gate_locations": [
+    "stages.0.1.spec",
+    "stages.1.1.spec",
+    "stages.2.1.spec",
+    "stages.2.5.spec",
+    "stages.3.1.spec"
+  ]
+}

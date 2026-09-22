@@ -1,0 +1,37 @@
+{
+  "ablation_key": "all_blocks_gated",
+  "architecture_sha256": "61959738cdad8a7aedaeddc6639aa0bea939fdaa67264a2919dd3500d67ac9a5",
+  "backbone_schema_sha256": null,
+  "checkpoint_loaded": false,
+  "display_name": "WavestarNet V2 (all blocks gated)",
+  "downsampling_locations": [
+    "stages.0.0",
+    "stages.1.0",
+    "stages.2.0",
+    "stages.3.0"
+  ],
+  "downsampling_type": "wave_down",
+  "head_type": "multistage_s2_s3_s4",
+  "initialization": "random",
+  "parameters": 3101833,
+  "pretrained": false,
+  "se_attention_count": 0,
+  "se_attention_locations": [],
+  "spectral_operator": "all_wavelet_gate",
+  "state_schema_sha256": "59d98815de6dc07bbc3724937f9403240894b201010aa28764f42152e5c8639b",
+  "teacher_loaded": false,
+  "wavelet_gate_count": 11,
+  "wavelet_gate_locations": [
+    "stages.0.1.spec",
+    "stages.0.2.spec",
+    "stages.1.1.spec",
+    "stages.1.2.spec",
+    "stages.1.3.spec",
+    "stages.2.1.spec",
+    "stages.2.2.spec",
+    "stages.2.3.spec",
+    "stages.2.4.spec",
+    "stages.2.5.spec",
+    "stages.3.1.spec"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "canonical_images_before_support_filter": 10397,
+  "component_count": 10604,
+  "confirmed_near_duplicate_edges": 616,
+  "contact_sheets": 12,
+  "cross_label_duplicate_contact_sheets": 35,
+  "cross_label_duplicate_edges": 280,
+  "decoded_pixel_duplicate_edges": 404,
+  "duplicate_components": 764,
+  "exact_duplicate_edges_union": 404,
+  "excluded_conflicting_components": 207,
+  "excluded_conflicting_images": 463,
+  "excluded_under_supported_classes": 10,
+  "excluded_under_supported_images": 125,
+  "file_exact_duplicate_edges": 402,
+  "fractions": {
+    "test": 0.15,
+    "train": 0.7,
+    "validation": 0.15
+  },
+  "manual_review_queue_images": 2320,
+  "minimum_components_per_class": 20,
+  "near_duplicate_thresholds": {
+    "confirmed_aspect_relative_delta": 0.03,
+    "confirmed_gray_correlation": 0.985,
+    "confirmed_phash_hamming": 4,
+    "confirmed_rgb_mad": 0.045,
+    "probable_aspect_relative_delta": 0.08,
+    "probable_gray_correlation": 0.96,
+    "probable_phash_hamming": 6,
+    "probable_rgb_mad": 0.08
+  },
+  "probable_near_duplicate_pairs_for_review": 48,
+  "quality_flagged_images": 2228,
+  "retained_classes": 105,
+  "retained_images": 10272,
+  "seed": 42,
+  "source_archive_sha256": "5c3fd0c6ecf9a346c9d2dd03ff47769c71e581eb1170a68477d718ab43cfee5b",
+  "source_classes": 115,
+  "source_images": 11488,
+  "source_tree_inventory_sha256": "405cb0d3336d7883b318cba2d8a142998950b3968abee76622c8e7356586ffd7",
+  "split_counts": {
+    "test": 1523,
+    "train": 7188,
+    "validation": 1561
+  },
+  "unreadable_images": 0
+}

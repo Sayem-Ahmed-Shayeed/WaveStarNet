@@ -1,0 +1,166 @@
+{
+  "checkpoint_count": 15,
+  "protocol": {
+    "class_count": 21,
+    "class_mapping_sha256": "bc9f0fbb6a2e7bc24ffb01910207edfc764066c7316376588625b3b004536e18",
+    "final_holdout_samples": 579,
+    "final_holdout_sha256": "aa8f05ee626b7e1b95eb3bd8b411acbe6b76fc96f3ec4c3323c233899f866f05",
+    "image_archive_hash_verified": true,
+    "image_archive_sha256": "df327b5d88a4a02cbfc4ba12c123724b3aa10f79c61bda088009b276f3b971ae",
+    "maximum_class_support": 62,
+    "minimum_class_support": 4,
+    "missing_archive_members": 0,
+    "modeling_pool_samples": 2725,
+    "overlap": {
+      "train_vs_final_holdout": {
+        "component_id": 0,
+        "sample_id": 0,
+        "sha256": 0
+      },
+      "train_vs_validation": {
+        "component_id": 0,
+        "sample_id": 0,
+        "sha256": 0
+      },
+      "validation_vs_final_holdout": {
+        "component_id": 0,
+        "sample_id": 0,
+        "sha256": 0
+      }
+    },
+    "protocol_id": "agrivision4_clean_grouped_research_v2",
+    "train_samples": 1810,
+    "train_sha256": "255477b324d5d868072b61f47715f63dbcdaea7c66a5ad5f2cb17e35840c05b2",
+    "validation_samples": 915,
+    "validation_sha256": "3d3f6d0764767178aa1701a12b9493ec10b7e8bbc38a28d3ba9f066083c8473a"
+  },
+  "sealed_inference_executed_during_preflight": false,
+  "source_sha256": {
+    "core": "b25643f7832cdc7471b9402756b8d2fe2968beadf424e80b70789eede91ef616",
+    "model": "1e600b84c2a901640ff93ec9ef8e255291cbb07f335d5217988ffe147c2ca53f",
+    "runtime": "c62c78b1037029d46b93e256a32eeb3582ed37252729321027e47497087236d0"
+  },
+  "status": "preflight_passed",
+  "strict_load_audits": [
+    {
+      "architecture_sha256": "cc58b8d8fe86b84b5e40072ad98804f37ae03c18300e0a2510bbdefec78331ed",
+      "checkpoint_sha256": "6aad03be256fbf5d6227375bffad9961a3a69f4045475518c831200c74815fc2",
+      "model_key": "wavestarnet_big_transfer_v2",
+      "parameters": 2956577,
+      "seed": 42,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "cc58b8d8fe86b84b5e40072ad98804f37ae03c18300e0a2510bbdefec78331ed",
+      "checkpoint_sha256": "0f14f6e97a5e03b3a4a2ac2f9b97e211ccf0b2387b471eaf758d4fc63b9a94b6",
+      "model_key": "wavestarnet_big_transfer_v2",
+      "parameters": 2956577,
+      "seed": 2024,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "cc58b8d8fe86b84b5e40072ad98804f37ae03c18300e0a2510bbdefec78331ed",
+      "checkpoint_sha256": "9e9484c1afaeba509b652755c501a5614d7fef0cc3db77052a347940d15b9dd7",
+      "model_key": "wavestarnet_big_transfer_v2",
+      "parameters": 2956577,
+      "seed": 3407,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "8c46e2fa3011ed076dff81f4e958f91a29e045b8b3a93131253e47b4087ea947",
+      "checkpoint_sha256": "8d677b419ccac4609bdfcbe51a843b365343f75ba296a98811a2d18120985113",
+      "model_key": "efficientnet_b0",
+      "parameters": 4034449,
+      "seed": 42,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "8c46e2fa3011ed076dff81f4e958f91a29e045b8b3a93131253e47b4087ea947",
+      "checkpoint_sha256": "af9bf7557cc240cba8dedc26f3f59bf44f252849e799271a888f7bd0f5800900",
+      "model_key": "efficientnet_b0",
+      "parameters": 4034449,
+      "seed": 2024,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "8c46e2fa3011ed076dff81f4e958f91a29e045b8b3a93131253e47b4087ea947",
+      "checkpoint_sha256": "6a0ece75b94741d5b20eaf51f90bac3e23b8d2a7c5d05f3e47127804a81138c0",
+      "model_key": "efficientnet_b0",
+      "parameters": 4034449,
+      "seed": 3407,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "1ee659499489bbb5dff7949f318d62103ec7c0a7b487b96fc8d3e1d9995f7a46",
+      "checkpoint_sha256": "8de3e17fdd34764c690da0c8f6dc96823782ad842e2e2c133f3d888ba9ebdeba",
+      "model_key": "efficientnet_b3",
+      "parameters": 10728509,
+      "seed": 42,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "1ee659499489bbb5dff7949f318d62103ec7c0a7b487b96fc8d3e1d9995f7a46",
+      "checkpoint_sha256": "135fefa90b4c6303e54482cdde3d46197c30a7a772deef63bfcad11aac43fa5c",
+      "model_key": "efficientnet_b3",
+      "parameters": 10728509,
+      "seed": 2024,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "1ee659499489bbb5dff7949f318d62103ec7c0a7b487b96fc8d3e1d9995f7a46",
+      "checkpoint_sha256": "ed0c07cddec4c4da1f37d35bfda4c7bb89bbfa8dc8146a5ec11b5b3495dad701",
+      "model_key": "efficientnet_b3",
+      "parameters": 10728509,
+      "seed": 3407,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "bc409edee7e9a40c8cea715f34fe4aea999f28f14f922202b3735f32b0e66b79",
+      "checkpoint_sha256": "62691945b80ab9ac38b15492bfb725d892885110453554a5913542d638fe4020",
+      "model_key": "mobilenetv3_large_100",
+      "parameters": 4228933,
+      "seed": 42,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "bc409edee7e9a40c8cea715f34fe4aea999f28f14f922202b3735f32b0e66b79",
+      "checkpoint_sha256": "4e5df5ab93d849fbaad097e9079999e75428a6c02ca4bc17feb38368c4115eec",
+      "model_key": "mobilenetv3_large_100",
+      "parameters": 4228933,
+      "seed": 2024,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "bc409edee7e9a40c8cea715f34fe4aea999f28f14f922202b3735f32b0e66b79",
+      "checkpoint_sha256": "a84beaaebd5b19073d6541d026c489068666f4b67c45804fe00931ffd4ac2717",
+      "model_key": "mobilenetv3_large_100",
+      "parameters": 4228933,
+      "seed": 3407,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "f7d98c3cbf5280165da70ca2c6f914ffaccdf3f96d69699293204c80889bc3fe",
+      "checkpoint_sha256": "fb9c8dc2b88a7d3a92805fa92095a2940a56df0db3d75f96b5fae66e206df7b9",
+      "model_key": "mobilevit_s",
+      "parameters": 4951093,
+      "seed": 42,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "f7d98c3cbf5280165da70ca2c6f914ffaccdf3f96d69699293204c80889bc3fe",
+      "checkpoint_sha256": "17b1def5c80f19e62a54f256cd092bda0a573410e2cc4578be4b7b45dc5615c0",
+      "model_key": "mobilevit_s",
+      "parameters": 4951093,
+      "seed": 2024,
+      "strict_state_dict": true
+    },
+    {
+      "architecture_sha256": "f7d98c3cbf5280165da70ca2c6f914ffaccdf3f96d69699293204c80889bc3fe",
+      "checkpoint_sha256": "7dd299f482e45a6f6de06834c6c78e9bd2a95ed856ea9cc6c1d6846c1b991f79",
+      "model_key": "mobilevit_s",
+      "parameters": 4951093,
+      "seed": 3407,
+      "strict_state_dict": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "test": "sealed until architecture, recipe, and hyperparameters are frozen",
+  "test_accessed_during_audit": false,
+  "train": "model fitting allowed",
+  "validation": "checkpoint selection and development comparisons allowed"
+}

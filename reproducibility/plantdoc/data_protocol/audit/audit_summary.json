@@ -1,0 +1,39 @@
+{
+  "canonical_images_before_support_filter": 2900,
+  "class_count": 27,
+  "class_map_sha256": "eb2569cc4986958025fab1380f03b7706c966df7bd089d9e2d942bb1581ef5ea",
+  "component_count": 2908,
+  "dataset_version_hash": "149f9721b773d1a0619f8e7dbea7d1587473b824a66cf6774f350c4c2faa663b",
+  "duplicate_components": 14,
+  "duplicate_images_discarded": 6,
+  "exact_duplicate_edges": 6,
+  "excluded_conflicting_components": 8,
+  "excluded_conflicting_images": 16,
+  "excluded_under_supported_classes": 1,
+  "excluded_under_supported_images": 2,
+  "fractions": {
+    "test": 0.15,
+    "train": 0.7,
+    "validation": 0.15
+  },
+  "manifest_sha256": "bcd1ba077c2eba68011be1404af18a202717c859a58a106ead6cba1cdf910485",
+  "minimum_components_per_class": 20,
+  "near_duplicate_edges": 8,
+  "near_duplicate_thresholds": {
+    "max_hamming": 4,
+    "max_rgb_mad": 0.001,
+    "signature_size": 32
+  },
+  "original_release_identity": "unverified",
+  "retained_images": 2898,
+  "seed": 42,
+  "source_archive": "archive.zip",
+  "source_archive_sha256": "2c5c079d13f09c263b0e530b87a85dc15d23c5a00a7d9c9a8b9e74c12c48dc15",
+  "source_images": 2922,
+  "source_repack_description": "2,922-image train/test PlantDoc repack",
+  "split_counts": {
+    "test": 430,
+    "train": 2028,
+    "validation": 440
+  }
+}

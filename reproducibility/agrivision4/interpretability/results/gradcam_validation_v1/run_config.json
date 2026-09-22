@@ -1,0 +1,21 @@
+{
+  "full_validation_count": 915,
+  "image_size": 224,
+  "limit": null,
+  "model_keys": [
+    "wavestarnet_big_transfer_v2",
+    "mobilevit_s"
+  ],
+  "seed": 42,
+  "target_layers": {
+    "mobilevit_s": [
+      "final_conv"
+    ],
+    "wavestarnet_big_transfer_v2": [
+      "stage_2",
+      "stage_3",
+      "stage_4"
+    ]
+  },
+  "validation_count": 915
+}

@@ -1,0 +1,249 @@
+{
+  "classes": [
+    {
+      "class_name": "Apple_Scab_Leaf",
+      "f1": 0.22222222222222224,
+      "label_id": 0,
+      "precision": 0.23076923076923078,
+      "recall": 0.21428571428571427,
+      "support": 14
+    },
+    {
+      "class_name": "Apple_leaf",
+      "f1": 0.6666666666666667,
+      "label_id": 1,
+      "precision": 0.7272727272727273,
+      "recall": 0.6153846153846154,
+      "support": 13
+    },
+    {
+      "class_name": "Apple_rust_leaf",
+      "f1": 0.4375,
+      "label_id": 2,
+      "precision": 0.4375,
+      "recall": 0.4375,
+      "support": 16
+    },
+    {
+      "class_name": "Bell_pepper_leaf",
+      "f1": 0.4444444444444444,
+      "label_id": 3,
+      "precision": 0.3333333333333333,
+      "recall": 0.6666666666666666,
+      "support": 6
+    },
+    {
+      "class_name": "Bell_pepper_leaf_spot",
+      "f1": 0.4,
+      "label_id": 4,
+      "precision": 0.4166666666666667,
+      "recall": 0.38461538461538464,
+      "support": 13
+    },
+    {
+      "class_name": "Blueberry_leaf",
+      "f1": 0.42857142857142855,
+      "label_id": 5,
+      "precision": 0.6,
+      "recall": 0.3333333333333333,
+      "support": 18
+    },
+    {
+      "class_name": "Cherry_leaf",
+      "f1": 0.4166666666666667,
+      "label_id": 6,
+      "precision": 0.3333333333333333,
+      "recall": 0.5555555555555556,
+      "support": 9
+    },
+    {
+      "class_name": "Corn_Gray_leaf_spot",
+      "f1": 0.48,
+      "label_id": 7,
+      "precision": 0.4,
+      "recall": 0.6,
+      "support": 10
+    },
+    {
+      "class_name": "Corn_leaf_blight",
+      "f1": 0.7017543859649122,
+      "label_id": 8,
+      "precision": 0.7142857142857143,
+      "recall": 0.6896551724137931,
+      "support": 29
+    },
+    {
+      "class_name": "Corn_rust_leaf",
+      "f1": 0.8333333333333334,
+      "label_id": 9,
+      "precision": 0.8333333333333334,
+      "recall": 0.8333333333333334,
+      "support": 18
+    },
+    {
+      "class_name": "Peach_leaf",
+      "f1": 0.6341463414634146,
+      "label_id": 10,
+      "precision": 0.5416666666666666,
+      "recall": 0.7647058823529411,
+      "support": 17
+    },
+    {
+      "class_name": "Potato_leaf_early_blight",
+      "f1": 0.34782608695652173,
+      "label_id": 11,
+      "precision": 0.38095238095238093,
+      "recall": 0.32,
+      "support": 25
+    },
+    {
+      "class_name": "Potato_leaf_late_blight",
+      "f1": 0.5161290322580645,
+      "label_id": 12,
+      "precision": 0.5161290322580645,
+      "recall": 0.5161290322580645,
+      "support": 31
+    },
+    {
+      "class_name": "Raspberry_leaf",
+      "f1": 0.4848484848484848,
+      "label_id": 13,
+      "precision": 0.5333333333333333,
+      "recall": 0.4444444444444444,
+      "support": 18
+    },
+    {
+      "class_name": "Soyabean_leaf",
+      "f1": 0.4210526315789474,
+      "label_id": 14,
+      "precision": 0.4444444444444444,
+      "recall": 0.4,
+      "support": 10
+    },
+    {
+      "class_name": "Squash_Powdery_mildew_leaf",
+      "f1": 0.8108108108108107,
+      "label_id": 15,
+      "precision": 0.8823529411764706,
+      "recall": 0.75,
+      "support": 20
+    },
+    {
+      "class_name": "Strawberry_leaf",
+      "f1": 0.5217391304347827,
+      "label_id": 16,
+      "precision": 0.75,
+      "recall": 0.4,
+      "support": 15
+    },
+    {
+      "class_name": "Tomato_Early_blight_leaf",
+      "f1": 0.3529411764705882,
+      "label_id": 17,
+      "precision": 0.75,
+      "recall": 0.23076923076923078,
+      "support": 13
+    },
+    {
+      "class_name": "Tomato_Septoria_leaf_spot",
+      "f1": 0.5531914893617021,
+      "label_id": 18,
+      "precision": 0.5416666666666666,
+      "recall": 0.5652173913043478,
+      "support": 23
+    },
+    {
+      "class_name": "Tomato_leaf",
+      "f1": 0.4,
+      "label_id": 19,
+      "precision": 0.29411764705882354,
+      "recall": 0.625,
+      "support": 8
+    },
+    {
+      "class_name": "Tomato_leaf_bacterial_spot",
+      "f1": 0.1935483870967742,
+      "label_id": 20,
+      "precision": 0.21428571428571427,
+      "recall": 0.17647058823529413,
+      "support": 17
+    },
+    {
+      "class_name": "Tomato_leaf_late_blight",
+      "f1": 0.5,
+      "label_id": 21,
+      "precision": 0.45,
+      "recall": 0.5625,
+      "support": 16
+    },
+    {
+      "class_name": "Tomato_leaf_mosaic_virus",
+      "f1": 0.30769230769230765,
+      "label_id": 22,
+      "precision": 0.2222222222222222,
+      "recall": 0.5,
+      "support": 8
+    },
+    {
+      "class_name": "Tomato_leaf_yellow_virus",
+      "f1": 0.6749999999999999,
+      "label_id": 23,
+      "precision": 0.6136363636363636,
+      "recall": 0.75,
+      "support": 36
+    },
+    {
+      "class_name": "Tomato_mold_leaf",
+      "f1": 0.36363636363636365,
+      "label_id": 24,
+      "precision": 0.5,
+      "recall": 0.2857142857142857,
+      "support": 14
+    },
+    {
+      "class_name": "grape_leaf",
+      "f1": 0.5263157894736842,
+      "label_id": 25,
+      "precision": 0.625,
+      "recall": 0.45454545454545453,
+      "support": 11
+    },
+    {
+      "class_name": "grape_leaf_black_rot",
+      "f1": 0.5,
+      "label_id": 26,
+      "precision": 0.625,
+      "recall": 0.4166666666666667,
+      "support": 12
+    }
+  ],
+  "labels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ]
+}

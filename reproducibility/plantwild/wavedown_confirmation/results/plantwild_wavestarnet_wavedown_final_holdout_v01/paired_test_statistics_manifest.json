@@ -1,0 +1,15 @@
+{
+  "analysis_type": "post_selection_test_set_confirmation",
+  "bootstrap_method": "10,000 class-stratified paired image-level resamples averaged across matching seeds",
+  "checkpoints_loaded": false,
+  "comparison": "full_wavestarnet_minus_parameter_matched_conventional_downsampling",
+  "holm_family": "Accuracy and Macro-F1 only",
+  "paired_test": "10,000 sample-wise paired label-swap randomization resamples averaged across matching seeds",
+  "primary_metrics": [
+    "accuracy",
+    "macro_f1"
+  ],
+  "random_seed": 20260915,
+  "test_images_loaded": false,
+  "test_manifest_sha256": "83395b392417e6d1a6036bd19b2555600ea8fb4b36fa7075c6da294294c16748"
+}

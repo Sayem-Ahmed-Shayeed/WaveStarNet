@@ -1,0 +1,8 @@
+{
+  "checkpoint_count": 15,
+  "completed_at": "2026-09-08T21:15:45.438990+00:00",
+  "evaluation_id": "agrivision4_scratch_research_v2_final_holdout_v1",
+  "model_count": 5,
+  "seed_count": 3,
+  "status": "complete"
+}

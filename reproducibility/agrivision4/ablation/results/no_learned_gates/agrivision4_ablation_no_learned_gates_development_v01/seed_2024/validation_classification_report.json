@@ -1,0 +1,195 @@
+{
+  "classes": [
+    {
+      "class_name": "Bottle_Gourd__Alternaria_Leaf_Blight",
+      "f1": 0.7142857142857143,
+      "label_id": 0,
+      "precision": 0.6716417910447762,
+      "recall": 0.7627118644067796,
+      "support": 59
+    },
+    {
+      "class_name": "Bottle_Gourd__Anthracnose",
+      "f1": 0.7073170731707317,
+      "label_id": 1,
+      "precision": 0.90625,
+      "recall": 0.58,
+      "support": 50
+    },
+    {
+      "class_name": "Bottle_Gourd__Downy_Mildew",
+      "f1": 0.7387387387387386,
+      "label_id": 2,
+      "precision": 0.8913043478260869,
+      "recall": 0.6307692307692307,
+      "support": 65
+    },
+    {
+      "class_name": "Bottle_Gourd__Early_Alternaria_Leaf_Blight",
+      "f1": 0.5263157894736842,
+      "label_id": 3,
+      "precision": 0.43103448275862066,
+      "recall": 0.6756756756756757,
+      "support": 37
+    },
+    {
+      "class_name": "Bottle_Gourd__Fungal_Damage_Leaf",
+      "f1": 0.23529411764705882,
+      "label_id": 4,
+      "precision": 0.25,
+      "recall": 0.2222222222222222,
+      "support": 9
+    },
+    {
+      "class_name": "Bottle_Gourd__Healthy",
+      "f1": 0.7863247863247863,
+      "label_id": 5,
+      "precision": 0.7666666666666667,
+      "recall": 0.8070175438596491,
+      "support": 57
+    },
+    {
+      "class_name": "Bottle_Gourd__Mosaic_Virus",
+      "f1": 0.8823529411764706,
+      "label_id": 6,
+      "precision": 0.8955223880597015,
+      "recall": 0.8695652173913043,
+      "support": 69
+    },
+    {
+      "class_name": "Papaya__Bacterial_Blight",
+      "f1": 0.43137254901960786,
+      "label_id": 7,
+      "precision": 0.55,
+      "recall": 0.3548387096774194,
+      "support": 31
+    },
+    {
+      "class_name": "Papaya__Carica_Insect_Hole",
+      "f1": 0.5801526717557252,
+      "label_id": 8,
+      "precision": 0.6440677966101694,
+      "recall": 0.5277777777777778,
+      "support": 72
+    },
+    {
+      "class_name": "Papaya__Curled_Yellow_Spot",
+      "f1": 0.782122905027933,
+      "label_id": 9,
+      "precision": 0.8536585365853658,
+      "recall": 0.7216494845360825,
+      "support": 97
+    },
+    {
+      "class_name": "Papaya__Mosaic_Virus",
+      "f1": 0.43478260869565216,
+      "label_id": 10,
+      "precision": 0.4,
+      "recall": 0.47619047619047616,
+      "support": 21
+    },
+    {
+      "class_name": "Papaya__Yellow_Necrotic_Spots_Holes",
+      "f1": 0.5945945945945945,
+      "label_id": 11,
+      "precision": 0.44,
+      "recall": 0.9166666666666666,
+      "support": 12
+    },
+    {
+      "class_name": "Papaya__healthy_leaf",
+      "f1": 0.5950413223140496,
+      "label_id": 12,
+      "precision": 0.4675324675324675,
+      "recall": 0.8181818181818182,
+      "support": 44
+    },
+    {
+      "class_name": "Papaya__pathogen_symptoms",
+      "f1": 0.578125,
+      "label_id": 13,
+      "precision": 0.5967741935483871,
+      "recall": 0.5606060606060606,
+      "support": 66
+    },
+    {
+      "class_name": "Tomato__Downy_Mildew",
+      "f1": 0.5833333333333334,
+      "label_id": 14,
+      "precision": 0.6363636363636364,
+      "recall": 0.5384615384615384,
+      "support": 13
+    },
+    {
+      "class_name": "Tomato__Healthy",
+      "f1": 0.864406779661017,
+      "label_id": 15,
+      "precision": 0.85,
+      "recall": 0.8793103448275862,
+      "support": 58
+    },
+    {
+      "class_name": "Tomato__Mosaic",
+      "f1": 0.5842696629213482,
+      "label_id": 16,
+      "precision": 0.5909090909090909,
+      "recall": 0.5777777777777777,
+      "support": 45
+    },
+    {
+      "class_name": "Tomato__Spot",
+      "f1": 0.793103448275862,
+      "label_id": 17,
+      "precision": 0.7666666666666667,
+      "recall": 0.8214285714285714,
+      "support": 56
+    },
+    {
+      "class_name": "Tomato__white_spot",
+      "f1": 0.4615384615384615,
+      "label_id": 18,
+      "precision": 0.5454545454545454,
+      "recall": 0.4,
+      "support": 15
+    },
+    {
+      "class_name": "Zucchini__Downy_Midew",
+      "f1": 0.7777777777777778,
+      "label_id": 19,
+      "precision": 0.6363636363636364,
+      "recall": 1.0,
+      "support": 7
+    },
+    {
+      "class_name": "Zucchini__Yellow_Mosaic_Virus",
+      "f1": 0.967741935483871,
+      "label_id": 20,
+      "precision": 1.0,
+      "recall": 0.9375,
+      "support": 32
+    }
+  ],
+  "labels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ]
+}

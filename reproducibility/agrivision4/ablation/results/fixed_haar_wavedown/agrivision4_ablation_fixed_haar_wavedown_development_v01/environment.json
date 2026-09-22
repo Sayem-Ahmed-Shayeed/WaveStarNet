@@ -1,0 +1,12 @@
+{
+  "cuda_runtime": "12.8",
+  "cudnn": 91002,
+  "deterministic_algorithms": false,
+  "device": "cuda",
+  "gpu": "Tesla T4",
+  "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+  "python": "3.12.13",
+  "timm": "1.0.26",
+  "torch": "2.10.0+cu128",
+  "torchvision": "0.25.0+cu128"
+}

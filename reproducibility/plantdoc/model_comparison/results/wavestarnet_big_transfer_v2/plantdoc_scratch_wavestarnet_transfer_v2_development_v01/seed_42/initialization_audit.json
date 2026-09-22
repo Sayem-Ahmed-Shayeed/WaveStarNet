@@ -1,0 +1,11 @@
+{
+  "architecture_sha256": "2de099bf95d027002ea4164c49b475046d5aa8349d16b2e690562362c4e61612",
+  "backbone_schema_sha256": "f642f9b1eb6ca21454566ae81d7bc76782bed77e9210b4c4edaa32c63596bf94",
+  "checkpoint_loaded": false,
+  "display_name": "WavestarNet-Big-Transfer-V2",
+  "initialization": "random",
+  "model_key": "wavestarnet_big_transfer_v2",
+  "parameters": 2960615,
+  "pretrained": false,
+  "teacher_loaded": false
+}

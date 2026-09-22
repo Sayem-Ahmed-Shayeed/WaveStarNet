@@ -1,0 +1,19 @@
+{
+  "accuracy": 0.45348837209302323,
+  "balanced_accuracy": 0.43273672511914235,
+  "brier": 0.7104873687483647,
+  "checkpoint_sha256": "15faf917bba6a860b8be16b89c384cf887d863eef9f250f9bcd2b65fc29dda54",
+  "display_name": "MobileViT-S",
+  "ece_15bin": 0.14018495769001718,
+  "macro_f1": 0.4171673431559523,
+  "macro_precision": 0.43005391425326067,
+  "macro_recall": 0.43273672511914235,
+  "model_key": "mobilevit_s",
+  "nll": 1.9487469177276457,
+  "parameters": 4954939,
+  "runtime_seconds": 30.657773899001768,
+  "seed": 3407,
+  "weighted_f1": 0.44600848471560745,
+  "weighted_precision": 0.4614303063557509,
+  "weighted_recall": 0.45348837209302323
+}

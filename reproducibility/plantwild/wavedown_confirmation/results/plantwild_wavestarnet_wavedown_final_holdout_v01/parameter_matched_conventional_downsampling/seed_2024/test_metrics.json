@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.5160866710439921,
+  "balanced_accuracy": 0.4473715704894885,
+  "brier": 0.6390107113842629,
+  "checkpoint_sha256": "5225c1186c29b32eb404e31c38bb833d47eac43969372463f68c242e48e22e97",
+  "display_name": "WavestarNet (parameter-matched conventional downsampling)",
+  "ece_15bin": 0.04243386108293709,
+  "macro_f1": 0.43726089926578515,
+  "nll": 2.2110039781092534,
+  "parameters": 3012029,
+  "runtime_seconds": 63.064784552999754,
+  "seed": 2024,
+  "variant": "parameter_matched_conventional_downsampling",
+  "weighted_f1": 0.5062950762970495
+}

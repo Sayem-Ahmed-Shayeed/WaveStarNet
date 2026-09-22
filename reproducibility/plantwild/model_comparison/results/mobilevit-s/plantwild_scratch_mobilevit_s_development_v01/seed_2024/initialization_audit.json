@@ -1,0 +1,11 @@
+{
+  "architecture_sha256": "f494a94b37ea4aed7d998e17a2b54df84b1ff6e175934d7c07fc8aaf555acadb",
+  "backbone_schema_sha256": null,
+  "checkpoint_loaded": false,
+  "display_name": "MobileViT-S",
+  "initialization": "random",
+  "model_key": "mobilevit_s",
+  "parameters": 5004937,
+  "pretrained": false,
+  "teacher_loaded": false
+}

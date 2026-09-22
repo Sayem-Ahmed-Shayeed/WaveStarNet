@@ -1,0 +1,40 @@
+{
+  "active_split_counts": {
+    "train": 1810,
+    "validation": 915
+  },
+  "class_names": [
+    "Bottle_Gourd__Alternaria_Leaf_Blight",
+    "Bottle_Gourd__Anthracnose",
+    "Bottle_Gourd__Downy_Mildew",
+    "Bottle_Gourd__Early_Alternaria_Leaf_Blight",
+    "Bottle_Gourd__Fungal_Damage_Leaf",
+    "Bottle_Gourd__Healthy",
+    "Bottle_Gourd__Mosaic_Virus",
+    "Papaya__Bacterial_Blight",
+    "Papaya__Carica_Insect_Hole",
+    "Papaya__Curled_Yellow_Spot",
+    "Papaya__Mosaic_Virus",
+    "Papaya__Yellow_Necrotic_Spots_Holes",
+    "Papaya__healthy_leaf",
+    "Papaya__pathogen_symptoms",
+    "Tomato__Downy_Mildew",
+    "Tomato__Healthy",
+    "Tomato__Mosaic",
+    "Tomato__Spot",
+    "Tomato__white_spot",
+    "Zucchini__Downy_Midew",
+    "Zucchini__Yellow_Mosaic_Virus"
+  ],
+  "dataset_id": "sayemahmedshayeed/agrivision4-clean-grouped-research-v2",
+  "development_split_counts": {
+    "train": 1810,
+    "validation": 915
+  },
+  "image_dataset_id": "sumitnath07/agrivision4-clean-grouped-v1",
+  "manifest_sha256": {
+    "class_mapping": "bc9f0fbb6a2e7bc24ffb01910207edfc764066c7316376588625b3b004536e18",
+    "train": "255477b324d5d868072b61f47715f63dbcdaea7c66a5ad5f2cb17e35840c05b2",
+    "validation": "3d3f6d0764767178aa1701a12b9493ec10b7e8bbc38a28d3ba9f066083c8473a"
+  }
+}

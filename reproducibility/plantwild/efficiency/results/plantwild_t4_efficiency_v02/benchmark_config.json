@@ -1,0 +1,21 @@
+{
+  "cpu_measurement_iterations": 50,
+  "cpu_threads": 4,
+  "cpu_warmup_iterations": 10,
+  "fail_on_error": true,
+  "gpu_batch_sizes": [
+    1,
+    32
+  ],
+  "gpu_measurement_iterations": 500,
+  "gpu_precisions": [
+    "fp32",
+    "fp16"
+  ],
+  "gpu_warmup_iterations": 50,
+  "input_resolution": 224,
+  "num_classes": 105,
+  "protocol_id": "plantwild_model_only_t4_efficiency_v1",
+  "require_t4": true,
+  "run_cpu": true
+}

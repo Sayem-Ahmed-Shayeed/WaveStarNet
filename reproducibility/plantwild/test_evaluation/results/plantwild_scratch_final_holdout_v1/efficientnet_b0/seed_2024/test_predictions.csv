@@ -1,0 +1,1524 @@
+sample_id,component_id,label,label_id,prediction,correct,confidence
+plantwild_000004,cmp_0df6145d8feadf14,apple black rot,0,81,False,0.32159498
+plantwild_000005,cmp_0f757fc69ccc9746,apple black rot,0,88,False,0.22941893
+plantwild_000006,cmp_155f8b40ad717991,apple black rot,0,62,False,0.51567936
+plantwild_000017,cmp_2f7308d71b343523,apple black rot,0,3,False,0.5819874
+plantwild_000018,cmp_3051dd2fd23627f4,apple black rot,0,77,False,0.21490063
+plantwild_000024,cmp_4784bc8f2668a1f7,apple black rot,0,3,False,0.9592269
+plantwild_000028,cmp_57c6bf0a7188d84d,apple black rot,0,0,True,0.90869856
+plantwild_000040,cmp_78a56f52620fe020,apple black rot,0,70,False,0.4494521
+plantwild_000055,cmp_9fa6e4c66fc8fb2c,apple black rot,0,43,False,0.4622812
+plantwild_000059,cmp_aa821979cc4112b3,apple black rot,0,0,True,0.7285205
+plantwild_000067,cmp_d2a286043ad3f13a,apple black rot,0,60,False,0.222573
+plantwild_000071,cmp_e7f4b871acc52614,apple black rot,0,55,False,0.15448
+plantwild_000082,cmp_00ce7d749656d8ae,apple mosaic virus,1,63,False,0.36161122
+plantwild_000084,cmp_07ec96651865e45a,apple mosaic virus,1,97,False,0.36068475
+plantwild_000090,cmp_24ed073f1c2c1c1d,apple mosaic virus,1,78,False,0.7571463
+plantwild_000093,cmp_2d6eab3c8eb53ec6,apple mosaic virus,1,1,True,0.61029375
+plantwild_000104,cmp_5a662492e5f1a34a,apple mosaic virus,1,1,True,0.8086481
+plantwild_000110,cmp_5faf13e1c1e7a88f,apple mosaic virus,1,91,False,0.27926123
+plantwild_000117,cmp_6a5d1dac672972d8,apple mosaic virus,1,16,False,0.5898591
+plantwild_000134,cmp_9b2869eeca4aadaf,apple mosaic virus,1,104,False,0.15907486
+plantwild_000142,cmp_ab67e90938f079ea,apple mosaic virus,1,85,False,0.18524374
+plantwild_000143,cmp_b04bbaac8fcad347,apple mosaic virus,1,1,True,0.38726845
+plantwild_000149,cmp_c5ae45f6a3cdc0c3,apple mosaic virus,1,97,False,0.44325143
+plantwild_000153,cmp_d6c825c9337d1b8d,apple mosaic virus,1,1,True,0.72619313
+plantwild_000157,cmp_e4f22761206c0da7,apple mosaic virus,1,44,False,0.35270458
+plantwild_000173,cmp_1312771ea5ab32fd,apple rust,2,38,False,0.21595407
+plantwild_000185,cmp_274cb2353dd617da,apple rust,2,35,False,0.7781036
+plantwild_000186,cmp_29bb1352c078b872,apple rust,2,79,False,0.88721234
+plantwild_000187,cmp_2ddd3e78362bdcc6,apple rust,2,38,False,0.15048862
+plantwild_000190,cmp_3e3cde4c851bff60,apple rust,2,80,False,0.1628563
+plantwild_000205,cmp_4c94e3609b697ea3,apple rust,2,88,False,0.7958487
+plantwild_000210,cmp_50d86df0b564dfb9,apple rust,2,2,True,0.4447388
+plantwild_000225,cmp_6c31284ef474dbd7,apple rust,2,25,False,0.5991698
+plantwild_000226,cmp_6cdf0bdf32bc93ce,apple rust,2,57,False,0.7121618
+plantwild_000230,cmp_79e9f3b8ddc79dd3,apple rust,2,35,False,0.43561015
+plantwild_000233,cmp_9044a32adbf767a0,apple rust,2,80,False,0.25080842
+plantwild_000235,cmp_939ecc07bec30e64,apple rust,2,38,False,0.9003108
+plantwild_000244,cmp_9cc0980032a5622a,apple rust,2,2,True,0.7505925
+plantwild_000260,cmp_b030f6e7f2ee0fb9,apple rust,2,3,False,0.4285493
+plantwild_000279,cmp_d22f34698d99e9cb,apple rust,2,86,False,0.27752197
+plantwild_000287,cmp_e0f3178dbab17849,apple rust,2,0,False,0.2432064
+plantwild_000292,cmp_edb4bf450a082717,apple rust,2,35,False,0.4528543
+plantwild_000294,cmp_f0dd8cae113f6088,apple rust,2,2,True,0.60586935
+plantwild_000295,cmp_f1598648ac88c554,apple rust,2,71,False,0.46493664
+plantwild_000297,cmp_fb531e2d805bcf41,apple rust,2,2,True,0.16044013
+plantwild_000307,cmp_03cfc3255ea87207,apple scab,3,3,True,0.30724218
+plantwild_000309,cmp_05cff5cdd6820334,apple scab,3,35,False,0.5133595
+plantwild_000313,cmp_08472dd2a6df2b0a,apple scab,3,76,False,0.10710891
+plantwild_000314,cmp_0859aa6d027f7b29,apple scab,3,35,False,0.27311343
+plantwild_000320,cmp_0fe761b7ad8ce804,apple scab,3,88,False,0.3685986
+plantwild_000331,cmp_15d08ac980672902,apple scab,3,3,True,0.952729
+plantwild_000332,cmp_17598cda9a3c7ab3,apple scab,3,20,False,0.3035559
+plantwild_000340,cmp_2008fc080e64883e,apple scab,3,63,False,0.40442792
+plantwild_000362,cmp_3547a41f7fe4c0c1,apple scab,3,88,False,0.5358536
+plantwild_000364,cmp_36e15e8ef935c27c,apple scab,3,3,True,0.58696014
+plantwild_000369,cmp_3e0a4acb0bb15028,apple scab,3,68,False,0.86643517
+plantwild_000371,cmp_41c07a101d66b5e9,apple scab,3,81,False,0.9716139
+plantwild_000378,cmp_4a3b0d72463b397a,apple scab,3,54,False,0.4648092
+plantwild_000379,cmp_4a9b43cad01393a6,apple scab,3,68,False,0.21238907
+plantwild_000395,cmp_551ee1ecb23921ca,apple scab,3,4,False,0.25747192
+plantwild_000397,cmp_57050bb438b0b858,apple scab,3,62,False,0.40493226
+plantwild_000398,cmp_5722b1c787985d57,apple scab,3,45,False,0.26309043
+plantwild_000400,cmp_59be3ff45ba1756d,apple scab,3,88,False,0.29906145
+plantwild_000401,cmp_5abdb0b3f2e03830,apple scab,3,3,True,0.7779809
+plantwild_000404,cmp_62d04405d5f3c855,apple scab,3,15,False,0.1672814
+plantwild_000417,cmp_727a054dfc402948,apple scab,3,3,True,0.38530308
+plantwild_000421,cmp_7674ec48ed5745a7,apple scab,3,47,False,0.11897806
+plantwild_000437,cmp_85aa5c2863df688d,apple scab,3,37,False,0.2881133
+plantwild_000451,cmp_90a4f63959ad9b46,apple scab,3,77,False,0.27166495
+plantwild_000453,cmp_927d8aaea904701c,apple scab,3,3,True,0.5317224
+plantwild_000456,cmp_9488dda7782f0ab5,apple scab,3,33,False,0.61752254
+plantwild_000461,cmp_9ebe8604fbb4c5f2,apple scab,3,55,False,0.16365898
+plantwild_000470,cmp_ac51ce64ee433d6a,apple scab,3,3,True,0.9359007
+plantwild_000485,cmp_bbaae5453b19f3e5,apple scab,3,77,False,0.2986673
+plantwild_000489,cmp_bce09b5cc1ea8a2f,apple scab,3,36,False,0.18082586
+plantwild_000497,cmp_c45a7b482d4fa830,apple scab,3,77,False,0.36389554
+plantwild_000510,cmp_d252eb6a5e829be8,apple scab,3,3,True,0.120785385
+plantwild_000515,cmp_d6c22d957eacab85,apple scab,3,2,False,0.24792814
+plantwild_000520,cmp_d840f6290e6f2592,apple scab,3,3,True,0.9293417
+plantwild_000528,cmp_e145bee6aa13b091,apple scab,3,35,False,0.41001895
+plantwild_000532,cmp_e62c44c8a5d0a020,apple scab,3,5,False,0.124010235
+plantwild_000546,cmp_f8d281a21c18232d,apple scab,3,3,True,0.9545369
+plantwild_000548,cmp_fa5dfc9633738122,apple scab,3,3,True,0.92736757
+plantwild_000564,cmp_1c50790f444f2e53,banana anthracnose,4,17,False,0.8440881
+plantwild_000580,cmp_5ca3708d4ed15a7f,banana anthracnose,4,18,False,0.12629955
+plantwild_000590,cmp_a00da0eebf8dd2b8,banana anthracnose,4,35,False,0.13699065
+plantwild_000596,cmp_a6e500c3dd0aec79,banana anthracnose,4,4,True,0.77845794
+plantwild_000597,cmp_a7adc87f0a235863,banana anthracnose,4,7,False,0.97193706
+plantwild_000605,cmp_b90715754adda6a6,banana anthracnose,4,47,False,0.36525705
+plantwild_000608,cmp_c7453f38f67f0d6f,banana anthracnose,4,28,False,0.22919604
+plantwild_000609,cmp_c7b6ff26d1859601,banana anthracnose,4,86,False,0.122188516
+plantwild_000612,cmp_d91d9f0857eb6abd,banana anthracnose,4,4,True,0.97319204
+plantwild_000619,cmp_ebc652972ce7a0b1,banana anthracnose,4,17,False,0.71240693
+plantwild_000626,cmp_02a43f2fb167c468,banana black leaf streak,5,5,True,0.9790495
+plantwild_000637,cmp_208b517247c4a652,banana black leaf streak,5,5,True,0.42200264
+plantwild_000639,cmp_229af34ab0e6af74,banana black leaf streak,5,103,False,0.15555589
+plantwild_000644,cmp_2d8c789d2a77989f,banana black leaf streak,5,5,True,0.3889054
+plantwild_000649,cmp_352faab2b22c0d82,banana black leaf streak,5,5,True,0.20824303
+plantwild_000655,cmp_3ee2b300e9ad9cd1,banana black leaf streak,5,91,False,0.2215071
+plantwild_000660,cmp_4b802d386c6d359e,banana black leaf streak,5,5,True,0.23968767
+plantwild_000661,cmp_4bd20e652760aa9f,banana black leaf streak,5,5,True,0.8074059
+plantwild_000670,cmp_615cd91f016c5643,banana black leaf streak,5,9,False,0.9498916
+plantwild_000674,cmp_67b05b555d2826fd,banana black leaf streak,5,84,False,0.20005502
+plantwild_000694,cmp_8dcfbb0161c710bd,banana black leaf streak,5,5,True,0.19108625
+plantwild_000695,cmp_8e28f90051cfc16f,banana black leaf streak,5,5,True,0.75631905
+plantwild_000705,cmp_96f5dd51b0a426cf,banana black leaf streak,5,9,False,0.2168543
+plantwild_000707,cmp_9b5dadf0816471ca,banana black leaf streak,5,5,True,0.8369603
+plantwild_000710,cmp_9ff1364793c80a73,banana black leaf streak,5,5,True,0.38949513
+plantwild_000711,cmp_a0a0cd9a70aaf002,banana black leaf streak,5,5,True,0.47947255
+plantwild_000717,cmp_aca8fd98745379f0,banana black leaf streak,5,5,True,0.8898143
+plantwild_000725,cmp_b8515ba79439d51c,banana black leaf streak,5,4,False,0.65754724
+plantwild_000741,cmp_d3c351cefa83155a,banana black leaf streak,5,5,True,0.708822
+plantwild_000747,cmp_de85018298ea390e,banana black leaf streak,5,5,True,0.68255275
+plantwild_000759,cmp_ebefe3ec865673cd,banana black leaf streak,5,5,True,0.99500436
+plantwild_000784,cmp_240c604e22937bb5,banana bunchy top,6,64,False,0.32987422
+plantwild_000787,cmp_2b10d9d55b724a2c,banana bunchy top,6,6,True,0.89489365
+plantwild_000788,cmp_2c5cfc151bb112f2,banana bunchy top,6,6,True,0.7749844
+plantwild_000791,cmp_301eebc7f9c8e286,banana bunchy top,6,6,True,0.92455626
+plantwild_000795,cmp_33ceef263a39f53f,banana bunchy top,6,6,True,0.8807247
+plantwild_000799,cmp_428157ffc9b2237f,banana bunchy top,6,6,True,0.9925085
+plantwild_000800,cmp_43f32ce19636e0c8,banana bunchy top,6,6,True,0.7917122
+plantwild_000801,cmp_44a56d9132ad4703,banana bunchy top,6,6,True,0.99324834
+plantwild_000802,cmp_4502b68f5631d60f,banana bunchy top,6,64,False,0.29954067
+plantwild_000806,cmp_4ad46e40c329ba0c,banana bunchy top,6,6,True,0.63921255
+plantwild_000814,cmp_5ab8615afb18d344,banana bunchy top,6,6,True,0.99761605
+plantwild_000823,cmp_6cfcb9ef8b7ba7b7,banana bunchy top,6,6,True,0.59337735
+plantwild_000824,cmp_6fdf7b7ef47150d4,banana bunchy top,6,6,True,0.90999335
+plantwild_000828,cmp_76a0a91beed1158c,banana bunchy top,6,6,True,0.5879892
+plantwild_000853,cmp_a82defb6858ddd28,banana bunchy top,6,6,True,0.80978405
+plantwild_000860,cmp_b3713d905aa6f84f,banana bunchy top,6,6,True,0.4594093
+plantwild_000864,cmp_bfa167401155d5a5,banana bunchy top,6,6,True,0.44488442
+plantwild_000865,cmp_c15ff751026e1250,banana bunchy top,6,6,True,0.69213307
+plantwild_000892,cmp_ee579edacf1fdb9b,banana bunchy top,6,6,True,0.6203044
+plantwild_000899,cmp_fb3c6ad8f588a8c9,banana bunchy top,6,54,False,0.3875605
+plantwild_000901,cmp_0123c7f7052ea15c,banana cigar end rot,7,54,False,0.12598766
+plantwild_000903,cmp_0180e1ec2bf13413,banana cigar end rot,7,35,False,0.3951117
+plantwild_000905,cmp_14c3a4e15486a4d0,banana cigar end rot,7,7,True,0.7008568
+plantwild_000909,cmp_29bb205e46218604,banana cigar end rot,7,28,False,0.10176318
+plantwild_000923,cmp_7abd3c269e8ef275,banana cigar end rot,7,88,False,0.21820556
+plantwild_000935,cmp_adfd1f971a648837,banana cigar end rot,7,7,True,0.40344813
+plantwild_000936,cmp_b528d1dfe417f84b,banana cigar end rot,7,4,False,0.9520993
+plantwild_000951,cmp_f29adc2237e1d24c,banana cigar end rot,7,96,False,0.53982395
+plantwild_000978,cmp_717d3b6eb54a07d4,banana cordana leaf spot,8,59,False,0.8088321
+plantwild_000987,cmp_a1c89a9cb041be96,banana cordana leaf spot,8,8,True,0.93663764
+plantwild_000988,cmp_a29c9970d62c32aa,banana cordana leaf spot,8,8,True,0.91365355
+plantwild_000990,cmp_b16bfff1607f22b9,banana cordana leaf spot,8,8,True,0.547375
+plantwild_000994,cmp_b7de008e9cf2a9ba,banana cordana leaf spot,8,8,True,0.7803959
+plantwild_001003,cmp_ec0b418fbc51923d,banana cordana leaf spot,8,40,False,0.1795582
+plantwild_001005,cmp_f3cfc87b58b7287b,banana cordana leaf spot,8,8,True,0.9859359
+plantwild_001010,cmp_193aea5c0bf6ef2a,banana panama disease,9,9,True,0.43458405
+plantwild_001020,cmp_57dab2f9d080db21,banana panama disease,9,5,False,0.17432465
+plantwild_001021,cmp_59e7829f9991a335,banana panama disease,9,96,False,0.5636763
+plantwild_001032,cmp_7fc19c2a57939bea,banana panama disease,9,9,True,0.30039093
+plantwild_001036,cmp_85c1e2c1d6406396,banana panama disease,9,94,False,0.21342765
+plantwild_001043,cmp_9b9754f6c4e039d0,banana panama disease,9,42,False,0.38233012
+plantwild_001050,cmp_cae70326e068c982,banana panama disease,9,6,False,0.93443334
+plantwild_001053,cmp_d5392967a93b0e87,banana panama disease,9,31,False,0.15708724
+plantwild_001056,cmp_dc2b5cbe62633be5,banana panama disease,9,88,False,0.3739354
+plantwild_001070,cmp_0f2d35c5afc65df0,basil downy mildew,10,85,False,0.23800084
+plantwild_001075,cmp_1af5d53947ac3cda,basil downy mildew,10,10,True,0.16584568
+plantwild_001078,cmp_22ebf20cda2fda49,basil downy mildew,10,4,False,0.12774496
+plantwild_001081,cmp_33bec49095e4f402,basil downy mildew,10,61,False,0.18110587
+plantwild_001089,cmp_5bb72fcd60a108d5,basil downy mildew,10,16,False,0.14817826
+plantwild_001093,cmp_5fbd89b511077fa7,basil downy mildew,10,10,True,0.4190786
+plantwild_001099,cmp_7d5bfb66f957f76e,basil downy mildew,10,88,False,0.60169995
+plantwild_001109,cmp_a548e331536324d0,basil downy mildew,10,89,False,0.21250044
+plantwild_001117,cmp_bb86c0dfa3e18c15,basil downy mildew,10,10,True,0.15818243
+plantwild_001130,cmp_03c051570cea6905,bean halo blight,11,67,False,0.42568693
+plantwild_001131,cmp_073ce7f338600a10,bean halo blight,11,67,False,0.45736948
+plantwild_001134,cmp_0b678c237d834708,bean halo blight,11,104,False,0.35348457
+plantwild_001151,cmp_6266776da93f3a95,bean halo blight,11,79,False,0.4720042
+plantwild_001164,cmp_a14f48ed569bbd33,bean halo blight,11,68,False,0.6756826
+plantwild_001168,cmp_b645bf3e5639268a,bean halo blight,11,55,False,0.30143362
+plantwild_001169,cmp_bbc1a7cd01b20510,bean halo blight,11,24,False,0.24286532
+plantwild_001181,cmp_f8e44d5da9798987,bean halo blight,11,104,False,0.31414637
+plantwild_001202,cmp_52072f932ca15c42,bean mosaic virus,12,86,False,0.70721054
+plantwild_001205,cmp_59bbabe821e37ade,bean mosaic virus,12,79,False,0.9096518
+plantwild_001208,cmp_62923cb91ef81082,bean mosaic virus,12,76,False,0.11289669
+plantwild_001214,cmp_7a24fed5e4bfe03e,bean mosaic virus,12,88,False,0.13498954
+plantwild_001222,cmp_9196d20485f94709,bean mosaic virus,12,12,True,0.9462682
+plantwild_001226,cmp_b0c19329defe6741,bean mosaic virus,12,79,False,0.1935123
+plantwild_001231,cmp_d8baea8d5559c781,bean mosaic virus,12,78,False,0.57772
+plantwild_001232,cmp_dab42b142f7e4e6b,bean mosaic virus,12,43,False,0.8496313
+plantwild_001243,cmp_0e7ace10fb474975,bean rust,13,41,False,0.94005954
+plantwild_001245,cmp_1203fa6389886bb8,bean rust,13,77,False,0.37473124
+plantwild_001269,cmp_42d2a5cddd0c1ddd,bean rust,13,76,False,0.46538436
+plantwild_001270,cmp_44838c53c4429755,bean rust,13,79,False,0.6474574
+plantwild_001273,cmp_4848e3a76e559735,bean rust,13,76,False,0.22082825
+plantwild_001292,cmp_71d39f7a705caf15,bean rust,13,11,False,0.2412208
+plantwild_001299,cmp_808fa3ec436b7a59,bean rust,13,77,False,0.24232763
+plantwild_001301,cmp_863d7b4279bd1608,bean rust,13,1,False,0.27313557
+plantwild_001308,cmp_8d02b025abf06eb0,bean rust,13,79,False,0.9596618
+plantwild_001310,cmp_9214a2f3f99e1a02,bean rust,13,33,False,0.39952564
+plantwild_001313,cmp_971681b4c10dac77,bean rust,13,44,False,0.79311067
+plantwild_001315,cmp_991fbe462081e430,bean rust,13,13,True,0.6136211
+plantwild_001320,cmp_9fa1e9ff508a0f85,bean rust,13,13,True,0.24555975
+plantwild_001332,cmp_c6ed54b6bed20dbf,bean rust,13,39,False,0.15000743
+plantwild_001337,cmp_d7d8cc0ee4912ca5,bean rust,13,2,False,0.4016565
+plantwild_001347,cmp_ff61485b1b060306,bean rust,13,83,False,0.24305089
+plantwild_001355,cmp_229cfe5738041e15,bell pepper bacterial spot,14,14,True,0.8925767
+plantwild_001366,cmp_4ab08005b3c2eaf9,bell pepper bacterial spot,14,33,False,0.51128995
+plantwild_001367,cmp_4b26c135ea12f0d7,bell pepper bacterial spot,14,97,False,0.18441255
+plantwild_001368,cmp_4e60e8117ec0c068,bell pepper bacterial spot,14,15,False,0.7432502
+plantwild_001369,cmp_5559e594553c9cd7,bell pepper bacterial spot,14,28,False,0.23102684
+plantwild_001371,cmp_5ce6024dfc1d77fb,bell pepper bacterial spot,14,87,False,0.21181242
+plantwild_001372,cmp_634707faf5dca872,bell pepper bacterial spot,14,91,False,0.30868262
+plantwild_001393,cmp_d49a6c634375dd31,bell pepper bacterial spot,14,62,False,0.33450195
+plantwild_001405,cmp_f8a79d98803dfda6,bell pepper bacterial spot,14,2,False,0.56086546
+plantwild_001412,cmp_02a9f4ceccdc33ac,bell pepper blossom end rot,15,4,False,0.19596125
+plantwild_001415,cmp_0b9f7d40edb35958,bell pepper blossom end rot,15,15,True,0.9416038
+plantwild_001420,cmp_1867f39a1ac581ad,bell pepper blossom end rot,15,87,False,0.15321547
+plantwild_001430,cmp_362548946218cd77,bell pepper blossom end rot,15,53,False,0.14685611
+plantwild_001440,cmp_4b4333459ec88c50,bell pepper blossom end rot,15,36,False,0.5649432
+plantwild_001444,cmp_50b5a13e07fd37c1,bell pepper blossom end rot,15,54,False,0.08119059
+plantwild_001458,cmp_8282feb34d60528a,bell pepper blossom end rot,15,15,True,0.19160616
+plantwild_001463,cmp_8c53e5ccca31a4aa,bell pepper blossom end rot,15,15,True,0.4554263
+plantwild_001465,cmp_90b700af223afad8,bell pepper blossom end rot,15,15,True,0.95111114
+plantwild_001468,cmp_95aad8b6ceb8b1e4,bell pepper blossom end rot,15,15,True,0.46041295
+plantwild_001478,cmp_b1eb819dac01339d,bell pepper blossom end rot,15,15,True,0.81141675
+plantwild_001489,cmp_da86e2463372b1da,bell pepper blossom end rot,15,99,False,0.14410888
+plantwild_001495,cmp_e67fde49f23a3e12,bell pepper blossom end rot,15,86,False,0.3197323
+plantwild_001500,cmp_ee4fe78d581fa42f,bell pepper blossom end rot,15,15,True,0.56929594
+plantwild_001502,cmp_f25c70acc3e16831,bell pepper blossom end rot,15,15,True,0.0933033
+plantwild_001510,cmp_2461c5a932ec1120,bell pepper powdery mildew,16,6,False,0.30890608
+plantwild_001526,cmp_cf7cc18130ac3fe7,bell pepper powdery mildew,16,61,False,0.262094
+plantwild_001529,cmp_ead9842a83682314,bell pepper powdery mildew,16,10,False,0.46791556
+plantwild_001534,cmp_29ba371802beffb8,blueberry anthracnose,17,17,True,0.3145038
+plantwild_001535,cmp_2a600ae48c8a92d2,blueberry anthracnose,17,17,True,0.9943462
+plantwild_001552,cmp_cef78036fed40066,blueberry anthracnose,17,17,True,0.6195136
+plantwild_001557,cmp_e4bc190cc8ae6cb5,blueberry anthracnose,17,17,True,0.7515874
+plantwild_001562,cmp_f5fb31a2182b02a4,blueberry anthracnose,17,17,True,0.67092603
+plantwild_001565,cmp_0003643bb4bf5b59,blueberry botrytis blight,18,21,False,0.4645854
+plantwild_001573,cmp_58a045a99e43a300,blueberry botrytis blight,18,61,False,0.62205255
+plantwild_001579,cmp_7241cc8e11df9477,blueberry botrytis blight,18,21,False,0.18421222
+plantwild_001588,cmp_c7af46dc346f8873,blueberry botrytis blight,18,69,False,0.42841163
+plantwild_001596,cmp_ec7c61ce0541eaa8,blueberry botrytis blight,18,63,False,0.68682176
+plantwild_001599,cmp_02fe8924ec53e256,blueberry mummy berry,19,103,False,0.3910864
+plantwild_001608,cmp_27ab07f490227247,blueberry mummy berry,19,19,True,0.5506421
+plantwild_001617,cmp_4e9af00a344fe2a5,blueberry mummy berry,19,19,True,0.7007322
+plantwild_001624,cmp_8d19390cb2b2d662,blueberry mummy berry,19,64,False,0.123073556
+plantwild_001628,cmp_a3fd48a8ef63398d,blueberry mummy berry,19,78,False,0.12916431
+plantwild_001639,cmp_f6764ea2f796921a,blueberry mummy berry,19,19,True,0.59298605
+plantwild_001643,cmp_0566b775ad23bcd7,blueberry rust,20,17,False,0.9988154
+plantwild_001648,cmp_3c422e1fbb57362b,blueberry rust,20,67,False,0.6209145
+plantwild_001652,cmp_57472fbd454c1a1a,blueberry rust,20,85,False,0.36144206
+plantwild_001658,cmp_837a3bba044803c1,blueberry rust,20,55,False,0.36158827
+plantwild_001671,cmp_a7a2270578f59d40,blueberry rust,20,38,False,0.49373478
+plantwild_001683,cmp_eba4d8476f300837,blueberry rust,20,91,False,0.32078227
+plantwild_001693,cmp_2034cc78e7372df1,blueberry scorch,21,67,False,0.49093735
+plantwild_001698,cmp_41773a1210fcbc05,blueberry scorch,21,21,True,0.29135007
+plantwild_001710,cmp_a5749adefeb485b8,blueberry scorch,21,9,False,0.1747831
+plantwild_001716,cmp_c74bc6b13d169843,blueberry scorch,21,61,False,0.24067351
+plantwild_001723,cmp_ed33fb0331313658,blueberry scorch,21,61,False,0.4297369
+plantwild_001726,cmp_fa14b0e01d0d1a54,blueberry scorch,21,19,False,0.117265016
+plantwild_001729,cmp_23939257b66b4fee,broccoli alternaria leaf spot,22,2,False,0.5561772
+plantwild_001736,cmp_59b3abf70d111bb0,broccoli alternaria leaf spot,22,46,False,0.98508424
+plantwild_001757,cmp_ba5d261d029b119f,broccoli alternaria leaf spot,22,24,False,0.17721993
+plantwild_001758,cmp_c028e6e971b3f64d,broccoli alternaria leaf spot,22,80,False,0.1459579
+plantwild_001762,cmp_e5dea03fd7a9b2f9,broccoli alternaria leaf spot,22,75,False,0.56615454
+plantwild_001763,cmp_ec71a781fd92f4ef,broccoli alternaria leaf spot,22,25,False,0.3574776
+plantwild_001786,cmp_d1013c4e5389bb77,broccoli downy mildew,23,10,False,0.8713124
+plantwild_001787,cmp_e42fd927b9581794,broccoli downy mildew,23,26,False,0.8968815
+plantwild_001790,cmp_e8e01a36900ceca7,broccoli downy mildew,23,23,True,0.45331383
+plantwild_001791,cmp_ec737f146ae1700d,broccoli downy mildew,23,46,False,0.28799194
+plantwild_001797,cmp_16595afdaf30153d,cabbage alternaria leaf spot,24,68,False,0.16594182
+plantwild_001798,cmp_1829c14fbc09894c,cabbage alternaria leaf spot,24,2,False,0.10378422
+plantwild_001810,cmp_6defa7a8a3a73554,cabbage alternaria leaf spot,24,24,True,0.5377092
+plantwild_001814,cmp_81e62144fa679e53,cabbage alternaria leaf spot,24,42,False,0.28765106
+plantwild_001822,cmp_b94d30342ab12a99,cabbage alternaria leaf spot,24,29,False,0.14693259
+plantwild_001833,cmp_f795eb9f6abffe33,cabbage alternaria leaf spot,24,25,False,0.69417226
+plantwild_001838,cmp_ffc8a5297328a9d0,cabbage alternaria leaf spot,24,22,False,0.19917457
+plantwild_001840,cmp_018a08cdf6d8a1be,cabbage black rot,25,25,True,0.30868074
+plantwild_001851,cmp_1fd6c81185b43976,cabbage black rot,25,83,False,0.14997865
+plantwild_001853,cmp_22b9bf2e51c7ddb4,cabbage black rot,25,25,True,0.3649467
+plantwild_001855,cmp_260eafba1e305ac6,cabbage black rot,25,28,False,0.31086153
+plantwild_001857,cmp_2994c232b6185c21,cabbage black rot,25,25,True,0.56512547
+plantwild_001858,cmp_2b799f6aa8292905,cabbage black rot,25,25,True,0.98341817
+plantwild_001880,cmp_6cb903eaeca9ee04,cabbage black rot,25,83,False,0.19853233
+plantwild_001886,cmp_7e2d8bc8c97798dc,cabbage black rot,25,2,False,0.37004787
+plantwild_001914,cmp_b3b6b75f22f548cd,cabbage black rot,25,23,False,0.2659455
+plantwild_001916,cmp_b5cc4c8d83460886,cabbage black rot,25,25,True,0.98870134
+plantwild_001920,cmp_badca69215567938,cabbage black rot,25,45,False,0.24581455
+plantwild_001928,cmp_cc6eab912dcc4a2d,cabbage black rot,25,25,True,0.8156749
+plantwild_001937,cmp_e32a597268fd5e5d,cabbage black rot,25,25,True,0.3038013
+plantwild_001940,cmp_ece5e208de25c6fc,cabbage black rot,25,25,True,0.9816066
+plantwild_001942,cmp_ef8f5aecb7b11596,cabbage black rot,25,25,True,0.43123537
+plantwild_001945,cmp_f99904d10db09731,cabbage black rot,25,41,False,0.28881714
+plantwild_001950,cmp_14d24ca6af12f23f,cabbage downy mildew,26,43,False,0.41829064
+plantwild_001951,cmp_19aa3625bc29c1e3,cabbage downy mildew,26,26,True,0.9806512
+plantwild_001968,cmp_5750a0444d3eaa7c,cabbage downy mildew,26,89,False,0.07686496
+plantwild_001969,cmp_57d58233a69deded,cabbage downy mildew,26,25,False,0.7716897
+plantwild_001973,cmp_6058ad0af504c5d9,cabbage downy mildew,26,25,False,0.88332963
+plantwild_001975,cmp_62eea93cd0f43d28,cabbage downy mildew,26,58,False,0.1987701
+plantwild_001982,cmp_7468ba86b8dc2d74,cabbage downy mildew,26,38,False,0.15776312
+plantwild_001985,cmp_7950ac9c067e31af,cabbage downy mildew,26,75,False,0.37831584
+plantwild_001990,cmp_92b1e840dac33f4c,cabbage downy mildew,26,38,False,0.21245764
+plantwild_001993,cmp_9dccf83be25d456f,cabbage downy mildew,26,26,True,0.9936109
+plantwild_002002,cmp_bd4bf7293c28a863,cabbage downy mildew,26,91,False,0.17547385
+plantwild_002011,cmp_d3260300147bb6a6,cabbage downy mildew,26,3,False,0.33064836
+plantwild_002034,cmp_23cbe7ed90d269c7,carrot alternaria leaf blight,27,27,True,0.51568395
+plantwild_002041,cmp_368327a5c7fc10da,carrot alternaria leaf blight,27,27,True,0.97896737
+plantwild_002042,cmp_3d2ff87ae5aa7ef7,carrot alternaria leaf blight,27,27,True,0.9540456
+plantwild_002046,cmp_485a92d2be752bf6,carrot alternaria leaf blight,27,31,False,0.20601258
+plantwild_002048,cmp_4f663773cc0037bf,carrot alternaria leaf blight,27,27,True,0.99795145
+plantwild_002049,cmp_5582aa0e22a0c0fb,carrot alternaria leaf blight,27,101,False,0.29906318
+plantwild_002059,cmp_8c995dd39303245c,carrot alternaria leaf blight,27,27,True,0.7999651
+plantwild_002081,cmp_1e0173d3af3e45b1,carrot cavity spot,28,28,True,0.8464375
+plantwild_002085,cmp_2810a871cf860778,carrot cavity spot,28,28,True,0.81328434
+plantwild_002087,cmp_2b3b5d239060484c,carrot cavity spot,28,28,True,0.40674582
+plantwild_002090,cmp_3150364c1ee78d05,carrot cavity spot,28,60,False,0.21461613
+plantwild_002097,cmp_3ca5c633997e0cb2,carrot cavity spot,28,28,True,0.90588146
+plantwild_002101,cmp_4bdd8da5325ab55a,carrot cavity spot,28,28,True,0.30658534
+plantwild_002103,cmp_5ba55fd63acc364f,carrot cavity spot,28,28,True,0.98639643
+plantwild_002109,cmp_71494facc5c1d956,carrot cavity spot,28,4,False,0.417131
+plantwild_002112,cmp_74da8558e2090bda,carrot cavity spot,28,28,True,0.9152115
+plantwild_002114,cmp_776e4adf7a2512d4,carrot cavity spot,28,28,True,0.81908655
+plantwild_002118,cmp_8a6f2442915ab89d,carrot cavity spot,28,28,True,0.5829677
+plantwild_002154,cmp_4234dbaf08169d12,cauliflower alternaria leaf spot,29,25,False,0.91879004
+plantwild_002155,cmp_49048dfa2f05e1d4,cauliflower alternaria leaf spot,29,25,False,0.5030604
+plantwild_002174,cmp_e2d3e2610ed20579,cauliflower alternaria leaf spot,29,77,False,0.49620667
+plantwild_002178,cmp_fd1d003ec1df52e2,cauliflower alternaria leaf spot,29,9,False,0.42088717
+plantwild_002180,cmp_ff5d91c173fdde39,cauliflower alternaria leaf spot,29,25,False,0.5259378
+plantwild_002193,cmp_8ce98d8fcfc89899,cauliflower bacterial soft rot,30,30,True,0.81015503
+plantwild_002198,cmp_aaa13582d4d717ab,cauliflower bacterial soft rot,30,28,False,0.2715902
+plantwild_002199,cmp_ae5b7eb7209612b6,cauliflower bacterial soft rot,30,30,True,0.9421995
+plantwild_002202,cmp_caca83f905b25004,cauliflower bacterial soft rot,30,30,True,0.77563363
+plantwild_002212,cmp_37e0abbf137ff59b,celery anthracnose,31,97,False,0.47843602
+plantwild_002214,cmp_57529fda2112e558,celery anthracnose,31,56,False,0.9607148
+plantwild_002221,cmp_7f68244c806b720e,celery anthracnose,31,101,False,0.15163833
+plantwild_002223,cmp_9f47194fb9ace327,celery anthracnose,31,6,False,0.2167256
+plantwild_002236,cmp_002ac1e406146913,celery early blight,32,45,False,0.3238576
+plantwild_002245,cmp_7442e3395a545632,celery early blight,32,87,False,0.34016892
+plantwild_002247,cmp_7f51abbe9e5641e9,celery early blight,32,32,True,0.7858206
+plantwild_002249,cmp_834d17ad617c89dc,celery early blight,32,57,False,0.265362
+plantwild_002261,cmp_c90a513aeac3b305,celery early blight,32,51,False,0.35916194
+plantwild_002271,cmp_001a3303084635fe,cherry leaf spot,33,100,False,0.44494623
+plantwild_002277,cmp_15a842b47fbe9508,cherry leaf spot,33,33,True,0.4547465
+plantwild_002278,cmp_17efc905d58d2976,cherry leaf spot,33,27,False,0.17032231
+plantwild_002286,cmp_2af721bae965c027,cherry leaf spot,33,33,True,0.9473133
+plantwild_002301,cmp_4d5011e56ee5ad23,cherry leaf spot,33,46,False,0.25617552
+plantwild_002307,cmp_575621ead9f3356f,cherry leaf spot,33,96,False,0.25166035
+plantwild_002308,cmp_583605a1333e72cd,cherry leaf spot,33,21,False,0.20139344
+plantwild_002326,cmp_8c7ff63701c4ecab,cherry leaf spot,33,54,False,0.23580839
+plantwild_002327,cmp_8d9af52fbd8877b9,cherry leaf spot,33,96,False,0.18002681
+plantwild_002337,cmp_a67eba82ea8a1439,cherry leaf spot,33,55,False,0.1637216
+plantwild_002338,cmp_afaa89680dc5ade8,cherry leaf spot,33,46,False,0.4614481
+plantwild_002341,cmp_b2236c3d08697f7f,cherry leaf spot,33,35,False,0.42147362
+plantwild_002342,cmp_b3059ec8cab070ae,cherry leaf spot,33,61,False,0.5966507
+plantwild_002351,cmp_cc0085b03e605197,cherry leaf spot,33,77,False,0.65812826
+plantwild_002361,cmp_ec9701227c3ebc42,cherry leaf spot,33,77,False,0.44161138
+plantwild_002369,cmp_f61b81f630d3da54,cherry leaf spot,33,77,False,0.4406314
+plantwild_002382,cmp_23ac30f1dc2639e6,cherry powdery mildew,34,12,False,0.33435863
+plantwild_002384,cmp_27ffdfdebc28c392,cherry powdery mildew,34,4,False,0.108321525
+plantwild_002388,cmp_335b4869dff80802,cherry powdery mildew,34,34,True,0.26540264
+plantwild_002389,cmp_34e396dfe21b7f56,cherry powdery mildew,34,34,True,0.35739067
+plantwild_002409,cmp_010133cf223d7a42,citrus canker,35,35,True,0.9736554
+plantwild_002442,cmp_1d711017cf06c077,citrus canker,35,35,True,0.7835353
+plantwild_002444,cmp_1e362ddfc457860b,citrus canker,35,35,True,0.48988548
+plantwild_002457,cmp_2a249c5bdf77ab38,citrus canker,35,35,True,0.8920182
+plantwild_002464,cmp_2ce859ba15a227ab,citrus canker,35,16,False,0.1642226
+plantwild_002470,cmp_30749f20b136b636,citrus canker,35,60,False,0.2620361
+plantwild_002471,cmp_309fc3067b6f7721,citrus canker,35,35,True,0.82001674
+plantwild_002472,cmp_30c29fd48aace5ce,citrus canker,35,36,False,0.15329999
+plantwild_002480,cmp_36ba9cdae4ff411c,citrus canker,35,71,False,0.08642965
+plantwild_002502,cmp_41d4a62db5ab2ba7,citrus canker,35,35,True,0.16141689
+plantwild_002505,cmp_454267c98a9accb6,citrus canker,35,25,False,0.7166663
+plantwild_002507,cmp_47857dc648e35b84,citrus canker,35,35,True,0.31199482
+plantwild_002514,cmp_4a0dd60e10a7ed52,citrus canker,35,35,True,0.9719447
+plantwild_002519,cmp_4d19399a61f59bf9,citrus canker,35,35,True,0.91499776
+plantwild_002522,cmp_4e20f501dc4d6922,citrus canker,35,35,True,0.50245607
+plantwild_002524,cmp_4fd483682bb6ec84,citrus canker,35,35,True,0.5382444
+plantwild_002537,cmp_5994a0b738bc482d,citrus canker,35,81,False,0.07958198
+plantwild_002545,cmp_5eabca23e8664b78,citrus canker,35,84,False,0.16223063
+plantwild_002546,cmp_5f59800d747c0315,citrus canker,35,25,False,0.39979354
+plantwild_002551,cmp_60ccc81a108f6f69,citrus canker,35,15,False,0.37292445
+plantwild_002555,cmp_629ae26b1a89c114,citrus canker,35,77,False,0.8201543
+plantwild_002562,cmp_650fa7c254a0bba6,citrus canker,35,62,False,0.23717935
+plantwild_002589,cmp_774f0ad834bbea2e,citrus canker,35,35,True,0.8837469
+plantwild_002593,cmp_7adb8693858578b9,citrus canker,35,1,False,0.3142953
+plantwild_002596,cmp_7cc73efad9c61541,citrus canker,35,35,True,0.948358
+plantwild_002607,cmp_86f91e328d193b1c,citrus canker,35,35,True,0.5873568
+plantwild_002611,cmp_8a04cb9b2a700144,citrus canker,35,59,False,0.45054272
+plantwild_002618,cmp_8c33a32f293a7cf6,citrus canker,35,35,True,0.9854505
+plantwild_002625,cmp_916845e324fc452b,citrus canker,35,35,True,0.95787054
+plantwild_002626,cmp_9284181f03bbeb70,citrus canker,35,35,True,0.9537863
+plantwild_002627,cmp_92d5de2fb03fe16e,citrus canker,35,35,True,0.7977185
+plantwild_002633,cmp_9655ddedf27e5950,citrus canker,35,1,False,0.6157002
+plantwild_002636,cmp_96eea46b3f3a829b,citrus canker,35,0,False,0.19193998
+plantwild_002638,cmp_9763acb5c1c8f3b5,citrus canker,35,35,True,0.74576914
+plantwild_002647,cmp_9caa887a30dd89ac,citrus canker,35,68,False,0.11504507
+plantwild_002649,cmp_9e0a948b0d2ca7a0,citrus canker,35,35,True,0.8093053
+plantwild_002658,cmp_a513281fe0619760,citrus canker,35,36,False,0.6452995
+plantwild_002669,cmp_a9ce870744d75fde,citrus canker,35,35,True,0.841227
+plantwild_002677,cmp_aeaf5dddfdcb0042,citrus canker,35,95,False,0.5312653
+plantwild_002689,cmp_b3279ac20aa0705c,citrus canker,35,35,True,0.97682375
+plantwild_002694,cmp_b81ec61da13e46cc,citrus canker,35,3,False,0.776069
+plantwild_002697,cmp_bb3fe77bc7da93eb,citrus canker,35,35,True,0.19599973
+plantwild_002708,cmp_c3f7f7802612c0a7,citrus canker,35,8,False,0.26338717
+plantwild_002712,cmp_c834901e69e2d27d,citrus canker,35,55,False,0.24125424
+plantwild_002713,cmp_c8b08d0ca80d45c2,citrus canker,35,95,False,0.4128335
+plantwild_002718,cmp_ccb788d51a87b9cc,citrus canker,35,35,True,0.78780043
+plantwild_002722,cmp_d0d3438f6068ab3f,citrus canker,35,35,True,0.16961089
+plantwild_002728,cmp_d374847b938aadcf,citrus canker,35,70,False,0.25550964
+plantwild_002738,cmp_dcf98ec2cb1df4ce,citrus canker,35,35,True,0.9629509
+plantwild_002758,cmp_e8b0a6360d905a97,citrus canker,35,35,True,0.5099625
+plantwild_002762,cmp_eaa8044709047e1d,citrus canker,35,84,False,0.35091147
+plantwild_002771,cmp_f3397c2950e4bddc,citrus canker,35,35,True,0.7062886
+plantwild_002772,cmp_f3bb96b0009fd473,citrus canker,35,35,True,0.968664
+plantwild_002774,cmp_f4f409fdf555d8fb,citrus canker,35,11,False,0.15108393
+plantwild_002782,cmp_f9019b8f1cd8c741,citrus canker,35,54,False,0.3352415
+plantwild_002783,cmp_fa665e7327df262a,citrus canker,35,35,True,0.9581638
+plantwild_002790,cmp_ffc420b121712921,citrus canker,35,7,False,0.685013
+plantwild_002792,cmp_03a44ee36b709877,citrus greening disease,36,40,False,0.7957459
+plantwild_002795,cmp_0b42499b7d8dd31a,citrus greening disease,36,36,True,0.14052993
+plantwild_002798,cmp_136e709a92165b1b,citrus greening disease,36,43,False,0.41518962
+plantwild_002799,cmp_1b2e93fc616f73e4,citrus greening disease,36,97,False,0.28594595
+plantwild_002804,cmp_28420fa39b8aafa0,citrus greening disease,36,88,False,0.12118849
+plantwild_002814,cmp_39609650aeea2354,citrus greening disease,36,15,False,0.606527
+plantwild_002821,cmp_45537870224323fb,citrus greening disease,36,6,False,0.4806526
+plantwild_002825,cmp_4d0a16472462b927,citrus greening disease,36,78,False,0.5815565
+plantwild_002836,cmp_617c0ac4f9beb594,citrus greening disease,36,36,True,0.94074374
+plantwild_002847,cmp_6b2f7251796aa69b,citrus greening disease,36,36,True,0.8290186
+plantwild_002852,cmp_70c3aa109aacf844,citrus greening disease,36,78,False,0.35422873
+plantwild_002854,cmp_7452098b39a981cc,citrus greening disease,36,36,True,0.46901017
+plantwild_002864,cmp_8915bacad10f32af,citrus greening disease,36,100,False,0.13544996
+plantwild_002875,cmp_a1a55f32bb6eeee3,citrus greening disease,36,36,True,0.4739184
+plantwild_002883,cmp_b63ec5a47ee5b09b,citrus greening disease,36,3,False,0.4106487
+plantwild_002885,cmp_bf1ae237fa607b32,citrus greening disease,36,38,False,0.11112649
+plantwild_002887,cmp_c0d6ae0f6e7ec155,citrus greening disease,36,36,True,0.423107
+plantwild_002905,cmp_e630f6a76ecefb9a,citrus greening disease,36,36,True,0.42573905
+plantwild_002913,cmp_f2c55028b93e38fd,citrus greening disease,36,36,True,0.7953666
+plantwild_002915,cmp_f6d5dd0f694510e9,citrus greening disease,36,103,False,0.5225475
+plantwild_002927,cmp_0a90fac166ba6bf9,coffee berry blotch,37,37,True,0.8028615
+plantwild_002932,cmp_1f475b4e40139d5b,coffee berry blotch,37,53,False,0.81333286
+plantwild_002933,cmp_225af5799bc0ed9f,coffee berry blotch,37,37,True,0.47735086
+plantwild_002934,cmp_36370c32433fa756,coffee berry blotch,37,37,True,0.7148189
+plantwild_002946,cmp_777b131f6c8a0652,coffee berry blotch,37,37,True,0.24030201
+plantwild_002963,cmp_a78dac64b067632c,coffee berry blotch,37,37,True,0.79771173
+plantwild_002968,cmp_ab98b1400f4a9427,coffee berry blotch,37,37,True,0.3393819
+plantwild_002974,cmp_b3f8719c1fba773d,coffee berry blotch,37,6,False,0.7463102
+plantwild_002976,cmp_bc40fe0dea799525,coffee berry blotch,37,0,False,0.1611101
+plantwild_002982,cmp_da33b532415c7fe0,coffee berry blotch,37,3,False,0.22212683
+plantwild_002985,cmp_e49a2b12a8411382,coffee berry blotch,37,53,False,0.328666
+plantwild_002996,cmp_0096d496d9e0309d,coffee leaf rust,38,38,True,0.413267
+plantwild_002997,cmp_01488cc37cd86c08,coffee leaf rust,38,54,False,0.29526615
+plantwild_003009,cmp_1a1596c6dab63fea,coffee leaf rust,38,38,True,0.2638589
+plantwild_003016,cmp_24aea761ad7c8e08,coffee leaf rust,38,98,False,0.6726537
+plantwild_003017,cmp_26203209a2877007,coffee leaf rust,38,38,True,0.84201163
+plantwild_003029,cmp_35ded546f24c6a63,coffee leaf rust,38,38,True,0.7653087
+plantwild_003034,cmp_392698fc6320a8ab,coffee leaf rust,38,41,False,0.122569166
+plantwild_003049,cmp_4fb039b574ddd91e,coffee leaf rust,38,38,True,0.39986718
+plantwild_003056,cmp_55b44ff58c3f9c4c,coffee leaf rust,38,38,True,0.72698265
+plantwild_003060,cmp_5a79b80995d5a79c,coffee leaf rust,38,38,True,0.6935899
+plantwild_003061,cmp_5ab384ec9658532e,coffee leaf rust,38,40,False,0.09963451
+plantwild_003062,cmp_5af14c1f93179da6,coffee leaf rust,38,38,True,0.70314866
+plantwild_003078,cmp_70734c3b6af0c1be,coffee leaf rust,38,38,True,0.94353276
+plantwild_003088,cmp_8b21cfa4e1e5cc9a,coffee leaf rust,38,38,True,0.47252154
+plantwild_003094,cmp_a1412b8f0dcbe917,coffee leaf rust,38,38,True,0.34167355
+plantwild_003106,cmp_b46131c9d39c9a85,coffee leaf rust,38,38,True,0.7030958
+plantwild_003108,cmp_b5c3a6db0474975d,coffee leaf rust,38,34,False,0.26170084
+plantwild_003112,cmp_baf38ad784673600,coffee leaf rust,38,38,True,0.5235707
+plantwild_003131,cmp_e0258bafdcd2fb79,coffee leaf rust,38,38,True,0.8351321
+plantwild_003142,cmp_f59df7b17ad5271a,coffee leaf rust,38,11,False,0.102687515
+plantwild_003143,cmp_f66ffaeb93b3cf98,coffee leaf rust,38,38,True,0.8397808
+plantwild_003144,cmp_f87946df9a99f4fc,coffee leaf rust,38,0,False,0.3266321
+plantwild_003147,cmp_ffd92233e3c2f1da,coffee leaf rust,38,38,True,0.9072004
+plantwild_003168,cmp_3286ab9f5c0b2e69,corn gray leaf spot,39,40,False,0.5019496
+plantwild_003171,cmp_3483aaffe94acfa9,corn gray leaf spot,39,39,True,0.17917968
+plantwild_003176,cmp_38a3d5ccfa9ea1ff,corn gray leaf spot,39,39,True,0.9077363
+plantwild_003177,cmp_39c4e8ae8975a63a,corn gray leaf spot,39,39,True,0.9580088
+plantwild_003181,cmp_42daa830539a4ccc,corn gray leaf spot,39,39,True,0.9569892
+plantwild_003194,cmp_675fbbc8b702d21c,corn gray leaf spot,39,39,True,0.2985882
+plantwild_003196,cmp_6b66714c93efb081,corn gray leaf spot,39,95,False,0.5466748
+plantwild_003207,cmp_87a9bdaa33fef314,corn gray leaf spot,39,39,True,0.39375114
+plantwild_003220,cmp_a1736f747ecb59a7,corn gray leaf spot,39,40,False,0.54002553
+plantwild_003221,cmp_a66b206916023887,corn gray leaf spot,39,39,True,0.83687055
+plantwild_003222,cmp_ad27e1536b92107f,corn gray leaf spot,39,39,True,0.6694977
+plantwild_003224,cmp_aefa0c9b0548d1af,corn gray leaf spot,39,39,True,0.24086364
+plantwild_003228,cmp_bd15ee3c04f5b25f,corn gray leaf spot,39,39,True,0.9117611
+plantwild_003230,cmp_c5670a756bf81084,corn gray leaf spot,39,39,True,0.42708516
+plantwild_003234,cmp_d271a579d88ea72f,corn gray leaf spot,39,39,True,0.49307957
+plantwild_003249,cmp_f4d4be68e11659d3,corn gray leaf spot,39,39,True,0.44664165
+plantwild_003264,cmp_0db96c3c27ced220,corn northern leaf blight,40,40,True,0.36106345
+plantwild_003265,cmp_0e392d4bf76e75b9,corn northern leaf blight,40,97,False,0.3516006
+plantwild_003266,cmp_0fa160a5f164add5,corn northern leaf blight,40,40,True,0.45915592
+plantwild_003280,cmp_2410d91792c6a5ff,corn northern leaf blight,40,40,True,0.4746466
+plantwild_003290,cmp_38735b78f8d5415e,corn northern leaf blight,40,95,False,0.17734458
+plantwild_003295,cmp_3d5afd13fe882fdc,corn northern leaf blight,40,40,True,0.3917122
+plantwild_003296,cmp_3d645c82e4b4a344,corn northern leaf blight,40,40,True,0.6899878
+plantwild_003310,cmp_5bdea144dcb43cd3,corn northern leaf blight,40,40,True,0.6906889
+plantwild_003311,cmp_5cf23c844ec6cb5c,corn northern leaf blight,40,39,False,0.5625541
+plantwild_003314,cmp_60e01a6299408551,corn northern leaf blight,40,40,True,0.42491847
+plantwild_003315,cmp_63f3d4cb6f00c2fa,corn northern leaf blight,40,40,True,0.6303857
+plantwild_003325,cmp_86ed663ec866cab3,corn northern leaf blight,40,39,False,0.1087288
+plantwild_003328,cmp_8d19c9b36e141240,corn northern leaf blight,40,40,True,0.86192495
+plantwild_003329,cmp_8d9e17546a4e9e3b,corn northern leaf blight,40,39,False,0.3314466
+plantwild_003331,cmp_8ed83327725bed49,corn northern leaf blight,40,40,True,0.9826999
+plantwild_003335,cmp_9366ae40dd945000,corn northern leaf blight,40,97,False,0.3776001
+plantwild_003336,cmp_9471c1dcb214ba1a,corn northern leaf blight,40,93,False,0.40732384
+plantwild_003342,cmp_9beef5a96481d5cd,corn northern leaf blight,40,40,True,0.9864893
+plantwild_003365,cmp_d4be243700610f1d,corn northern leaf blight,40,1,False,0.2457067
+plantwild_003388,cmp_01dd00cdd2b24e2f,corn rust,41,41,True,0.30023965
+plantwild_003409,cmp_1cf52e886770e2c8,corn rust,41,43,False,0.85565585
+plantwild_003411,cmp_21c2032c4005562c,corn rust,41,39,False,0.16402096
+plantwild_003416,cmp_2a9485099061d781,corn rust,41,41,True,0.90760094
+plantwild_003424,cmp_35e5d88927942913,corn rust,41,41,True,0.86774087
+plantwild_003426,cmp_37a8d2d301eb30b6,corn rust,41,41,True,0.41353124
+plantwild_003441,cmp_57d03546e0e1d5ef,corn rust,41,41,True,0.8401743
+plantwild_003445,cmp_5cef621c639e1d75,corn rust,41,41,True,0.7959278
+plantwild_003449,cmp_6009ed8b0f00c6a0,corn rust,41,41,True,0.84493566
+plantwild_003462,cmp_6feb707cdd0cf260,corn rust,41,41,True,0.91002345
+plantwild_003476,cmp_840b8501303ec98b,corn rust,41,95,False,0.45595345
+plantwild_003478,cmp_84fcd32cba522f8c,corn rust,41,41,True,0.5752012
+plantwild_003483,cmp_94a3336eb7022447,corn rust,41,41,True,0.852807
+plantwild_003487,cmp_990e9b1764ac271b,corn rust,41,75,False,0.117587216
+plantwild_003493,cmp_a07d5e1534d68313,corn rust,41,26,False,0.21091178
+plantwild_003494,cmp_a1182c489893424d,corn rust,41,100,False,0.46828094
+plantwild_003495,cmp_a43c3b6d37f4b433,corn rust,41,15,False,0.24955721
+plantwild_003498,cmp_ac1bf9a97e710e68,corn rust,41,41,True,0.7443401
+plantwild_003504,cmp_b41c433c9c900147,corn rust,41,40,False,0.27080232
+plantwild_003521,cmp_c6965a603f146317,corn rust,41,41,True,0.7442313
+plantwild_003529,cmp_d6c272b1f0369e9c,corn rust,41,40,False,0.195315
+plantwild_003531,cmp_d80c49219148a58e,corn rust,41,41,True,0.4625658
+plantwild_003541,cmp_e2bd966f30b6d522,corn rust,41,41,True,0.977384
+plantwild_003543,cmp_e6fa3a33183cd78d,corn rust,41,77,False,0.17968751
+plantwild_003549,cmp_ef92d7030088e553,corn rust,41,41,True,0.88234514
+plantwild_003557,cmp_f99ee0df60a3e582,corn rust,41,41,True,0.8305037
+plantwild_003583,cmp_221220d52ce40b24,corn smut,42,42,True,0.29132628
+plantwild_003589,cmp_2acdd150bc573f18,corn smut,42,42,True,0.70483553
+plantwild_003602,cmp_3b2f0c75280c9689,corn smut,42,42,True,0.3040666
+plantwild_003603,cmp_425be6536411b895,corn smut,42,42,True,0.20973738
+plantwild_003607,cmp_47f078b9a69b143b,corn smut,42,42,True,0.87629527
+plantwild_003614,cmp_4d910d59aeaa56ce,corn smut,42,42,True,0.57507956
+plantwild_003615,cmp_4d9e39457688609d,corn smut,42,42,True,0.9039481
+plantwild_003634,cmp_7119a4b4143f7127,corn smut,42,96,False,0.3036888
+plantwild_003636,cmp_733a846d2e18cd4a,corn smut,42,52,False,0.8095684
+plantwild_003638,cmp_75c10dbf583daec7,corn smut,42,42,True,0.1871189
+plantwild_003643,cmp_7a54a2db4397e0b4,corn smut,42,42,True,0.9795872
+plantwild_003654,cmp_8979b0e7b2aaa8b2,corn smut,42,42,True,0.84959185
+plantwild_003659,cmp_920cd45ef4dc3cfc,corn smut,42,24,False,0.19817197
+plantwild_003661,cmp_94e261d67794d969,corn smut,42,42,True,0.45727235
+plantwild_003664,cmp_99468620fa4e97d0,corn smut,42,42,True,0.79216844
+plantwild_003670,cmp_a4507b2de1212ef3,corn smut,42,94,False,0.48729953
+plantwild_003673,cmp_a6d65ff66c031fa9,corn smut,42,42,True,0.7156657
+plantwild_003680,cmp_ac91a014186765cd,corn smut,42,42,True,0.44605535
+plantwild_003686,cmp_b2bc5819d8002ab6,corn smut,42,5,False,0.29531023
+plantwild_003694,cmp_ba9d1d24f3612508,corn smut,42,42,True,0.40002158
+plantwild_003701,cmp_c39e3f4b4cf6b5a4,corn smut,42,42,True,0.1829471
+plantwild_003707,cmp_cbbe1959b1e4de4f,corn smut,42,42,True,0.30036455
+plantwild_003708,cmp_cc0e6bf4cdb3880d,corn smut,42,42,True,0.91250247
+plantwild_003729,cmp_e37e649e7db3f7f5,corn smut,42,42,True,0.55053896
+plantwild_003739,cmp_ebd8725bb5460821,corn smut,42,42,True,0.44599807
+plantwild_003740,cmp_ec07c990fe4d749b,corn smut,42,42,True,0.5166682
+plantwild_003745,cmp_f18b599d736f21ce,corn smut,42,30,False,0.536314
+plantwild_003747,cmp_f1ae6a68d4297fbb,corn smut,42,42,True,0.66701
+plantwild_003754,cmp_f7384ce9857747de,corn smut,42,42,True,0.8568388
+plantwild_003758,cmp_f95807501b4e4851,corn smut,42,42,True,0.97475624
+plantwild_003771,cmp_12d6e6c7c722bcc6,cucumber angular leaf spot,43,43,True,0.6351258
+plantwild_003777,cmp_190ed6877ca7e7ac,cucumber angular leaf spot,43,43,True,0.98160446
+plantwild_003778,cmp_19196edbc0a13de9,cucumber angular leaf spot,43,35,False,0.5002674
+plantwild_003781,cmp_1d3b8c550a8ee19b,cucumber angular leaf spot,43,43,True,0.7214659
+plantwild_003801,cmp_2f9dab328d524352,cucumber angular leaf spot,43,103,False,0.156829
+plantwild_003803,cmp_30cf22e3ad3a6309,cucumber angular leaf spot,43,43,True,0.41912585
+plantwild_003807,cmp_3ae3dd61e0ab203b,cucumber angular leaf spot,43,102,False,0.23363034
+plantwild_003814,cmp_443c497d4f794930,cucumber angular leaf spot,43,43,True,0.92808247
+plantwild_003815,cmp_44a9c1aafa18fa86,cucumber angular leaf spot,43,43,True,0.8634065
+plantwild_003818,cmp_46f699d299be2a01,cucumber angular leaf spot,43,32,False,0.818532
+plantwild_003820,cmp_4bce8b7624ea7660,cucumber angular leaf spot,43,43,True,0.4787303
+plantwild_003829,cmp_61514348c8db9c8c,cucumber angular leaf spot,43,43,True,0.50554454
+plantwild_003831,cmp_642db8acd7debf74,cucumber angular leaf spot,43,21,False,0.5493314
+plantwild_003832,cmp_64afab43cf4acb7d,cucumber angular leaf spot,43,43,True,0.9934854
+plantwild_003838,cmp_6b4c78b0dd0e3afd,cucumber angular leaf spot,43,77,False,0.5517304
+plantwild_003843,cmp_6dd0451ec374a3d1,cucumber angular leaf spot,43,103,False,0.25453055
+plantwild_003845,cmp_72a64f6ab9710eea,cucumber angular leaf spot,43,43,True,0.2323777
+plantwild_003859,cmp_889ad366868fee55,cucumber angular leaf spot,43,43,True,0.79124993
+plantwild_003876,cmp_9a42e2a0584afc62,cucumber angular leaf spot,43,89,False,0.19180371
+plantwild_003879,cmp_aa4cc05fd0684752,cucumber angular leaf spot,43,87,False,0.4101374
+plantwild_003886,cmp_b20217507474e64e,cucumber angular leaf spot,43,43,True,0.70759106
+plantwild_003906,cmp_cc080e9060cbd78d,cucumber angular leaf spot,43,79,False,0.5781957
+plantwild_003907,cmp_cc6bad2aea4c3e28,cucumber angular leaf spot,43,76,False,0.6711907
+plantwild_003917,cmp_dff694d7c5b63dee,cucumber angular leaf spot,43,43,True,0.5876053
+plantwild_003919,cmp_e4f5d9b8bd30ba55,cucumber angular leaf spot,43,43,True,0.28514105
+plantwild_003921,cmp_e67dd81827c0a657,cucumber angular leaf spot,43,43,True,0.9238372
+plantwild_003924,cmp_ec7acff2f0060864,cucumber angular leaf spot,43,43,True,0.55972946
+plantwild_003944,cmp_015e8dfec599f3cc,cucumber bacterial wilt,44,44,True,0.9914219
+plantwild_003950,cmp_0cd9e0a290c363a1,cucumber bacterial wilt,44,101,False,0.38027725
+plantwild_003951,cmp_0e90af7cb0232444,cucumber bacterial wilt,44,49,False,0.16909023
+plantwild_003961,cmp_20d9dd5f6386b87c,cucumber bacterial wilt,44,80,False,0.23047708
+plantwild_003968,cmp_38f3c6d08fced3fa,cucumber bacterial wilt,44,87,False,0.25341237
+plantwild_003969,cmp_3f2506a2ec4c4d58,cucumber bacterial wilt,44,94,False,0.14297064
+plantwild_003970,cmp_3faf0dd71e187420,cucumber bacterial wilt,44,24,False,0.2529914
+plantwild_003982,cmp_6586c63fddd74893,cucumber bacterial wilt,44,101,False,0.25320017
+plantwild_003995,cmp_86330342103de6b2,cucumber bacterial wilt,44,54,False,0.30381817
+plantwild_004009,cmp_ab72b26cbd0bbf7e,cucumber bacterial wilt,44,101,False,0.88257015
+plantwild_004014,cmp_ba71dbbd5e3e4b81,cucumber bacterial wilt,44,6,False,0.5557984
+plantwild_004019,cmp_be839964b540e373,cucumber bacterial wilt,44,9,False,0.40162036
+plantwild_004033,cmp_e43323e6a6e49693,cucumber bacterial wilt,44,44,True,0.99081075
+plantwild_004040,cmp_fc329873914b597f,cucumber bacterial wilt,44,90,False,0.24065548
+plantwild_004042,cmp_fec1748345c2af36,cucumber bacterial wilt,44,103,False,0.32258165
+plantwild_004046,cmp_068f61e0631fe0ae,cucumber powdery mildew,45,103,False,0.59962744
+plantwild_004052,cmp_0ca6929b05802b50,cucumber powdery mildew,45,103,False,0.9091405
+plantwild_004058,cmp_182e38f4c9785fef,cucumber powdery mildew,45,103,False,0.9397158
+plantwild_004059,cmp_182eefdb05e9f9ca,cucumber powdery mildew,45,80,False,0.62996304
+plantwild_004074,cmp_268ca256b1b8615f,cucumber powdery mildew,45,103,False,0.9471169
+plantwild_004082,cmp_37dedee9b50f0b40,cucumber powdery mildew,45,27,False,0.21062963
+plantwild_004091,cmp_4dcf16fb290fab68,cucumber powdery mildew,45,103,False,0.873558
+plantwild_004112,cmp_69c7c94653eac303,cucumber powdery mildew,45,103,False,0.74477434
+plantwild_004113,cmp_69ff09a6a67c664a,cucumber powdery mildew,45,45,True,0.6710056
+plantwild_004132,cmp_83e2699768f8e6a6,cucumber powdery mildew,45,80,False,0.26468107
+plantwild_004142,cmp_98b570a955f605ee,cucumber powdery mildew,45,103,False,0.6490601
+plantwild_004143,cmp_990112a4231125e3,cucumber powdery mildew,45,103,False,0.5900671
+plantwild_004145,cmp_9a65e2ed6cc7083f,cucumber powdery mildew,45,80,False,0.5317764
+plantwild_004151,cmp_9dca653276e1382f,cucumber powdery mildew,45,35,False,0.2976556
+plantwild_004152,cmp_9fad58a4bc10d231,cucumber powdery mildew,45,45,True,0.5239721
+plantwild_004156,cmp_a53da70d144fb63c,cucumber powdery mildew,45,54,False,0.60662276
+plantwild_004159,cmp_abcf949588c68c1f,cucumber powdery mildew,45,68,False,0.2021137
+plantwild_004171,cmp_b99d76646b67569d,cucumber powdery mildew,45,45,True,0.8346083
+plantwild_004184,cmp_cfd9d622c2ee20d0,cucumber powdery mildew,45,57,False,0.15609716
+plantwild_004185,cmp_d1fadb4b5837cbf3,cucumber powdery mildew,45,103,False,0.35230476
+plantwild_004188,cmp_d736b1a56af1d255,cucumber powdery mildew,45,45,True,0.3692666
+plantwild_004194,cmp_de5f2c599a9f94e4,cucumber powdery mildew,45,80,False,0.6212017
+plantwild_004197,cmp_e179aafecc08572e,cucumber powdery mildew,45,103,False,0.9893091
+plantwild_004200,cmp_e6099222b6787ffc,cucumber powdery mildew,45,54,False,0.26318175
+plantwild_004204,cmp_ecb39e7da61cb8b9,cucumber powdery mildew,45,103,False,0.31403697
+plantwild_004206,cmp_f0b5984bb47002ec,cucumber powdery mildew,45,45,True,0.8466237
+plantwild_004218,cmp_1d38ed98ccfdf2a4,eggplant cercospora leaf spot,46,24,False,0.39138973
+plantwild_004221,cmp_288afb12c6ecdaa8,eggplant cercospora leaf spot,46,79,False,0.27680692
+plantwild_004222,cmp_2ea3a851e7ac6a7e,eggplant cercospora leaf spot,46,55,False,0.19542122
+plantwild_004229,cmp_452c2d3a3853ae7c,eggplant cercospora leaf spot,46,46,True,0.38084003
+plantwild_004237,cmp_72402fdcfcab44f1,eggplant cercospora leaf spot,46,55,False,0.16036692
+plantwild_004246,cmp_ae9b168c8cdbdfec,eggplant cercospora leaf spot,46,13,False,0.51547915
+plantwild_004255,cmp_c87bc3057a7bb4fb,eggplant cercospora leaf spot,46,11,False,0.27986014
+plantwild_004265,cmp_e25ad0894fa62097,eggplant cercospora leaf spot,46,46,True,0.64208317
+plantwild_004275,cmp_3192f260ca660089,eggplant phomopsis fruit rot,47,46,False,0.9421441
+plantwild_004280,cmp_5b5762a5291af5e9,eggplant phomopsis fruit rot,47,99,False,0.10337296
+plantwild_004292,cmp_93b96ea904da07a4,eggplant phomopsis fruit rot,47,28,False,0.18256482
+plantwild_004297,cmp_afc083a3f6ca6299,eggplant phomopsis fruit rot,47,42,False,0.2863168
+plantwild_004299,cmp_bf65ad8d57775b88,eggplant phomopsis fruit rot,47,9,False,0.23646292
+plantwild_004302,cmp_cad543243e71b448,eggplant phomopsis fruit rot,47,0,False,0.30836588
+plantwild_004313,cmp_1bee6fa918c2de92,eggplant phytophthora blight,48,60,False,0.7364768
+plantwild_004323,cmp_662765bf8bc3a409,eggplant phytophthora blight,48,3,False,0.44896674
+plantwild_004327,cmp_7ae12df6b4e2c868,eggplant phytophthora blight,48,48,True,0.36125967
+plantwild_004332,cmp_9a0e16d5350a6d72,eggplant phytophthora blight,48,48,True,0.9503711
+plantwild_004343,cmp_09ffd33c0a82201b,garlic leaf blight,49,49,True,0.9269661
+plantwild_004347,cmp_134d9c56a50e1f4b,garlic leaf blight,49,72,False,0.8307335
+plantwild_004348,cmp_16ab9cd4cc81622b,garlic leaf blight,49,11,False,0.09725342
+plantwild_004350,cmp_174fddf81979a85f,garlic leaf blight,49,98,False,0.36202976
+plantwild_004357,cmp_2629a8542d63f070,garlic leaf blight,49,49,True,0.55664307
+plantwild_004369,cmp_60f29ab8e90591a4,garlic leaf blight,49,96,False,0.58405405
+plantwild_004392,cmp_9c842f9073132d76,garlic leaf blight,49,49,True,0.71159256
+plantwild_004396,cmp_a5dd1a8e4437b1fd,garlic leaf blight,49,97,False,0.3583051
+plantwild_004403,cmp_b8715cde34a49d02,garlic leaf blight,49,93,False,0.37046298
+plantwild_004404,cmp_bcd367d708908812,garlic leaf blight,49,98,False,0.5108477
+plantwild_004410,cmp_d3f23e309f012a11,garlic leaf blight,49,100,False,0.41024494
+plantwild_004411,cmp_d45fa765650bc826,garlic leaf blight,49,94,False,0.32357275
+plantwild_004425,cmp_ea05bcb440469390,garlic leaf blight,49,98,False,0.46353522
+plantwild_004432,cmp_02d06633b95d4e45,garlic rust,50,100,False,0.28477538
+plantwild_004433,cmp_0b47693a758b5b94,garlic rust,50,95,False,0.86836594
+plantwild_004446,cmp_1fa5a0fc8a929955,garlic rust,50,72,False,0.57023805
+plantwild_004448,cmp_210ab82e667107d0,garlic rust,50,100,False,0.66589206
+plantwild_004453,cmp_2b96666100d07bc0,garlic rust,50,98,False,0.18847272
+plantwild_004456,cmp_329947bfaa500b3f,garlic rust,50,50,True,0.76002973
+plantwild_004464,cmp_4a45306182f62420,garlic rust,50,98,False,0.20558941
+plantwild_004480,cmp_7247d48f27d40bc6,garlic rust,50,50,True,0.23574883
+plantwild_004486,cmp_7e876f83e3bfc43d,garlic rust,50,72,False,0.16814157
+plantwild_004490,cmp_85fc345533bd9eef,garlic rust,50,50,True,0.65115297
+plantwild_004498,cmp_9ec116722654e7db,garlic rust,50,41,False,0.6272214
+plantwild_004512,cmp_bf7055d4cebec95e,garlic rust,50,10,False,0.27616835
+plantwild_004523,cmp_dc8dc0ab6729b6c0,garlic rust,50,96,False,0.2958314
+plantwild_004527,cmp_e07f0401374cf8cb,garlic rust,50,50,True,0.21858458
+plantwild_004531,cmp_ec5bbb0a89523a1f,garlic rust,50,50,True,0.49547186
+plantwild_004542,cmp_764b9068af123312,ginger leaf spot,51,72,False,0.46386284
+plantwild_004543,cmp_92fe14d043b96f29,ginger leaf spot,51,49,False,0.2425668
+plantwild_004555,cmp_c52f05100c4e9b5d,ginger leaf spot,51,31,False,0.397741
+plantwild_004558,cmp_e1a87542201a6e81,ginger leaf spot,51,93,False,0.3156208
+plantwild_004567,cmp_12e8e7429f89abf1,ginger sheath blight,52,52,True,0.5255761
+plantwild_004572,cmp_25af98fb29b68f5e,ginger sheath blight,52,73,False,0.6160221
+plantwild_004578,cmp_3b0a195a67b48d70,ginger sheath blight,52,39,False,0.329573
+plantwild_004584,cmp_616b069d44688d38,ginger sheath blight,52,52,True,0.49005497
+plantwild_004586,cmp_6c92ed4292bc4d51,ginger sheath blight,52,52,True,0.39503208
+plantwild_004587,cmp_77888c21555d2845,ginger sheath blight,52,52,True,0.8773435
+plantwild_004594,cmp_93cc7955d883996d,ginger sheath blight,52,52,True,0.8320362
+plantwild_004610,cmp_d276b10348794072,ginger sheath blight,52,52,True,0.82479614
+plantwild_004617,cmp_ff13ecbf507cd95f,ginger sheath blight,52,6,False,0.40150625
+plantwild_004623,cmp_0ddd78a27b108057,grape black rot,53,68,False,0.2582164
+plantwild_004624,cmp_0e6b64473cb40afe,grape black rot,53,67,False,0.17049558
+plantwild_004625,cmp_12d88db8a81691d5,grape black rot,53,53,True,0.66324264
+plantwild_004626,cmp_15dd192974410c68,grape black rot,53,55,False,0.8617338
+plantwild_004630,cmp_1b872a6cf0584444,grape black rot,53,54,False,0.29355597
+plantwild_004641,cmp_301fff71f33fb6bd,grape black rot,53,43,False,0.70680666
+plantwild_004651,cmp_49634763fa5f7b09,grape black rot,53,53,True,0.9033092
+plantwild_004661,cmp_56d484f9ea0180b8,grape black rot,53,35,False,0.25506118
+plantwild_004669,cmp_6bb7a66b84fb6d78,grape black rot,53,53,True,0.48841116
+plantwild_004684,cmp_88f285233d5c39b5,grape black rot,53,36,False,0.21516821
+plantwild_004685,cmp_8bfab8441aeba393,grape black rot,53,53,True,0.89678645
+plantwild_004689,cmp_96f00044b0ec250e,grape black rot,53,68,False,0.2597446
+plantwild_004691,cmp_9a0d56af1d6284df,grape black rot,53,4,False,0.19366162
+plantwild_004702,cmp_af5add8ebc7a3e1c,grape black rot,53,31,False,0.45748076
+plantwild_004704,cmp_b02954ca450fad07,grape black rot,53,53,True,0.9809318
+plantwild_004705,cmp_b0898845a70569a0,grape black rot,53,7,False,0.17205894
+plantwild_004720,cmp_ce6eca9a8da32ad4,grape black rot,53,53,True,0.4199986
+plantwild_004721,cmp_cee97c306dc69ee3,grape black rot,53,53,True,0.36014566
+plantwild_004742,cmp_0a294644eeb6d928,grape downy mildew,54,10,False,0.4479175
+plantwild_004748,cmp_0f406953e5421b02,grape downy mildew,54,54,True,0.63668084
+plantwild_004749,cmp_0fb431a0190d946e,grape downy mildew,54,54,True,0.47553378
+plantwild_004752,cmp_1a03561f41af5aa5,grape downy mildew,54,43,False,0.6128524
+plantwild_004759,cmp_1d75ac062170fc2e,grape downy mildew,54,57,False,0.2257562
+plantwild_004764,cmp_207b2bc77737fc38,grape downy mildew,54,80,False,0.95417666
+plantwild_004767,cmp_244dfc41ac665fe3,grape downy mildew,54,103,False,0.7340392
+plantwild_004768,cmp_24c43783c88035ed,grape downy mildew,54,3,False,0.19746183
+plantwild_004772,cmp_2b709597bbabfa17,grape downy mildew,54,54,True,0.9341551
+plantwild_004799,cmp_3cf3f87f62e4d03d,grape downy mildew,54,83,False,0.32206473
+plantwild_004804,cmp_3f9232976f85fbe3,grape downy mildew,54,54,True,0.925735
+plantwild_004817,cmp_49cba1bc4a9550c0,grape downy mildew,54,45,False,0.18188907
+plantwild_004824,cmp_4f717d9598e11a45,grape downy mildew,54,102,False,0.45037135
+plantwild_004835,cmp_567b58e6aa11de29,grape downy mildew,54,79,False,0.21722087
+plantwild_004841,cmp_5c9ec1e88fc513d9,grape downy mildew,54,54,True,0.31035393
+plantwild_004843,cmp_61be9920ad4d35a0,grape downy mildew,54,67,False,0.35146168
+plantwild_004856,cmp_6cbaa1a3c14e0647,grape downy mildew,54,3,False,0.64710945
+plantwild_004875,cmp_83c219f35e340143,grape downy mildew,54,80,False,0.27897462
+plantwild_004890,cmp_9238716353ba1ac1,grape downy mildew,54,31,False,0.78466785
+plantwild_004895,cmp_93f79b0fdaedaed3,grape downy mildew,54,45,False,0.17847572
+plantwild_004898,cmp_97a992cd31ccff6c,grape downy mildew,54,85,False,0.104465105
+plantwild_004907,cmp_9ee28010098e6eea,grape downy mildew,54,3,False,0.9609294
+plantwild_004914,cmp_a7e782118a542607,grape downy mildew,54,54,True,0.9264405
+plantwild_004921,cmp_aeec4ee6b44d8e97,grape downy mildew,54,26,False,0.24382974
+plantwild_004923,cmp_b03c1c6e2b27df7a,grape downy mildew,54,83,False,0.61381364
+plantwild_004931,cmp_b80c13b4dddbdd3b,grape downy mildew,54,35,False,0.93009347
+plantwild_004938,cmp_bd2645154d98d035,grape downy mildew,54,54,True,0.8950219
+plantwild_004939,cmp_bd3c5cce047bda8b,grape downy mildew,54,68,False,0.39851403
+plantwild_004942,cmp_c089e48253786ffe,grape downy mildew,54,54,True,0.19581988
+plantwild_004947,cmp_c4127785ce4cefeb,grape downy mildew,54,80,False,0.5041764
+plantwild_004951,cmp_c53c0e687b77dd62,grape downy mildew,54,54,True,0.13939099
+plantwild_004959,cmp_caca3c3418b2564e,grape downy mildew,54,88,False,0.21312198
+plantwild_004960,cmp_cc91498d9cdd416a,grape downy mildew,54,53,False,0.7962984
+plantwild_004981,cmp_e081d3d6af02d032,grape downy mildew,54,78,False,0.32207823
+plantwild_004982,cmp_e0bbd493c6b9f5fe,grape downy mildew,54,43,False,0.49794987
+plantwild_004985,cmp_e441b5a68c09dfbf,grape downy mildew,54,53,False,0.68412346
+plantwild_004993,cmp_ed3e891789555f36,grape downy mildew,54,57,False,0.62380934
+plantwild_004995,cmp_efdcc4a527006b88,grape downy mildew,54,102,False,0.47990423
+plantwild_004998,cmp_f30945f480e1b127,grape downy mildew,54,7,False,0.21004972
+plantwild_005003,cmp_f851bac613a6eecc,grape downy mildew,54,54,True,0.98858184
+plantwild_005005,cmp_fb2ddec234442f6f,grape downy mildew,54,54,True,0.46807614
+plantwild_005016,cmp_0a102a292ba8cb72,grape leaf spot,55,54,False,0.56452143
+plantwild_005027,cmp_26ee54d303f4bbc4,grape leaf spot,55,24,False,0.14347348
+plantwild_005049,cmp_5e7cba2a0ff0e8c5,grape leaf spot,55,55,True,0.5262963
+plantwild_005051,cmp_6075f89f7df69fab,grape leaf spot,55,91,False,0.20166063
+plantwild_005055,cmp_6f558608753eb98a,grape leaf spot,55,103,False,0.35974124
+plantwild_005061,cmp_86095b420b9c055e,grape leaf spot,55,53,False,0.4867761
+plantwild_005062,cmp_86478fe6da26bc0e,grape leaf spot,55,102,False,0.98426163
+plantwild_005069,cmp_b06a8119df2c6f96,grape leaf spot,55,77,False,0.18120807
+plantwild_005072,cmp_c06a4df144ac1d0d,grape leaf spot,55,54,False,0.429885
+plantwild_005077,cmp_d646c953ff54afcc,grape leaf spot,55,41,False,0.56532377
+plantwild_005090,cmp_f84c46375e90e463,grape leaf spot,55,104,False,0.54617834
+plantwild_005092,cmp_fe0835e995ddfd7d,grape leaf spot,55,54,False,0.33826813
+plantwild_005110,cmp_3ae0b8cb1c8a162d,grapevine leafroll disease,56,82,False,0.25876448
+plantwild_005124,cmp_743dea00ee389b43,grapevine leafroll disease,56,34,False,0.15789361
+plantwild_005127,cmp_838ff8d47eaa1bf2,grapevine leafroll disease,56,3,False,0.37073553
+plantwild_005131,cmp_941aac13ce939df0,grapevine leafroll disease,56,3,False,0.32003912
+plantwild_005139,cmp_b682eee152c35933,grapevine leafroll disease,56,56,True,0.97323257
+plantwild_005143,cmp_bc43ca089190fea9,grapevine leafroll disease,56,61,False,0.45793915
+plantwild_005151,cmp_d586dd9ee8d5a6d5,grapevine leafroll disease,56,77,False,0.45820323
+plantwild_005154,cmp_d7cc490df677749b,grapevine leafroll disease,56,95,False,0.17507069
+plantwild_005159,cmp_e31f73a92f32de36,grapevine leafroll disease,56,56,True,0.81894547
+plantwild_005162,cmp_f46256015b82d0b5,grapevine leafroll disease,56,82,False,0.13939
+plantwild_005167,cmp_0d562a9fa36130a7,lettuce downy mildew,57,26,False,0.107522026
+plantwild_005168,cmp_0e695777385cae58,lettuce downy mildew,57,97,False,0.24135381
+plantwild_005176,cmp_2132757644da0a20,lettuce downy mildew,57,54,False,0.21206556
+plantwild_005182,cmp_2e29ff63540af543,lettuce downy mildew,57,57,True,0.65241945
+plantwild_005190,cmp_424b9a702061b009,lettuce downy mildew,57,57,True,0.22441672
+plantwild_005193,cmp_43a9b6fa7fdc3282,lettuce downy mildew,57,57,True,0.878467
+plantwild_005195,cmp_4efe16ed7e4a4308,lettuce downy mildew,57,103,False,0.28088424
+plantwild_005200,cmp_5855e02d6beedd59,lettuce downy mildew,57,66,False,0.15508494
+plantwild_005202,cmp_5aa66af74058611d,lettuce downy mildew,57,57,True,0.34090477
+plantwild_005208,cmp_6cfd58890a2fd2fe,lettuce downy mildew,57,56,False,0.46140233
+plantwild_005228,cmp_c517bb02855aebf4,lettuce downy mildew,57,54,False,0.93070614
+plantwild_005231,cmp_d5f09a408569c224,lettuce downy mildew,57,57,True,0.39128134
+plantwild_005252,cmp_5bdc9429694893b9,lettuce mosaic virus,58,58,True,0.25422072
+plantwild_005265,cmp_9d6004f170aca3de,lettuce mosaic virus,58,78,False,0.54083526
+plantwild_005270,cmp_ab3c31ad5622cdb7,lettuce mosaic virus,58,88,False,0.9098741
+plantwild_005273,cmp_bb89a0309d1c4fdf,lettuce mosaic virus,58,10,False,0.6441063
+plantwild_005276,cmp_e358e116edf1eda7,lettuce mosaic virus,58,31,False,0.45284638
+plantwild_005282,cmp_faa3d987fa68a547,lettuce mosaic virus,58,89,False,0.38134134
+plantwild_005287,cmp_0611c234132ed563,maple tar spot,59,51,False,0.17813657
+plantwild_005288,cmp_0c68d361842b1871,maple tar spot,59,26,False,0.14885277
+plantwild_005290,cmp_10bbefbdb2db75e1,maple tar spot,59,59,True,0.93207043
+plantwild_005291,cmp_132d10c2a0198e2a,maple tar spot,59,59,True,0.9769345
+plantwild_005316,cmp_613b64eb1bf8a6ee,maple tar spot,59,59,True,0.5186984
+plantwild_005330,cmp_89892ac8113c5fe0,maple tar spot,59,59,True,0.9835277
+plantwild_005331,cmp_8c45a92718121833,maple tar spot,59,61,False,0.20142598
+plantwild_005342,cmp_9c66c6f79c125149,maple tar spot,59,95,False,0.16183358
+plantwild_005347,cmp_a36852a84cf3f879,maple tar spot,59,59,True,0.784512
+plantwild_005348,cmp_a3aa4f1a4e025735,maple tar spot,59,59,True,0.4005947
+plantwild_005351,cmp_a7987afe25295155,maple tar spot,59,86,False,0.17535168
+plantwild_005352,cmp_a81e048d26af1363,maple tar spot,59,59,True,0.4287153
+plantwild_005356,cmp_b643940705bf706a,maple tar spot,59,59,True,0.2440244
+plantwild_005364,cmp_bde6628bfa444eb7,maple tar spot,59,86,False,0.10245112
+plantwild_005372,cmp_cd225cef6ae1d638,maple tar spot,59,42,False,0.30568638
+plantwild_005386,cmp_e9817ca03c9982ca,maple tar spot,59,4,False,0.58770555
+plantwild_005396,cmp_f812992baa032cd5,maple tar spot,59,59,True,0.85052806
+plantwild_005400,cmp_0572a1a70a3df795,peach brown rot,60,60,True,0.36778155
+plantwild_005403,cmp_0b1c17dd9dbc8645,peach brown rot,60,88,False,0.17658839
+plantwild_005412,cmp_17fed8607cd079c9,peach brown rot,60,81,False,0.15479851
+plantwild_005426,cmp_2b9c4ffa40885fde,peach brown rot,60,60,True,0.5052584
+plantwild_005428,cmp_2d8569c8408a1895,peach brown rot,60,36,False,0.4300352
+plantwild_005452,cmp_5e21c815f4366166,peach brown rot,60,63,False,0.2188235
+plantwild_005456,cmp_69bfcd49778bd241,peach brown rot,60,60,True,0.21722396
+plantwild_005467,cmp_7a20aff617eb8a48,peach brown rot,60,73,False,0.56808496
+plantwild_005477,cmp_878ba5876ecc0b21,peach brown rot,60,60,True,0.7653059
+plantwild_005492,cmp_a76bcfa76e8588a7,peach brown rot,60,60,True,0.1714239
+plantwild_005499,cmp_b483739c297f98b1,peach brown rot,60,60,True,0.97168803
+plantwild_005502,cmp_b7dfd34f5088cf6a,peach brown rot,60,15,False,0.5355243
+plantwild_005503,cmp_b8cbdf46614a1db4,peach brown rot,60,0,False,0.23909909
+plantwild_005505,cmp_bbc49e8ab564db42,peach brown rot,60,42,False,0.334589
+plantwild_005519,cmp_d7593076ce6d60ff,peach brown rot,60,60,True,0.18144473
+plantwild_005521,cmp_d94c934e9644c51b,peach brown rot,60,60,True,0.5820437
+plantwild_005530,cmp_e4eedf8cadd594a2,peach brown rot,60,28,False,0.67996323
+plantwild_005531,cmp_e7d1ab2e8e82b2b8,peach brown rot,60,60,True,0.66214275
+plantwild_005535,cmp_e97fe62580f2bbd7,peach brown rot,60,60,True,0.9696652
+plantwild_005537,cmp_edc2ec74e21a0c58,peach brown rot,60,81,False,0.54566324
+plantwild_005540,cmp_f1d265dc29c6952b,peach brown rot,60,60,True,0.9351929
+plantwild_005546,cmp_fe2417d0f24b5624,peach brown rot,60,60,True,0.7206517
+plantwild_005554,cmp_03a7b72d1ca7b4af,peach leaf curl,61,61,True,0.9748571
+plantwild_005558,cmp_073fbd1d06e8dad6,peach leaf curl,61,81,False,0.44752312
+plantwild_005570,cmp_1ad599759b93868b,peach leaf curl,61,61,True,0.6814063
+plantwild_005578,cmp_288128a4534ba10b,peach leaf curl,61,99,False,0.24542736
+plantwild_005579,cmp_294183584560df0b,peach leaf curl,61,61,True,0.4188929
+plantwild_005581,cmp_2bbf02ca135b334f,peach leaf curl,61,25,False,0.1450136
+plantwild_005589,cmp_3482c8e88c8cd4fe,peach leaf curl,61,89,False,0.24452098
+plantwild_005594,cmp_3a2464e3364616fe,peach leaf curl,61,61,True,0.3232468
+plantwild_005595,cmp_3aea481787f5372b,peach leaf curl,61,61,True,0.93077356
+plantwild_005596,cmp_3b24e69ccc787c02,peach leaf curl,61,61,True,0.6147213
+plantwild_005615,cmp_4ffe634a3c353f7a,peach leaf curl,61,61,True,0.2890839
+plantwild_005632,cmp_700f3316339de1c1,peach leaf curl,61,21,False,0.7259978
+plantwild_005640,cmp_74b251a4b582c825,peach leaf curl,61,6,False,0.3175821
+plantwild_005641,cmp_75e7762f1aedc587,peach leaf curl,61,36,False,0.71150905
+plantwild_005655,cmp_8f3fccbe4f10bb80,peach leaf curl,61,37,False,0.25800052
+plantwild_005658,cmp_94a8f911fe0662db,peach leaf curl,61,99,False,0.16535501
+plantwild_005667,cmp_9bdc504ba1bd71a7,peach leaf curl,61,37,False,0.87607664
+plantwild_005670,cmp_9dfd675c90f0e015,peach leaf curl,61,61,True,0.9323375
+plantwild_005671,cmp_9e4321f75ce6c48e,peach leaf curl,61,81,False,0.86652297
+plantwild_005685,cmp_b1f1f994f119b1ff,peach leaf curl,61,61,True,0.99404496
+plantwild_005703,cmp_c9705977797c7a63,peach leaf curl,61,61,True,0.24952488
+plantwild_005712,cmp_e0a694b39d2195ee,peach leaf curl,61,32,False,0.24261464
+plantwild_005714,cmp_e6edf6627e410217,peach leaf curl,61,61,True,0.9864667
+plantwild_005715,cmp_e7432f884b705242,peach leaf curl,61,61,True,0.9169338
+plantwild_005725,cmp_f826176adb6aacdd,peach leaf curl,61,37,False,0.7497954
+plantwild_005728,cmp_fe0a4ab24a36d154,peach leaf curl,61,61,True,0.7933317
+plantwild_005729,cmp_ff4b0e266c4cc843,peach leaf curl,61,54,False,0.15222098
+plantwild_005736,cmp_129d4d74db23c760,peach scab,62,3,False,0.30493018
+plantwild_005746,cmp_417a7741de5ac97c,peach scab,62,0,False,0.26828414
+plantwild_005748,cmp_4a2e2e96651df8e8,peach scab,62,62,True,0.9614642
+plantwild_005749,cmp_4dfa6496b3044076,peach scab,62,62,True,0.27039602
+plantwild_005754,cmp_62f0c38bc6a1fd10,peach scab,62,0,False,0.56551397
+plantwild_005760,cmp_7eff1e7c130f399a,peach scab,62,81,False,0.4991491
+plantwild_005767,cmp_98eef11966d57aad,peach scab,62,78,False,0.24380216
+plantwild_005774,cmp_b246fe37380c2e05,peach scab,62,30,False,0.4212549
+plantwild_005791,cmp_f20e958c8e08cb53,peach scab,62,60,False,0.7774375
+plantwild_005795,cmp_f661b9b5a963999a,peach scab,62,86,False,0.13424724
+plantwild_005801,cmp_040afc6cc0d9d050,plum brown rot,63,63,True,0.7790996
+plantwild_005809,cmp_2c1e25d1e774847c,plum brown rot,63,63,True,0.3190618
+plantwild_005814,cmp_3bf76d2828f04e96,plum brown rot,63,59,False,0.60811377
+plantwild_005822,cmp_54541c5f89d1c7f4,plum brown rot,63,63,True,0.9987752
+plantwild_005834,cmp_748eb1409255a9d7,plum brown rot,63,63,True,0.50979215
+plantwild_005847,cmp_a3508fc0291902fc,plum brown rot,63,63,True,0.8607145
+plantwild_005854,cmp_bbc0f9f694c850e0,plum brown rot,63,63,True,0.9941613
+plantwild_005861,cmp_d11f470fb7fcda40,plum brown rot,63,63,True,0.99865156
+plantwild_005867,cmp_fa4c5946d6b54abd,plum brown rot,63,63,True,0.17310332
+plantwild_005868,cmp_fb1783ce654bd3ec,plum brown rot,63,63,True,0.6736911
+plantwild_005878,cmp_3e915adafd0dd2e3,plum pocket disease,64,53,False,0.70444715
+plantwild_005886,cmp_670ba173e54cfceb,plum pocket disease,64,69,False,0.2322425
+plantwild_005891,cmp_7ffd81bf58a18985,plum pocket disease,64,3,False,0.4469607
+plantwild_005893,cmp_8b8011e7827053ed,plum pocket disease,64,27,False,0.10826492
+plantwild_005912,cmp_c61033c9fd5a830f,plum pocket disease,64,53,False,0.22213532
+plantwild_005913,cmp_c8feb4713f86eb01,plum pocket disease,64,64,True,0.3865421
+plantwild_005919,cmp_e19b6703078f0ee0,plum pocket disease,64,61,False,0.45064428
+plantwild_005920,cmp_e35c430be2a829d1,plum pocket disease,64,39,False,0.384006
+plantwild_005930,cmp_0bd583e06155096b,plum pox virus,65,65,True,0.8391312
+plantwild_005941,cmp_402b456f18d33614,plum pox virus,65,3,False,0.23569936
+plantwild_005943,cmp_591edcdb80de83a3,plum pox virus,65,56,False,0.20812227
+plantwild_005952,cmp_b09906abd52b3727,plum pox virus,65,65,True,0.5002791
+plantwild_005957,cmp_f7f4d9925c434739,plum pox virus,65,65,True,0.9205058
+plantwild_005978,cmp_891a99d65c0159d6,plum rust,66,41,False,0.48338673
+plantwild_005979,cmp_8d3005c61176ca93,plum rust,66,97,False,0.23155956
+plantwild_005988,cmp_d74e4fbcef3e0d57,plum rust,66,66,True,0.9745404
+plantwild_005990,cmp_e9fc63bbac9032c0,plum rust,66,78,False,0.40813783
+plantwild_005991,cmp_ebe8c979fdd742af,plum rust,66,66,True,0.36323127
+plantwild_006010,cmp_3084aac13f19e2aa,potato early blight,67,91,False,0.86932546
+plantwild_006012,cmp_39d5a9d253ef8608,potato early blight,67,91,False,0.21036737
+plantwild_006019,cmp_47208312084bdb82,potato early blight,67,66,False,0.36102438
+plantwild_006027,cmp_5669b59827dce6a0,potato early blight,67,20,False,0.55672014
+plantwild_006029,cmp_5c2b107e034ed142,potato early blight,67,32,False,0.42848265
+plantwild_006039,cmp_6f106a2a7f66b2e8,potato early blight,67,88,False,0.2502768
+plantwild_006044,cmp_78cd1a1f29f493c6,potato early blight,67,87,False,0.22647236
+plantwild_006052,cmp_83515056b4a62c17,potato early blight,67,86,False,0.20930634
+plantwild_006058,cmp_8f741597103e7f6b,potato early blight,67,87,False,0.19173807
+plantwild_006078,cmp_c3d5a288a74e324a,potato early blight,67,67,True,0.9495627
+plantwild_006089,cmp_e32816dfe8b1c8dd,potato early blight,67,31,False,0.42501634
+plantwild_006095,cmp_f1ebb2db9635e43c,potato early blight,67,67,True,0.94329697
+plantwild_006097,cmp_f8723a6ffa331b24,potato early blight,67,3,False,0.29361466
+plantwild_006099,cmp_fe53b3e656c96406,potato early blight,67,97,False,0.16943985
+plantwild_006100,cmp_fef6e964dfe3c78d,potato early blight,67,85,False,0.3030093
+plantwild_006101,cmp_ff5a33a3afb71d00,potato early blight,67,53,False,0.28333426
+plantwild_006103,cmp_0294c7c870bbbb98,potato late blight,68,70,False,0.16053338
+plantwild_006111,cmp_18e35e564f29ec98,potato late blight,68,32,False,0.28771594
+plantwild_006121,cmp_2925e900bd217bf9,potato late blight,68,88,False,0.71960384
+plantwild_006147,cmp_560695787443157f,potato late blight,68,68,True,0.85068375
+plantwild_006152,cmp_628f588de5c00c42,potato late blight,68,68,True,0.8455572
+plantwild_006155,cmp_67eb5cdd9ef71865,potato late blight,68,57,False,0.19293782
+plantwild_006159,cmp_6ccd1981d79bf2ad,potato late blight,68,88,False,0.41789734
+plantwild_006161,cmp_75d26b2887d7b65d,potato late blight,68,68,True,0.33395156
+plantwild_006171,cmp_8e8d7bd62daad486,potato late blight,68,11,False,0.32486317
+plantwild_006172,cmp_9139f3ea92ca1bad,potato late blight,68,68,True,0.47673202
+plantwild_006174,cmp_98288830282fad7a,potato late blight,68,57,False,0.19065696
+plantwild_006183,cmp_a49e334ca9b4c81b,potato late blight,68,68,True,0.37879127
+plantwild_006184,cmp_a6f9f4a6f7820c44,potato late blight,68,88,False,0.53950965
+plantwild_006193,cmp_c1616535723f1f4e,potato late blight,68,68,True,0.14006896
+plantwild_006198,cmp_cbe7290f061715a6,potato late blight,68,68,True,0.50136113
+plantwild_006202,cmp_d61f2d38bdedb928,potato late blight,68,101,False,0.50000894
+plantwild_006203,cmp_dc6a4d0056fb0196,potato late blight,68,38,False,0.28577432
+plantwild_006223,cmp_272609c37070b200,raspberry fire blight,69,69,True,0.443844
+plantwild_006226,cmp_3581d6d06d4f8dbc,raspberry fire blight,69,69,True,0.60144734
+plantwild_006236,cmp_97bcaafbc01248e4,raspberry fire blight,69,24,False,0.08260673
+plantwild_006243,cmp_d864c427785f9af5,raspberry fire blight,69,68,False,0.42388183
+plantwild_006245,cmp_069dc03ca434b022,raspberry gray mold,70,70,True,0.965119
+plantwild_006256,cmp_3ec9226f0c1c7e95,raspberry gray mold,70,70,True,0.65844226
+plantwild_006263,cmp_78e866287bba39a6,raspberry gray mold,70,70,True,0.9905642
+plantwild_006269,cmp_9599ce8452468cbe,raspberry gray mold,70,70,True,0.98454154
+plantwild_006280,cmp_e836f691e7c6d0f4,raspberry gray mold,70,70,True,0.48551917
+plantwild_006283,cmp_1a7a399e80161473,raspberry yellow rust,71,78,False,0.7199903
+plantwild_006289,cmp_3b8bca567137fc52,raspberry yellow rust,71,43,False,0.445386
+plantwild_006307,cmp_96c1e817c5a0f97e,raspberry yellow rust,71,76,False,0.42498896
+plantwild_006311,cmp_d6290932752ab00a,raspberry yellow rust,71,55,False,0.21880685
+plantwild_006314,cmp_f3d3d1faad65cca0,raspberry yellow rust,71,95,False,0.51549363
+plantwild_006317,cmp_07e17b0ff371eb11,rice blast,72,72,True,0.9571597
+plantwild_006318,cmp_0a8e431601a0ae11,rice blast,72,51,False,0.31467345
+plantwild_006329,cmp_1c42888fe6f96e0a,rice blast,72,32,False,0.41590238
+plantwild_006333,cmp_277e1975c84229ab,rice blast,72,93,False,0.83692116
+plantwild_006335,cmp_35935875908c77ab,rice blast,72,72,True,0.27917704
+plantwild_006344,cmp_51957ad6e427bcd2,rice blast,72,46,False,0.6415255
+plantwild_006354,cmp_716ec4e0359c32eb,rice blast,72,83,False,0.16122085
+plantwild_006371,cmp_a542bc19850c6cd9,rice blast,72,72,True,0.2978545
+plantwild_006392,cmp_e16c319993059494,rice blast,72,72,True,0.8419123
+plantwild_006394,cmp_e83c0a9e964e0dec,rice blast,72,98,False,0.61995393
+plantwild_006395,cmp_e86d5ebf3db5e0c4,rice blast,72,93,False,0.54366577
+plantwild_006399,cmp_f5d16575a0933d17,rice blast,72,40,False,0.30934024
+plantwild_006407,cmp_2ab958a7d56d2c92,rice sheath blight,73,49,False,0.8169238
+plantwild_006412,cmp_3fe35daeea75eefd,rice sheath blight,73,52,False,0.9778144
+plantwild_006413,cmp_40990bb825cac582,rice sheath blight,73,52,False,0.54995334
+plantwild_006416,cmp_528e79e1b21542d3,rice sheath blight,73,99,False,0.18716165
+plantwild_006419,cmp_607ab10b1e13a3df,rice sheath blight,73,93,False,0.39321628
+plantwild_006420,cmp_613a24fcd1c33f34,rice sheath blight,73,72,False,0.86141646
+plantwild_006435,cmp_8ddd83e12a81d78a,rice sheath blight,73,73,True,0.60208553
+plantwild_006448,cmp_d48463b9ecb93209,rice sheath blight,73,73,True,0.8720079
+plantwild_006462,cmp_fa8e4a51c4570046,rice sheath blight,73,99,False,0.5354205
+plantwild_006464,cmp_fb78b375e797908c,rice sheath blight,73,99,False,0.4421452
+plantwild_006466,cmp_046ebb06917e3ae4,soybean bacterial blight,74,29,False,0.32118404
+plantwild_006467,cmp_06d029344d933bcf,soybean bacterial blight,74,3,False,0.30079687
+plantwild_006469,cmp_0c76c30802369110,soybean bacterial blight,74,79,False,0.59885883
+plantwild_006473,cmp_1c23d7bf26b410f5,soybean bacterial blight,74,13,False,0.2909041
+plantwild_006484,cmp_420373fb771b6d45,soybean bacterial blight,74,11,False,0.1482504
+plantwild_006485,cmp_47a462a42ddd0c63,soybean bacterial blight,74,74,True,0.38847944
+plantwild_006490,cmp_4cadac514f015a96,soybean bacterial blight,74,71,False,0.2460043
+plantwild_006513,cmp_ab8c94dc2e586154,soybean bacterial blight,74,43,False,0.11169068
+plantwild_006525,cmp_d3184289e1aefe0b,soybean bacterial blight,74,45,False,0.3663741
+plantwild_006527,cmp_dd51b8eac9f14ede,soybean bacterial blight,74,50,False,0.31963158
+plantwild_006536,cmp_f57f3d097d2a8897,soybean bacterial blight,74,74,True,0.293681
+plantwild_006541,cmp_0f7418094f9cfd2c,soybean brown spot,75,5,False,0.78815955
+plantwild_006542,cmp_0fd6546cc414a225,soybean brown spot,75,75,True,0.91852707
+plantwild_006557,cmp_4fead473aaa2c942,soybean brown spot,75,74,False,0.8231952
+plantwild_006572,cmp_86b7dd421206130b,soybean brown spot,75,75,True,0.7809868
+plantwild_006582,cmp_d15cde24358758ad,soybean brown spot,75,64,False,0.12612693
+plantwild_006585,cmp_d929351abe4d13b4,soybean brown spot,75,27,False,0.1557306
+plantwild_006588,cmp_e6563fc2dc57af75,soybean brown spot,75,75,True,0.22686997
+plantwild_006593,cmp_fe597ce9cc10ac15,soybean brown spot,75,61,False,0.21211277
+plantwild_006599,cmp_11eeb0f051fe240c,soybean downy mildew,76,43,False,0.36716017
+plantwild_006601,cmp_138e62bdd94cb8f8,soybean downy mildew,76,76,True,0.5235317
+plantwild_006616,cmp_30e02fcccebf475c,soybean downy mildew,76,76,True,0.2876752
+plantwild_006617,cmp_332d5bb2d11925fb,soybean downy mildew,76,76,True,0.837088
+plantwild_006620,cmp_3d8bfe096794c9e8,soybean downy mildew,76,76,True,0.44256452
+plantwild_006624,cmp_492aeaf6b12b157a,soybean downy mildew,76,76,True,0.81765187
+plantwild_006627,cmp_52ea1ad049a3fd4a,soybean downy mildew,76,76,True,0.74760187
+plantwild_006632,cmp_6003dee26b6c0801,soybean downy mildew,76,76,True,0.613585
+plantwild_006640,cmp_71b3493b5af0523f,soybean downy mildew,76,83,False,0.2832099
+plantwild_006641,cmp_71c4972b73d4f0b4,soybean downy mildew,76,102,False,0.42046836
+plantwild_006647,cmp_7cc10828389fc348,soybean downy mildew,76,71,False,0.27808005
+plantwild_006648,cmp_7de6757809e204c5,soybean downy mildew,76,13,False,0.24013123
+plantwild_006652,cmp_895b113ddab17036,soybean downy mildew,76,91,False,0.33605775
+plantwild_006653,cmp_8b38258f1304cec1,soybean downy mildew,76,76,True,0.8029918
+plantwild_006655,cmp_8f7d26ee4847d0f8,soybean downy mildew,76,85,False,0.25387722
+plantwild_006671,cmp_a5f6fd4fd338664e,soybean downy mildew,76,12,False,0.50026715
+plantwild_006686,cmp_bdb52b7a8ab12eb8,soybean downy mildew,76,78,False,0.90166897
+plantwild_006714,cmp_ff069d68a260c198,soybean downy mildew,76,43,False,0.3677962
+plantwild_006721,cmp_0735921378e150da,soybean frog eye leaf spot,77,77,True,0.9641196
+plantwild_006723,cmp_07a9fa3a0179f766,soybean frog eye leaf spot,77,77,True,0.70535296
+plantwild_006729,cmp_0da462c380d3f5fc,soybean frog eye leaf spot,77,76,False,0.21892019
+plantwild_006735,cmp_12f4479f8e0ac36a,soybean frog eye leaf spot,77,77,True,0.9721006
+plantwild_006738,cmp_16f1b441a1982c74,soybean frog eye leaf spot,77,11,False,0.76512235
+plantwild_006752,cmp_35bcee7f664df54d,soybean frog eye leaf spot,77,77,True,0.83613944
+plantwild_006756,cmp_3a5c3eb19768ba26,soybean frog eye leaf spot,77,59,False,0.19695492
+plantwild_006760,cmp_3eda7c13016fed5b,soybean frog eye leaf spot,77,77,True,0.10449784
+plantwild_006764,cmp_41a078198e8aaec2,soybean frog eye leaf spot,77,77,True,0.27399957
+plantwild_006766,cmp_4b692423b12699b3,soybean frog eye leaf spot,77,76,False,0.27600837
+plantwild_006768,cmp_4ffdb8644aab85d8,soybean frog eye leaf spot,77,77,True,0.8820809
+plantwild_006788,cmp_64fb3438bc7d14c1,soybean frog eye leaf spot,77,77,True,0.26131833
+plantwild_006796,cmp_6ceb3322816e84d0,soybean frog eye leaf spot,77,79,False,0.48143008
+plantwild_006798,cmp_7013f92d4e32eb3d,soybean frog eye leaf spot,77,10,False,0.19384044
+plantwild_006804,cmp_7d713addd799f553,soybean frog eye leaf spot,77,43,False,0.9817551
+plantwild_006806,cmp_81227dbc64d8b9a7,soybean frog eye leaf spot,77,77,True,0.7064422
+plantwild_006815,cmp_8961ab23d99dd159,soybean frog eye leaf spot,77,55,False,0.6169286
+plantwild_006819,cmp_922c1d0230bbf5e9,soybean frog eye leaf spot,77,77,True,0.9906613
+plantwild_006821,cmp_94559b258ef6f515,soybean frog eye leaf spot,77,77,True,0.22658585
+plantwild_006827,cmp_9fa3f296be72dc86,soybean frog eye leaf spot,77,77,True,0.90433884
+plantwild_006831,cmp_a596929523ec2917,soybean frog eye leaf spot,77,91,False,0.15349196
+plantwild_006836,cmp_ab39d1de513ee626,soybean frog eye leaf spot,77,77,True,0.1354232
+plantwild_006838,cmp_ad5a3449115a9b1d,soybean frog eye leaf spot,77,77,True,0.55253834
+plantwild_006843,cmp_b1d875e186025786,soybean frog eye leaf spot,77,77,True,0.5887525
+plantwild_006847,cmp_b583155772679256,soybean frog eye leaf spot,77,77,True,0.46258214
+plantwild_006855,cmp_bd728f0e0be4968c,soybean frog eye leaf spot,77,77,True,0.42316705
+plantwild_006887,cmp_e97a7dc486dbb2ae,soybean frog eye leaf spot,77,77,True,0.9850028
+plantwild_006896,cmp_f72160c1a0565615,soybean frog eye leaf spot,77,77,True,0.9960408
+plantwild_006911,cmp_17470af9f067eade,soybean mosaic,78,78,True,0.784977
+plantwild_006913,cmp_1a7366145eaf6bfb,soybean mosaic,78,58,False,0.22367626
+plantwild_006918,cmp_255ee38a5162ec01,soybean mosaic,78,9,False,0.26843497
+plantwild_006919,cmp_274e563d53e20b51,soybean mosaic,78,104,False,0.16166712
+plantwild_006934,cmp_48998ad46fb2a140,soybean mosaic,78,88,False,0.29023296
+plantwild_006943,cmp_6162a2126d6c17c8,soybean mosaic,78,25,False,0.20819718
+plantwild_006955,cmp_6caefed431a28eb0,soybean mosaic,78,78,True,0.33981055
+plantwild_006958,cmp_74a8bf5daabc1b9d,soybean mosaic,78,91,False,0.1743575
+plantwild_006959,cmp_751dd6a72bb6402e,soybean mosaic,78,6,False,0.080738775
+plantwild_006962,cmp_7c849c7751ad7552,soybean mosaic,78,90,False,0.3489402
+plantwild_006963,cmp_7faf4031b5b4dd52,soybean mosaic,78,27,False,0.3720792
+plantwild_006990,cmp_b5ba50602511d6a2,soybean mosaic,78,78,True,0.8762885
+plantwild_006993,cmp_c2691d2cb1421cb3,soybean mosaic,78,85,False,0.39984024
+plantwild_007000,cmp_e7a52c87006958cd,soybean mosaic,78,90,False,0.81204647
+plantwild_007010,cmp_f8716832c06c69d4,soybean mosaic,78,78,True,0.42397735
+plantwild_007011,cmp_faa6fb021819036e,soybean mosaic,78,12,False,0.8726633
+plantwild_007016,cmp_0fd9a4bc9d6e8faa,soybean rust,79,79,True,0.89620924
+plantwild_007017,cmp_0ff05daca43e803c,soybean rust,79,54,False,0.39887953
+plantwild_007035,cmp_38aaab00d34a121e,soybean rust,79,79,True,0.7196192
+plantwild_007036,cmp_3b13c253e0aeb89c,soybean rust,79,76,False,0.7218579
+plantwild_007048,cmp_545f7b924530c4fb,soybean rust,79,76,False,0.56736404
+plantwild_007054,cmp_61e89540b6fe8ca8,soybean rust,79,79,True,0.35428438
+plantwild_007058,cmp_67c835926100032b,soybean rust,79,41,False,0.6686826
+plantwild_007061,cmp_72e438f5b7453694,soybean rust,79,79,True,0.9544077
+plantwild_007062,cmp_73baebc1a042d6e5,soybean rust,79,46,False,0.18278322
+plantwild_007088,cmp_abc2695ac282ec79,soybean rust,79,41,False,0.63506037
+plantwild_007091,cmp_b25d63b7f5972a5f,soybean rust,79,79,True,0.86346036
+plantwild_007096,cmp_bc217addbaea4bc9,soybean rust,79,79,True,0.23867774
+plantwild_007099,cmp_c0cca43f124347ad,soybean rust,79,2,False,0.24453112
+plantwild_007107,cmp_e49ba711db0d6026,soybean rust,79,79,True,0.40834808
+plantwild_007111,cmp_eac9437f0cf6e09b,soybean rust,79,79,True,0.9912271
+plantwild_007118,cmp_feea7ae024ef535d,soybean rust,79,13,False,0.24282151
+plantwild_007130,cmp_1a290531ddf97083,squash powdery mildew,80,45,False,0.58355135
+plantwild_007144,cmp_2e207ab91327263a,squash powdery mildew,80,45,False,0.66882133
+plantwild_007149,cmp_3839d7c339f25be6,squash powdery mildew,80,80,True,0.49269834
+plantwild_007169,cmp_5d5a0fa7caa2dcd1,squash powdery mildew,80,103,False,0.41566655
+plantwild_007173,cmp_6667a7ca18887be6,squash powdery mildew,80,45,False,0.2662688
+plantwild_007174,cmp_684e26b4f5abe840,squash powdery mildew,80,103,False,0.5150488
+plantwild_007176,cmp_6a92ad0fddc44ba5,squash powdery mildew,80,80,True,0.8844837
+plantwild_007182,cmp_6fbfc916fec03c31,squash powdery mildew,80,7,False,0.40643618
+plantwild_007191,cmp_82c02c479f8f57be,squash powdery mildew,80,103,False,0.69275546
+plantwild_007197,cmp_870a6fc129d1adff,squash powdery mildew,80,80,True,0.44032028
+plantwild_007204,cmp_94a44a1846fac686,squash powdery mildew,80,103,False,0.24232002
+plantwild_007207,cmp_95f6cb6152235e59,squash powdery mildew,80,26,False,0.1475776
+plantwild_007224,cmp_ad632275320a8c1c,squash powdery mildew,80,103,False,0.9393899
+plantwild_007225,cmp_ade7570abce55534,squash powdery mildew,80,45,False,0.66207284
+plantwild_007227,cmp_b6e51c2a7f5f1a9f,squash powdery mildew,80,103,False,0.871632
+plantwild_007229,cmp_b7b70faeb40d094c,squash powdery mildew,80,103,False,0.63943994
+plantwild_007232,cmp_bbddfa9890dfddb0,squash powdery mildew,80,103,False,0.54831785
+plantwild_007239,cmp_c6af1faef8a97337,squash powdery mildew,80,80,True,0.87889147
+plantwild_007245,cmp_d0c8f8aebe65e4d1,squash powdery mildew,80,45,False,0.939935
+plantwild_007251,cmp_d529aa36e7cecb0e,squash powdery mildew,80,80,True,0.3106494
+plantwild_007258,cmp_de7b9ee5f89106ec,squash powdery mildew,80,45,False,0.5234861
+plantwild_007260,cmp_e0c465490bd2b51c,squash powdery mildew,80,57,False,0.25060588
+plantwild_007264,cmp_e47808bf91d63fe1,squash powdery mildew,80,80,True,0.1766796
+plantwild_007278,cmp_10456461ed7ac704,strawberry anthracnose,81,15,False,0.4670791
+plantwild_007283,cmp_2b98820853a3c29c,strawberry anthracnose,81,3,False,0.6693828
+plantwild_007285,cmp_3c584db377de8011,strawberry anthracnose,81,30,False,0.49957752
+plantwild_007288,cmp_47898d0d079f466b,strawberry anthracnose,81,81,True,0.9829385
+plantwild_007293,cmp_5f37ee4e764e4797,strawberry anthracnose,81,6,False,0.14373647
+plantwild_007296,cmp_6dd82754af9a384a,strawberry anthracnose,81,37,False,0.69666344
+plantwild_007307,cmp_a17535875a4ecb95,strawberry anthracnose,81,81,True,0.5652704
+plantwild_007315,cmp_bca4c616f838e49f,strawberry anthracnose,81,81,True,0.3908955
+plantwild_007318,cmp_cc1b49b83ece65dc,strawberry anthracnose,81,81,True,0.7630244
+plantwild_007333,cmp_060d42255d0e04a2,strawberry leaf scorch,82,77,False,0.22253723
+plantwild_007336,cmp_0befb41c86c397f1,strawberry leaf scorch,82,6,False,0.4877068
+plantwild_007351,cmp_7a892a1c287e6b4a,strawberry leaf scorch,82,7,False,0.1422865
+plantwild_007360,cmp_ad75774c4c556031,strawberry leaf scorch,82,82,True,0.53144896
+plantwild_007365,cmp_dcdbcbaba3af4820,strawberry leaf scorch,82,61,False,0.07743678
+plantwild_007371,cmp_fb0f1fd91f73464e,strawberry leaf scorch,82,49,False,0.119543396
+plantwild_007375,cmp_0fbfe4a06460e61b,tobacco blue mold,83,101,False,0.1788416
+plantwild_007384,cmp_49635dbecde0fa3b,tobacco blue mold,83,40,False,0.17496656
+plantwild_007389,cmp_522bc2df4f21bb27,tobacco blue mold,83,83,True,0.94794136
+plantwild_007391,cmp_575044d18064c9da,tobacco blue mold,83,11,False,0.1564659
+plantwild_007394,cmp_6083c58401cff6ba,tobacco blue mold,83,39,False,0.356191
+plantwild_007402,cmp_8997edff6e419840,tobacco blue mold,83,54,False,0.24476053
+plantwild_007411,cmp_bc0a1bfc729f6644,tobacco blue mold,83,102,False,0.26506335
+plantwild_007436,cmp_3d1b6dcdca9f488b,tobacco brown spot,84,84,True,0.280502
+plantwild_007442,cmp_5eafb33e72f014ec,tobacco brown spot,84,84,True,0.24901138
+plantwild_007443,cmp_6e7dbc5b60087d1d,tobacco brown spot,84,55,False,0.19403085
+plantwild_007448,cmp_7e15707fd0e6b5a6,tobacco brown spot,84,24,False,0.6164826
+plantwild_007452,cmp_99c903fae941d99a,tobacco brown spot,84,83,False,0.36933798
+plantwild_007454,cmp_a820753774d4d745,tobacco brown spot,84,84,True,0.3693237
+plantwild_007460,cmp_b50a3c2f3e68ab1e,tobacco brown spot,84,79,False,0.30457988
+plantwild_007470,cmp_e8f6240595665d98,tobacco brown spot,84,84,True,0.72182864
+plantwild_007476,cmp_043c086aee3e4bdc,tobacco mosaic virus,85,56,False,0.25627485
+plantwild_007489,cmp_56853f800d754fdc,tobacco mosaic virus,85,83,False,0.2651212
+plantwild_007494,cmp_780c821c8a5b7838,tobacco mosaic virus,85,85,True,0.136846
+plantwild_007502,cmp_a86a610b793b2b89,tobacco mosaic virus,85,67,False,0.4557387
+plantwild_007505,cmp_bc0b320a10f4668d,tobacco mosaic virus,85,12,False,0.22692071
+plantwild_007508,cmp_d53dc9dff49b1aea,tobacco mosaic virus,85,32,False,0.36287236
+plantwild_007520,cmp_0feace90a031ef88,tomato bacterial leaf spot,86,87,False,0.34845096
+plantwild_007525,cmp_13270020afbb1838,tomato bacterial leaf spot,86,95,False,0.1826955
+plantwild_007549,cmp_4d2f12d40ee31a45,tomato bacterial leaf spot,86,38,False,0.15864857
+plantwild_007555,cmp_5b652c7a28332390,tomato bacterial leaf spot,86,91,False,0.33313662
+plantwild_007559,cmp_63ca3057c8e8d002,tomato bacterial leaf spot,86,74,False,0.14630286
+plantwild_007563,cmp_6e4f84b4de7eea1f,tomato bacterial leaf spot,86,36,False,0.76058775
+plantwild_007570,cmp_8252cde9dd0e6b14,tomato bacterial leaf spot,86,54,False,0.20210266
+plantwild_007579,cmp_965c0468ada56923,tomato bacterial leaf spot,86,43,False,0.9622418
+plantwild_007592,cmp_b6af975e44cc66bd,tomato bacterial leaf spot,86,14,False,0.4529229
+plantwild_007603,cmp_cec69ab97e08113d,tomato bacterial leaf spot,86,10,False,0.28874144
+plantwild_007605,cmp_dbe59b6974225589,tomato bacterial leaf spot,86,46,False,0.1404029
+plantwild_007608,cmp_e58f6549ee2e039c,tomato bacterial leaf spot,86,102,False,0.2315456
+plantwild_007612,cmp_e8d9225b9711507b,tomato bacterial leaf spot,86,77,False,0.18547873
+plantwild_007614,cmp_f2b160fed7b5df44,tomato bacterial leaf spot,86,86,True,0.98486704
+plantwild_007616,cmp_fc1350a2556da6e4,tomato bacterial leaf spot,86,54,False,0.29868856
+plantwild_007620,cmp_009604aebf56f8dc,tomato early blight,87,78,False,0.15570067
+plantwild_007625,cmp_08e8e49331734e00,tomato early blight,87,3,False,0.11003223
+plantwild_007626,cmp_096f350ead4aa16d,tomato early blight,87,37,False,0.81838095
+plantwild_007628,cmp_0e791ebcce5a9b95,tomato early blight,87,90,False,0.13578907
+plantwild_007649,cmp_2eda8eeb08e5de62,tomato early blight,87,87,True,0.20972304
+plantwild_007655,cmp_39ad2f667f13a0c0,tomato early blight,87,87,True,0.13005161
+plantwild_007657,cmp_3c61629e0a4edb79,tomato early blight,87,15,False,0.40831438
+plantwild_007687,cmp_60f3511faafcc762,tomato early blight,87,80,False,0.87887585
+plantwild_007699,cmp_742744e9b96470ff,tomato early blight,87,87,True,0.651695
+plantwild_007709,cmp_859f7dd0667c3f9e,tomato early blight,87,87,True,0.5541372
+plantwild_007716,cmp_94df690f6aaa5c23,tomato early blight,87,87,True,0.41200444
+plantwild_007719,cmp_9751ce832e7a4c7f,tomato early blight,87,87,True,0.46283144
+plantwild_007723,cmp_9c2093b29f1de83c,tomato early blight,87,49,False,0.26860693
+plantwild_007726,cmp_9e01150759aa99bc,tomato early blight,87,33,False,0.2894155
+plantwild_007730,cmp_a7e4ecfb9d88544a,tomato early blight,87,24,False,0.3193083
+plantwild_007734,cmp_a8c05060ad83feae,tomato early blight,87,87,True,0.40117243
+plantwild_007736,cmp_aa4c410800d7eaf9,tomato early blight,87,87,True,0.6681772
+plantwild_007737,cmp_aac6a0c7febf7837,tomato early blight,87,103,False,0.6865163
+plantwild_007742,cmp_b1172fa07bcbc51e,tomato early blight,87,67,False,0.997004
+plantwild_007749,cmp_bc8afdfdee46e1da,tomato early blight,87,0,False,0.16428913
+plantwild_007762,cmp_d1a7b86e37e15bb7,tomato early blight,87,91,False,0.61580074
+plantwild_007773,cmp_e7388e3fb744938f,tomato early blight,87,40,False,0.3487038
+plantwild_007776,cmp_e93b39a377642822,tomato early blight,87,91,False,0.17583272
+plantwild_007778,cmp_eccf63f9aa2f100f,tomato early blight,87,2,False,0.14525352
+plantwild_007782,cmp_f38ec4c40993ea0f,tomato early blight,87,57,False,0.09194659
+plantwild_007788,cmp_003a19371205e6bf,tomato late blight,88,65,False,0.34851304
+plantwild_007793,cmp_047378385b736afc,tomato late blight,88,88,True,0.40786967
+plantwild_007794,cmp_0878765a92f33e04,tomato late blight,88,88,True,0.7882896
+plantwild_007811,cmp_2522c63ce0ebcb1c,tomato late blight,88,88,True,0.86838377
+plantwild_007828,cmp_452f6f24ad8b1509,tomato late blight,88,67,False,0.35657898
+plantwild_007829,cmp_4646cf36fdbbfa53,tomato late blight,88,88,True,0.9867026
+plantwild_007848,cmp_59bf98c11bc6af01,tomato late blight,88,88,True,0.76037544
+plantwild_007854,cmp_616ce25f51b201cd,tomato late blight,88,83,False,0.48669404
+plantwild_007859,cmp_67626b958aa83ccb,tomato late blight,88,87,False,0.18695788
+plantwild_007861,cmp_698fda79724718df,tomato late blight,88,88,True,0.5711699
+plantwild_007862,cmp_6bfa8c776d3f052d,tomato late blight,88,88,True,0.38190535
+plantwild_007863,cmp_6e58f1d7d60e9f83,tomato late blight,88,88,True,0.113351665
+plantwild_007877,cmp_8fc2c081c09d3275,tomato late blight,88,60,False,0.24665499
+plantwild_007883,cmp_98c890621d8e3038,tomato late blight,88,15,False,0.13716751
+plantwild_007887,cmp_9ec0f50d0e58979e,tomato late blight,88,88,True,0.32695675
+plantwild_007890,cmp_a2c8c0ee35793593,tomato late blight,88,57,False,0.29724306
+plantwild_007900,cmp_b2962f9588da4795,tomato late blight,88,8,False,0.41130677
+plantwild_007908,cmp_bd0aac30fad8420f,tomato late blight,88,68,False,0.20699109
+plantwild_007915,cmp_c6eb4c66e90a22ae,tomato late blight,88,94,False,0.5515278
+plantwild_007920,cmp_cabb817f93b34fe5,tomato late blight,88,94,False,0.45291436
+plantwild_007933,cmp_dec780af401f8804,tomato late blight,88,2,False,0.09886257
+plantwild_007938,cmp_e93b5b1d9d077f48,tomato late blight,88,60,False,0.32251844
+plantwild_007942,cmp_ee475c3c5b7ff632,tomato late blight,88,49,False,0.2977852
+plantwild_007944,cmp_f6b7b49b9b0c0306,tomato late blight,88,68,False,0.428023
+plantwild_007956,cmp_0b24cc3c63c2ea1d,tomato leaf mold,89,88,False,0.46260014
+plantwild_007968,cmp_1f4c78de83b01855,tomato leaf mold,89,89,True,0.68471736
+plantwild_007979,cmp_3e1468ee07add6ac,tomato leaf mold,89,89,True,0.50323015
+plantwild_007984,cmp_485f35dd115c3a3e,tomato leaf mold,89,89,True,0.78944206
+plantwild_007995,cmp_56d083b7f5ffb7d3,tomato leaf mold,89,22,False,0.28154433
+plantwild_008000,cmp_5fecfd10f1f42999,tomato leaf mold,89,86,False,0.45240614
+plantwild_008005,cmp_6304241a30fe001d,tomato leaf mold,89,89,True,0.15575811
+plantwild_008006,cmp_6824309223cfd38f,tomato leaf mold,89,89,True,0.6865815
+plantwild_008013,cmp_751df57072677996,tomato leaf mold,89,80,False,0.49341902
+plantwild_008014,cmp_754b997b0dc6532a,tomato leaf mold,89,104,False,0.210293
+plantwild_008020,cmp_7ce65d84342b4828,tomato leaf mold,89,17,False,0.10591729
+plantwild_008025,cmp_8b77b44a87d8f4ac,tomato leaf mold,89,89,True,0.9078855
+plantwild_008028,cmp_8d937be74bce2645,tomato leaf mold,89,89,True,0.65139735
+plantwild_008030,cmp_8f7955f134d1bfe5,tomato leaf mold,89,89,True,0.9859272
+plantwild_008039,cmp_9ce9ec4b45a0da06,tomato leaf mold,89,91,False,0.2731926
+plantwild_008040,cmp_a27df9b8b6ab9d92,tomato leaf mold,89,88,False,0.14547127
+plantwild_008049,cmp_b10a5f641b7ad185,tomato leaf mold,89,89,True,0.17544217
+plantwild_008072,cmp_ccb2d3c9b42f51cd,tomato leaf mold,89,54,False,0.15382953
+plantwild_008075,cmp_d0e079998a660ac7,tomato leaf mold,89,13,False,0.6548299
+plantwild_008082,cmp_de647a36617f8693,tomato leaf mold,89,89,True,0.76419336
+plantwild_008084,cmp_e302aca74b63af4d,tomato leaf mold,89,49,False,0.23566969
+plantwild_008092,cmp_f316b4d280f4902a,tomato leaf mold,89,30,False,0.23893265
+plantwild_008097,cmp_f855ea3fc239fff9,tomato leaf mold,89,89,True,0.98474556
+plantwild_008110,cmp_1d24ce99fad718d0,tomato mosaic virus,90,12,False,0.32514006
+plantwild_008137,cmp_90ed11c5a85b0ebb,tomato mosaic virus,90,92,False,0.50965446
+plantwild_008141,cmp_ac444ba06cd7cff7,tomato mosaic virus,90,92,False,0.36681443
+plantwild_008144,cmp_b8d3db9873148085,tomato mosaic virus,90,90,True,0.83177376
+plantwild_008147,cmp_bc3490dd706a3871,tomato mosaic virus,90,90,True,0.13916752
+plantwild_008153,cmp_d79ed755b7c91085,tomato mosaic virus,90,91,False,0.40632442
+plantwild_008155,cmp_e5578109e9424670,tomato mosaic virus,90,92,False,0.46662804
+plantwild_008159,cmp_efec2e853d38f472,tomato mosaic virus,90,92,False,0.69639426
+plantwild_008162,cmp_0087eec18df2a067,tomato septoria leaf spot,91,91,True,0.4363404
+plantwild_008166,cmp_03c2c4675e4502d8,tomato septoria leaf spot,91,77,False,0.21039855
+plantwild_008172,cmp_129b008127c3dd40,tomato septoria leaf spot,91,47,False,0.24074697
+plantwild_008195,cmp_4980dcec013051d3,tomato septoria leaf spot,91,46,False,0.4281757
+plantwild_008200,cmp_5bb5d3fd99820b3f,tomato septoria leaf spot,91,55,False,0.6872757
+plantwild_008216,cmp_842afa724caa176d,tomato septoria leaf spot,91,7,False,0.20128573
+plantwild_008223,cmp_909bd03a50cc0bcc,tomato septoria leaf spot,91,97,False,0.16702558
+plantwild_008230,cmp_99c6379086f4c583,tomato septoria leaf spot,91,29,False,0.8373512
+plantwild_008231,cmp_9c8f8cbc393aa0ba,tomato septoria leaf spot,91,24,False,0.6353713
+plantwild_008247,cmp_be4e1c6065ebdeb0,tomato septoria leaf spot,91,91,True,0.292713
+plantwild_008250,cmp_c58199000f4b15b5,tomato septoria leaf spot,91,91,True,0.6529859
+plantwild_008251,cmp_c5c748e286434f32,tomato septoria leaf spot,91,55,False,0.59228843
+plantwild_008253,cmp_ca5dc85dc50bddf7,tomato septoria leaf spot,91,6,False,0.37045276
+plantwild_008261,cmp_d0e9fa46ff4cfe42,tomato septoria leaf spot,91,53,False,0.36107963
+plantwild_008262,cmp_d3a84e282aa31b62,tomato septoria leaf spot,91,91,True,0.5402357
+plantwild_008263,cmp_d584ef04faa14c13,tomato septoria leaf spot,91,74,False,0.12970431
+plantwild_008266,cmp_e292a66d253bb3ae,tomato septoria leaf spot,91,33,False,0.5578807
+plantwild_008274,cmp_f5012b786df01562,tomato septoria leaf spot,91,7,False,0.27779573
+plantwild_008295,cmp_3653397c43b97b12,tomato yellow leaf curl virus,92,1,False,0.3779149
+plantwild_008296,cmp_38d313c10a104078,tomato yellow leaf curl virus,92,31,False,0.6131828
+plantwild_008299,cmp_3f06a262cd7ec1c9,tomato yellow leaf curl virus,92,35,False,0.21437882
+plantwild_008301,cmp_4390f6dc0d8bb3bb,tomato yellow leaf curl virus,92,92,True,0.40943596
+plantwild_008321,cmp_7cf903a5a47b7173,tomato yellow leaf curl virus,92,92,True,0.85790586
+plantwild_008328,cmp_9ecc314b53ed9f7e,tomato yellow leaf curl virus,92,90,False,0.632794
+plantwild_008330,cmp_a2d6342c51e51a45,tomato yellow leaf curl virus,92,92,True,0.8962061
+plantwild_008335,cmp_b272cc696067dbcc,tomato yellow leaf curl virus,92,90,False,0.2782594
+plantwild_008338,cmp_bbd361866e87c9fb,tomato yellow leaf curl virus,92,1,False,0.41441658
+plantwild_008343,cmp_c15f95d7e5d587fd,tomato yellow leaf curl virus,92,92,True,0.8162829
+plantwild_008352,cmp_d68d461f59affd41,tomato yellow leaf curl virus,92,35,False,0.20330484
+plantwild_008359,cmp_ea8ed5a65baf510f,tomato yellow leaf curl virus,92,31,False,0.5114716
+plantwild_008368,cmp_fe7285d531e2c8ab,tomato yellow leaf curl virus,92,92,True,0.19798635
+plantwild_008380,cmp_15733f2150a39c0d,wheat bacterial leaf streak (black chaff),93,98,False,0.79866314
+plantwild_008389,cmp_2a65e600826a4088,wheat bacterial leaf streak (black chaff),93,98,False,0.48706967
+plantwild_008390,cmp_2bcd9c56c3785b18,wheat bacterial leaf streak (black chaff),93,93,True,0.53955215
+plantwild_008394,cmp_3743156a7ace6d41,wheat bacterial leaf streak (black chaff),93,5,False,0.40461668
+plantwild_008396,cmp_3d3b2e9c3ee69187,wheat bacterial leaf streak (black chaff),93,93,True,0.5742348
+plantwild_008400,cmp_3f67c0b261ec6d87,wheat bacterial leaf streak (black chaff),93,100,False,0.5562425
+plantwild_008411,cmp_59149db641b663e0,wheat bacterial leaf streak (black chaff),93,93,True,0.78528005
+plantwild_008414,cmp_64b0ed67af2145c3,wheat bacterial leaf streak (black chaff),93,97,False,0.17430292
+plantwild_008418,cmp_6ac9a08622eac677,wheat bacterial leaf streak (black chaff),93,100,False,0.62557906
+plantwild_008430,cmp_87057ff9cd1a792c,wheat bacterial leaf streak (black chaff),93,97,False,0.21124709
+plantwild_008437,cmp_920dc3884637169e,wheat bacterial leaf streak (black chaff),93,97,False,0.22899227
+plantwild_008443,cmp_9ae0b51009bfc447,wheat bacterial leaf streak (black chaff),93,72,False,0.3237515
+plantwild_008444,cmp_9e475fb54d6263a3,wheat bacterial leaf streak (black chaff),93,100,False,0.9138833
+plantwild_008447,cmp_a1f1ac0271d0794b,wheat bacterial leaf streak (black chaff),93,93,True,0.81560934
+plantwild_008459,cmp_cb7adb5533762cc7,wheat bacterial leaf streak (black chaff),93,39,False,0.27430338
+plantwild_008469,cmp_f9f115374c10d6a3,wheat bacterial leaf streak (black chaff),93,93,True,0.4668042
+plantwild_008477,cmp_01f17b7f7277d9fc,wheat head scab,94,94,True,0.79443276
+plantwild_008495,cmp_13c8b4921e256211,wheat head scab,94,94,True,0.9467336
+plantwild_008507,cmp_1d6593dbdd47e541,wheat head scab,94,94,True,0.85052884
+plantwild_008509,cmp_201df85c085cfa36,wheat head scab,94,94,True,0.34790307
+plantwild_008521,cmp_36429128ffbd90c9,wheat head scab,94,100,False,0.6962901
+plantwild_008540,cmp_4341ae1b6d133de5,wheat head scab,94,94,True,0.98551977
+plantwild_008542,cmp_45a2176a03426859,wheat head scab,94,94,True,0.89235175
+plantwild_008545,cmp_46b05179791abf7f,wheat head scab,94,94,True,0.8524566
+plantwild_008547,cmp_47997a0c6948d209,wheat head scab,94,94,True,0.38721997
+plantwild_008562,cmp_5606c1ff87c188ad,wheat head scab,94,94,True,0.79221135
+plantwild_008564,cmp_570140100257a527,wheat head scab,94,94,True,0.501083
+plantwild_008567,cmp_5b1f559b1236d523,wheat head scab,94,94,True,0.92149687
+plantwild_008571,cmp_5ecde6ee4e0b36a9,wheat head scab,94,86,False,0.39067894
+plantwild_008578,cmp_633bb4a485be1203,wheat head scab,94,94,True,0.96101075
+plantwild_008579,cmp_637a2f240d1a4b94,wheat head scab,94,94,True,0.96475995
+plantwild_008596,cmp_70f00d8eaa55b494,wheat head scab,94,94,True,0.53465366
+plantwild_008597,cmp_71cbc9979729c4ff,wheat head scab,94,94,True,0.6242062
+plantwild_008608,cmp_83269c0b62639739,wheat head scab,94,94,True,0.67063314
+plantwild_008617,cmp_8b32c6c489eb23ef,wheat head scab,94,28,False,0.3256582
+plantwild_008620,cmp_8da7891e89a5fccc,wheat head scab,94,94,True,0.8208026
+plantwild_008621,cmp_8df1a1270497a2d3,wheat head scab,94,94,True,0.21809271
+plantwild_008622,cmp_9366be989004c570,wheat head scab,94,94,True,0.96029246
+plantwild_008629,cmp_97e203f599208742,wheat head scab,94,94,True,0.82420814
+plantwild_008646,cmp_ab314f611491969a,wheat head scab,94,94,True,0.94700253
+plantwild_008650,cmp_ac0ef99802090413,wheat head scab,94,93,False,0.42702356
+plantwild_008658,cmp_b805e382301a2352,wheat head scab,94,96,False,0.1791311
+plantwild_008671,cmp_c782169c639cd6a3,wheat head scab,94,93,False,0.41299084
+plantwild_008672,cmp_c86c9a409db4b87d,wheat head scab,94,94,True,0.9207404
+plantwild_008677,cmp_ca574ddcfbc37e53,wheat head scab,94,97,False,0.56726915
+plantwild_008686,cmp_d5cd11126b66c6ab,wheat head scab,94,52,False,0.39250955
+plantwild_008687,cmp_d680992c03e8c14b,wheat head scab,94,61,False,0.72911996
+plantwild_008692,cmp_d81ae45326c8db46,wheat head scab,94,96,False,0.7200577
+plantwild_008693,cmp_d85884ee4d861cc8,wheat head scab,94,94,True,0.74036884
+plantwild_008702,cmp_e267442a71ed315b,wheat head scab,94,27,False,0.15581703
+plantwild_008715,cmp_eb041688b6cf3035,wheat head scab,94,94,True,0.24182811
+plantwild_008720,cmp_f02439c4c3b971bf,wheat head scab,94,94,True,0.5870536
+plantwild_008722,cmp_f103170c523193e9,wheat head scab,94,94,True,0.122449204
+plantwild_008723,cmp_f30b029fc7f3ffaf,wheat head scab,94,94,True,0.92430454
+plantwild_008728,cmp_fd15fd7d707f1758,wheat head scab,94,99,False,0.294559
+plantwild_008756,cmp_278686f5409e26fd,wheat leaf rust,95,41,False,0.7233037
+plantwild_008768,cmp_3cdf13f289375844,wheat leaf rust,95,95,True,0.5755174
+plantwild_008770,cmp_442d6cd4a271e461,wheat leaf rust,95,71,False,0.34336013
+plantwild_008771,cmp_44ce8ead2598afb5,wheat leaf rust,95,95,True,0.46198958
+plantwild_008773,cmp_501d74a653a418ee,wheat leaf rust,95,95,True,0.6839569
+plantwild_008778,cmp_588d9a56a9c1d4cb,wheat leaf rust,95,100,False,0.44818223
+plantwild_008780,cmp_5a36f53737b724c8,wheat leaf rust,95,95,True,0.51914257
+plantwild_008788,cmp_68120d548b948185,wheat leaf rust,95,95,True,0.8596786
+plantwild_008795,cmp_770c6a94715b2725,wheat leaf rust,95,95,True,0.51971024
+plantwild_008803,cmp_84b8e8f354de0945,wheat leaf rust,95,73,False,0.094119556
+plantwild_008815,cmp_a7357607dc1ebee7,wheat leaf rust,95,100,False,0.65372
+plantwild_008819,cmp_b8e98c7821f643a2,wheat leaf rust,95,41,False,0.71769756
+plantwild_008827,cmp_c821178e04cc0676,wheat leaf rust,95,50,False,0.6061039
+plantwild_008840,cmp_e8756fd42cfc49f3,wheat leaf rust,95,100,False,0.48095596
+plantwild_008843,cmp_f3c0749308ec1abc,wheat leaf rust,95,31,False,0.10788303
+plantwild_008847,cmp_fa52f5e17263e4ca,wheat leaf rust,95,66,False,0.27412882
+plantwild_008849,cmp_fd3e13465c127a13,wheat leaf rust,95,95,True,0.22325465
+plantwild_008850,cmp_ff12c5170187f4c5,wheat leaf rust,95,95,True,0.8015229
+plantwild_008853,cmp_02117dc0e1356513,wheat loose smut,96,48,False,0.40162468
+plantwild_008859,cmp_0b6e8e4dbb6aada2,wheat loose smut,96,96,True,0.6847895
+plantwild_008860,cmp_0b78b5dde6134a33,wheat loose smut,96,96,True,0.96562004
+plantwild_008866,cmp_15c2dd925af1cc1b,wheat loose smut,96,97,False,0.43395692
+plantwild_008880,cmp_23194dd8af6199c7,wheat loose smut,96,96,True,0.65906966
+plantwild_008882,cmp_267c8184bb1319f3,wheat loose smut,96,96,True,0.6810934
+plantwild_008883,cmp_275acf3377cbee55,wheat loose smut,96,99,False,0.28431258
+plantwild_008896,cmp_3bbbe5cfe15517fd,wheat loose smut,96,36,False,0.11239673
+plantwild_008898,cmp_3e01e36fb1b829eb,wheat loose smut,96,50,False,0.17288335
+plantwild_008899,cmp_3e4bf396235dca69,wheat loose smut,96,96,True,0.96422356
+plantwild_008902,cmp_4189142c8fb88e4f,wheat loose smut,96,96,True,0.5759233
+plantwild_008912,cmp_51c4188372fe3647,wheat loose smut,96,96,True,0.90463
+plantwild_008913,cmp_529f0fbe647f5257,wheat loose smut,96,96,True,0.68070716
+plantwild_008918,cmp_5ada4c9d2b6efd60,wheat loose smut,96,96,True,0.49537903
+plantwild_008931,cmp_6e02b78ecd059e9d,wheat loose smut,96,96,True,0.78144836
+plantwild_008937,cmp_7cbe7f9b30f5843e,wheat loose smut,96,96,True,0.2845141
+plantwild_008939,cmp_7f456d7c5e1a1807,wheat loose smut,96,96,True,0.92339927
+plantwild_008948,cmp_8b5e2b6d0dd26e26,wheat loose smut,96,96,True,0.78742903
+plantwild_008952,cmp_93fee68b390bad26,wheat loose smut,96,96,True,0.55051327
+plantwild_008960,cmp_9b9ceee748816080,wheat loose smut,96,96,True,0.7959524
+plantwild_008964,cmp_a3cb5085f9355b3d,wheat loose smut,96,19,False,0.3006862
+plantwild_008984,cmp_c99ab13114547423,wheat loose smut,96,96,True,0.98383176
+plantwild_009000,cmp_da16149b736b95f3,wheat loose smut,96,96,True,0.9707502
+plantwild_009004,cmp_e10b301a100e90d0,wheat loose smut,96,94,False,0.66578573
+plantwild_009011,cmp_ecf63177c4c27b12,wheat loose smut,96,96,True,0.54512286
+plantwild_009021,cmp_fc3164f0fce3b16b,wheat loose smut,96,96,True,0.7968468
+plantwild_009026,cmp_00ed8744ef6d25ad,wheat powdery mildew,97,97,True,0.6582346
+plantwild_009030,cmp_04a2f02f3a186195,wheat powdery mildew,97,97,True,0.9327345
+plantwild_009063,cmp_2d8fd17add2fef0c,wheat powdery mildew,97,97,True,0.62821764
+plantwild_009066,cmp_30f4345dc9425fc5,wheat powdery mildew,97,97,True,0.70876163
+plantwild_009069,cmp_32270dc76da909d4,wheat powdery mildew,97,44,False,0.25106457
+plantwild_009087,cmp_4896b7852fc73c96,wheat powdery mildew,97,98,False,0.78952783
+plantwild_009089,cmp_4a58f8317d951b00,wheat powdery mildew,97,97,True,0.72786075
+plantwild_009107,cmp_639d79fd5588eb99,wheat powdery mildew,97,25,False,0.3136883
+plantwild_009110,cmp_64807d5bb5310e6a,wheat powdery mildew,97,87,False,0.6910203
+plantwild_009119,cmp_6c6dfec2cff04f63,wheat powdery mildew,97,72,False,0.73746383
+plantwild_009124,cmp_6f159b45d356698c,wheat powdery mildew,97,97,True,0.7077005
+plantwild_009127,cmp_76c1cdf4f98843fb,wheat powdery mildew,97,97,True,0.514508
+plantwild_009135,cmp_7b37d3631b7d5fd0,wheat powdery mildew,97,97,True,0.22933559
+plantwild_009140,cmp_7d0e76d1b60b97c0,wheat powdery mildew,97,97,True,0.5617187
+plantwild_009156,cmp_8cbd5fa63cac1e1b,wheat powdery mildew,97,97,True,0.3526801
+plantwild_009162,cmp_8f83996e9e36d660,wheat powdery mildew,97,93,False,0.69826627
+plantwild_009171,cmp_9a5eb0ad775e757a,wheat powdery mildew,97,97,True,0.51268846
+plantwild_009172,cmp_9bc357392b26ed34,wheat powdery mildew,97,97,True,0.91029483
+plantwild_009177,cmp_a1806d20ec773fd8,wheat powdery mildew,97,40,False,0.09384344
+plantwild_009178,cmp_a319fdb54a412c9f,wheat powdery mildew,97,97,True,0.6870563
+plantwild_009183,cmp_a6f3a84f8a5cfdb2,wheat powdery mildew,97,97,True,0.9367212
+plantwild_009197,cmp_b39e37b26ccc8e8d,wheat powdery mildew,97,87,False,0.42933074
+plantwild_009198,cmp_b504480728dfef63,wheat powdery mildew,97,40,False,0.45987436
+plantwild_009205,cmp_b87fb8f25d84fb50,wheat powdery mildew,97,39,False,0.10714998
+plantwild_009206,cmp_b9d308349412633f,wheat powdery mildew,97,97,True,0.39719638
+plantwild_009209,cmp_bbc0a96f562798bd,wheat powdery mildew,97,96,False,0.53484863
+plantwild_009215,cmp_c753886b69f582a1,wheat powdery mildew,97,49,False,0.7926485
+plantwild_009218,cmp_cace58d48ec5b5e7,wheat powdery mildew,97,97,True,0.4926863
+plantwild_009224,cmp_cccc5da25339c23d,wheat powdery mildew,97,97,True,0.7398095
+plantwild_009226,cmp_cd2e9f819ce2f294,wheat powdery mildew,97,14,False,0.31200963
+plantwild_009233,cmp_d2c22a4d15cd9bc1,wheat powdery mildew,97,39,False,0.22024743
+plantwild_009240,cmp_d6e7add602ce98cc,wheat powdery mildew,97,97,True,0.94063497
+plantwild_009245,cmp_dbc8c8af7fddf4ca,wheat powdery mildew,97,97,True,0.62389576
+plantwild_009254,cmp_e12363cd063a3070,wheat powdery mildew,97,97,True,0.7067373
+plantwild_009256,cmp_e22fbb0ebbaffc31,wheat powdery mildew,97,97,True,0.5401473
+plantwild_009257,cmp_e27363e582a1e440,wheat powdery mildew,97,32,False,0.16118918
+plantwild_009261,cmp_e8dad36c75b4715f,wheat powdery mildew,97,80,False,0.19840187
+plantwild_009274,cmp_f82cb1dde7284b74,wheat powdery mildew,97,97,True,0.53352886
+plantwild_009279,cmp_00ecb4cce40d7620,wheat septoria blotch,98,72,False,0.5340283
+plantwild_009285,cmp_042bd9754d775dcb,wheat septoria blotch,98,100,False,0.7366721
+plantwild_009289,cmp_0c994d049416afb7,wheat septoria blotch,98,97,False,0.40002936
+plantwild_009299,cmp_1397910251d1a061,wheat septoria blotch,98,98,True,0.5196978
+plantwild_009303,cmp_1a391f3975148880,wheat septoria blotch,98,98,True,0.925899
+plantwild_009307,cmp_22c5afaa0304b265,wheat septoria blotch,98,93,False,0.7555671
+plantwild_009325,cmp_3e20da359079faca,wheat septoria blotch,98,8,False,0.12909396
+plantwild_009334,cmp_47136a6842e0e257,wheat septoria blotch,98,93,False,0.33516034
+plantwild_009336,cmp_49bfa90a6212ecf7,wheat septoria blotch,98,49,False,0.54456943
+plantwild_009339,cmp_4bde5807884df6fd,wheat septoria blotch,98,98,True,0.8964812
+plantwild_009352,cmp_5acc96765dcf1c24,wheat septoria blotch,98,98,True,0.82093304
+plantwild_009354,cmp_5c4140f63908dd12,wheat septoria blotch,98,97,False,0.7017849
+plantwild_009359,cmp_604a030e56e6526f,wheat septoria blotch,98,100,False,0.18110193
+plantwild_009377,cmp_7ad1ea4be84302e6,wheat septoria blotch,98,40,False,0.2251173
+plantwild_009383,cmp_7e533f8ef2e3bc9e,wheat septoria blotch,98,4,False,0.09371953
+plantwild_009393,cmp_8bd72a3bc79d6822,wheat septoria blotch,98,100,False,0.307848
+plantwild_009399,cmp_92bafb7e0eee2860,wheat septoria blotch,98,5,False,0.43363005
+plantwild_009401,cmp_978a525d97824c80,wheat septoria blotch,98,98,True,0.82484615
+plantwild_009410,cmp_a8206c1d908aca3c,wheat septoria blotch,98,100,False,0.3582725
+plantwild_009416,cmp_ac9f26e0fd9ec19d,wheat septoria blotch,98,100,False,0.71615237
+plantwild_009420,cmp_b2a2d6d5bd2c7636,wheat septoria blotch,98,98,True,0.7805211
+plantwild_009424,cmp_bd885043987fa4ce,wheat septoria blotch,98,98,True,0.54478526
+plantwild_009434,cmp_c9e7cd25df28661c,wheat septoria blotch,98,93,False,0.29275963
+plantwild_009436,cmp_cac9fc2a232b96bf,wheat septoria blotch,98,93,False,0.20878972
+plantwild_009441,cmp_cdf6fc775623988e,wheat septoria blotch,98,39,False,0.20211008
+plantwild_009454,cmp_e609177ba1780644,wheat septoria blotch,98,98,True,0.84593725
+plantwild_009456,cmp_e94c13c016a0873b,wheat septoria blotch,98,72,False,0.20198908
+plantwild_009460,cmp_efb4e9bdb4f85e38,wheat septoria blotch,98,93,False,0.50609493
+plantwild_009477,cmp_1f84c54a39e32a61,wheat stem rust,99,99,True,0.9755712
+plantwild_009480,cmp_2443020ff2f76ea5,wheat stem rust,99,99,True,0.97130483
+plantwild_009501,cmp_4ecea6f19e13d991,wheat stem rust,99,99,True,0.6909019
+plantwild_009506,cmp_554249b037ce6746,wheat stem rust,99,99,True,0.8975261
+plantwild_009532,cmp_8238a18a0722f9e7,wheat stem rust,99,99,True,0.98007524
+plantwild_009533,cmp_83d4de2cd38d10cc,wheat stem rust,99,99,True,0.83011955
+plantwild_009540,cmp_927c440090f7f668,wheat stem rust,99,99,True,0.99006236
+plantwild_009541,cmp_9e1b8076c2154f1e,wheat stem rust,99,99,True,0.9315036
+plantwild_009542,cmp_9f0837a7680433c2,wheat stem rust,99,99,True,0.5463331
+plantwild_009544,cmp_a2df1ae517e1ed3d,wheat stem rust,99,41,False,0.15064748
+plantwild_009553,cmp_b5065370da3cb0d5,wheat stem rust,99,99,True,0.9999471
+plantwild_009557,cmp_b995c1411166f6d5,wheat stem rust,99,99,True,0.3733393
+plantwild_009566,cmp_c6e74ff1c05b65ac,wheat stem rust,99,99,True,0.69087404
+plantwild_009570,cmp_cedd05e0be64f4d7,wheat stem rust,99,72,False,0.19577283
+plantwild_009574,cmp_db36a1d545575d8a,wheat stem rust,99,99,True,0.52401596
+plantwild_009575,cmp_e316d4c309e32949,wheat stem rust,99,99,True,0.24569163
+plantwild_009587,cmp_fc867b2c4a2cfcae,wheat stem rust,99,99,True,0.29706016
+plantwild_009588,cmp_fd472f8d2f4d2a45,wheat stem rust,99,97,False,0.24200794
+plantwild_009590,cmp_ff2147f6677e60d5,wheat stem rust,99,95,False,0.23027463
+plantwild_009594,cmp_03b3b2d8f14c7e75,wheat stripe rust,100,100,True,0.97479635
+plantwild_009599,cmp_0a5b57dd24c0eaab,wheat stripe rust,100,100,True,0.9258431
+plantwild_009607,cmp_0ce6401d7f6c38e1,wheat stripe rust,100,100,True,0.27897942
+plantwild_009610,cmp_0de510229cf2274e,wheat stripe rust,100,100,True,0.6229883
+plantwild_009630,cmp_205154173e48a8b6,wheat stripe rust,100,41,False,0.27979943
+plantwild_009631,cmp_222b7afab7291622,wheat stripe rust,100,100,True,0.8242139
+plantwild_009633,cmp_24241055174a1a74,wheat stripe rust,100,100,True,0.30736586
+plantwild_009636,cmp_28f605b4877de4bd,wheat stripe rust,100,100,True,0.89737916
+plantwild_009643,cmp_2d927c0ec2342783,wheat stripe rust,100,100,True,0.89784276
+plantwild_009659,cmp_3875e4d740c903ae,wheat stripe rust,100,100,True,0.4923736
+plantwild_009675,cmp_4465f3202501c21a,wheat stripe rust,100,100,True,0.92634296
+plantwild_009689,cmp_50acddc978465a1f,wheat stripe rust,100,100,True,0.9233692
+plantwild_009690,cmp_51055976f661d047,wheat stripe rust,100,100,True,0.9034658
+plantwild_009693,cmp_53a8255e9c7e09a4,wheat stripe rust,100,100,True,0.15264095
+plantwild_009697,cmp_579ecdecfe707643,wheat stripe rust,100,100,True,0.18732044
+plantwild_009702,cmp_5bb6de70ea980b39,wheat stripe rust,100,100,True,0.9332411
+plantwild_009706,cmp_5d033006b98e5e84,wheat stripe rust,100,100,True,0.44520137
+plantwild_009708,cmp_5eb03b88a83e1d25,wheat stripe rust,100,100,True,0.821115
+plantwild_009711,cmp_60b61617c9292615,wheat stripe rust,100,100,True,0.27814394
+plantwild_009715,cmp_643b43cdb19a2510,wheat stripe rust,100,100,True,0.82209563
+plantwild_009720,cmp_66c51a1de2a9f3c8,wheat stripe rust,100,98,False,0.43624607
+plantwild_009729,cmp_6b949bb1029df51f,wheat stripe rust,100,95,False,0.49791664
+plantwild_009742,cmp_77b604a73c7cb0a3,wheat stripe rust,100,100,True,0.72249603
+plantwild_009745,cmp_79499dcd4b07d78b,wheat stripe rust,100,50,False,0.7549418
+plantwild_009750,cmp_8153c64f81a550ed,wheat stripe rust,100,100,True,0.57493985
+plantwild_009766,cmp_8f206e279e96b4d8,wheat stripe rust,100,98,False,0.47589275
+plantwild_009774,cmp_949c99841027f73c,wheat stripe rust,100,100,True,0.8899902
+plantwild_009778,cmp_973a5ec652f64182,wheat stripe rust,100,97,False,0.12276096
+plantwild_009779,cmp_98c419af0937eaea,wheat stripe rust,100,100,True,0.69961554
+plantwild_009782,cmp_9a77b594063df5bd,wheat stripe rust,100,100,True,0.8797342
+plantwild_009792,cmp_9f8053253e2c2cb5,wheat stripe rust,100,98,False,0.40739232
+plantwild_009798,cmp_a9364d3cbcb90a20,wheat stripe rust,100,98,False,0.9676155
+plantwild_009799,cmp_aa9b35dd08a4f45e,wheat stripe rust,100,97,False,0.8628556
+plantwild_009813,cmp_b2f3fd54d4cb28cf,wheat stripe rust,100,100,True,0.5400229
+plantwild_009820,cmp_b9e6f5ef45caa0fa,wheat stripe rust,100,95,False,0.34377426
+plantwild_009824,cmp_bdc9b092c7d27f5b,wheat stripe rust,100,100,True,0.78912354
+plantwild_009827,cmp_c078436cc47c4e72,wheat stripe rust,100,97,False,0.33820957
+plantwild_009834,cmp_c79523e9581c6bc0,wheat stripe rust,100,97,False,0.2733495
+plantwild_009839,cmp_ce1e5cddcc6837e7,wheat stripe rust,100,100,True,0.83773816
+plantwild_009841,cmp_ced90ca4d9b722b5,wheat stripe rust,100,100,True,0.2074717
+plantwild_009852,cmp_d74215258c4f8d39,wheat stripe rust,100,100,True,0.8482698
+plantwild_009854,cmp_d8cda23d4c576480,wheat stripe rust,100,100,True,0.6649318
+plantwild_009860,cmp_df66c806709db845,wheat stripe rust,100,100,True,0.48201132
+plantwild_009868,cmp_e3c1e3906e2df154,wheat stripe rust,100,100,True,0.6547478
+plantwild_009884,cmp_f1c3fa52bf996442,wheat stripe rust,100,100,True,0.5260161
+plantwild_009885,cmp_f1d9295c58c0f379,wheat stripe rust,100,100,True,0.88020355
+plantwild_009888,cmp_f2d9a39a6afc8ecd,wheat stripe rust,100,100,True,0.93963456
+plantwild_009905,cmp_048c59c455352511,zucchini bacterial wilt,101,101,True,0.15052417
+plantwild_009910,cmp_13e020798c502c58,zucchini bacterial wilt,101,101,True,0.47922558
+plantwild_009915,cmp_246d8cbdafb46950,zucchini bacterial wilt,101,101,True,0.4827071
+plantwild_009917,cmp_25d885c7dd8a067c,zucchini bacterial wilt,101,101,True,0.32720053
+plantwild_009930,cmp_5845ba9c12103bc7,zucchini bacterial wilt,101,92,False,0.095483586
+plantwild_009943,cmp_8cf1642fb476b0bd,zucchini bacterial wilt,101,61,False,0.22270489
+plantwild_009958,cmp_be87798610b95f47,zucchini bacterial wilt,101,101,True,0.99782443
+plantwild_009964,cmp_f580284ca51a68b1,zucchini bacterial wilt,101,87,False,0.17134647
+plantwild_009965,cmp_f70cbc4bb2c6b4d4,zucchini bacterial wilt,101,44,False,0.45325756
+plantwild_009982,cmp_45c878c2754e6b7f,zucchini downy mildew,102,54,False,0.29265
+plantwild_009984,cmp_4b2e0284304e90e2,zucchini downy mildew,102,102,True,0.29447734
+plantwild_009990,cmp_61d7f08fc791d399,zucchini downy mildew,102,76,False,0.57209814
+plantwild_009994,cmp_8a81c77901be7c32,zucchini downy mildew,102,43,False,0.9712484
+plantwild_009995,cmp_915f90c6b3b9883e,zucchini downy mildew,102,43,False,0.49298632
+plantwild_010002,cmp_baa109f82bdff286,zucchini downy mildew,102,29,False,0.1989446
+plantwild_010010,cmp_03519ae4bf855445,zucchini powdery mildew,103,45,False,0.29211658
+plantwild_010014,cmp_0965c41be9e0c571,zucchini powdery mildew,103,45,False,0.26637712
+plantwild_010018,cmp_0d0c0f05b42a7681,zucchini powdery mildew,103,78,False,0.52984565
+plantwild_010039,cmp_2c892950c83f55a8,zucchini powdery mildew,103,80,False,0.7160762
+plantwild_010045,cmp_350c998210417623,zucchini powdery mildew,103,103,True,0.97281474
+plantwild_010048,cmp_3624742f6adf177a,zucchini powdery mildew,103,103,True,0.5830438
+plantwild_010051,cmp_3a4d1b9fc0810efa,zucchini powdery mildew,103,103,True,0.9848882
+plantwild_010059,cmp_41c6315d2434f948,zucchini powdery mildew,103,80,False,0.73273546
+plantwild_010065,cmp_4dce38993a8d102f,zucchini powdery mildew,103,103,True,0.9744666
+plantwild_010068,cmp_51073b14edafe2bf,zucchini powdery mildew,103,80,False,0.28219524
+plantwild_010069,cmp_51adc8aef3c06e07,zucchini powdery mildew,103,103,True,0.48827782
+plantwild_010080,cmp_607e0f4906a5c931,zucchini powdery mildew,103,103,True,0.8130964
+plantwild_010091,cmp_770804f8f28de1f3,zucchini powdery mildew,103,80,False,0.35712355
+plantwild_010094,cmp_7becb161d2de6f0d,zucchini powdery mildew,103,42,False,0.54519427
+plantwild_010100,cmp_830b657de3c4b189,zucchini powdery mildew,103,54,False,0.31231648
+plantwild_010104,cmp_8684e111df23ea47,zucchini powdery mildew,103,103,True,0.8053508
+plantwild_010106,cmp_87df856f95e92b71,zucchini powdery mildew,103,45,False,0.3099905
+plantwild_010119,cmp_981fcd5cfe277aab,zucchini powdery mildew,103,103,True,0.46726444
+plantwild_010122,cmp_9bcb4de268c99796,zucchini powdery mildew,103,80,False,0.8354969
+plantwild_010132,cmp_aedc2ab651b23ca2,zucchini powdery mildew,103,80,False,0.20426428
+plantwild_010137,cmp_b553fdc7c1f15e0d,zucchini powdery mildew,103,103,True,0.5409173
+plantwild_010139,cmp_b68105ffe9519afb,zucchini powdery mildew,103,103,True,0.9134689
+plantwild_010159,cmp_e66190ec4a23d660,zucchini powdery mildew,103,80,False,0.30394208
+plantwild_010168,cmp_efa63c58fb492ca4,zucchini powdery mildew,103,103,True,0.9622965
+plantwild_010170,cmp_f07a3e946db0a45b,zucchini powdery mildew,103,45,False,0.41370624
+plantwild_010180,cmp_0d2b042e5cd46f0b,zucchini yellow mosaic virus,104,45,False,0.28294665
+plantwild_010187,cmp_1bf37e7df43ba5b7,zucchini yellow mosaic virus,104,90,False,0.42184204
+plantwild_010196,cmp_2bc95e232c74a89d,zucchini yellow mosaic virus,104,58,False,0.39418942
+plantwild_010200,cmp_3cf4f0c52749380c,zucchini yellow mosaic virus,104,61,False,0.75493956
+plantwild_010204,cmp_430a6d6a8153739d,zucchini yellow mosaic virus,104,103,False,0.59282124
+plantwild_010206,cmp_4f86b351999bdfa6,zucchini yellow mosaic virus,104,45,False,0.46700937
+plantwild_010212,cmp_627a8408b8b2d13c,zucchini yellow mosaic virus,104,104,True,0.36870375
+plantwild_010219,cmp_6fe95be451efc4e9,zucchini yellow mosaic virus,104,104,True,0.795387
+plantwild_010230,cmp_8cffb02bef807b00,zucchini yellow mosaic virus,104,64,False,0.44161656
+plantwild_010234,cmp_9986b60e2fca962e,zucchini yellow mosaic virus,104,31,False,0.1484945
+plantwild_010253,cmp_d6b8c3576988b6f6,zucchini yellow mosaic virus,104,78,False,0.108365186
+plantwild_010254,cmp_d9b93dbac80c8f13,zucchini yellow mosaic virus,104,80,False,0.37748316
+plantwild_010263,cmp_f37f31a5cf5867a9,zucchini yellow mosaic virus,104,58,False,0.19841681
+plantwild_010271,cmp_ff79ce48878c8e9d,zucchini yellow mosaic virus,104,12,False,0.51963794

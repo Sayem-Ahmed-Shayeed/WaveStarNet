@@ -1,0 +1,32 @@
+{
+  "ablation_key": "conventional_downsampling",
+  "architecture_sha256": "fa89c27929b7e218dae3b49154fc29d026fe643f2df69c65edf0cf65b0bf49be",
+  "backbone_schema_sha256": null,
+  "checkpoint_loaded": false,
+  "display_name": "WavestarNet V2 (conventional downsampling)",
+  "downsampling_locations": [
+    "stages.0.0",
+    "stages.1.0",
+    "stages.2.0",
+    "stages.3.0"
+  ],
+  "downsampling_type": "depthwise_pointwise_stride2",
+  "fusion_operator": "multiplicative_star",
+  "head_type": "multistage_s2_s3_s4",
+  "initialization": "random",
+  "parameters": 2661737,
+  "pretrained": false,
+  "se_attention_count": 0,
+  "se_attention_locations": [],
+  "spectral_operator": "selective_wavelet_gate",
+  "state_schema_sha256": "af8f6b4b3d2c7ac27d0e1e5011ee53204ffb14dc0004f2d107953dbb89205bc4",
+  "teacher_loaded": false,
+  "wavelet_gate_count": 5,
+  "wavelet_gate_locations": [
+    "stages.0.1.spec",
+    "stages.1.1.spec",
+    "stages.2.1.spec",
+    "stages.2.5.spec",
+    "stages.3.1.spec"
+  ]
+}

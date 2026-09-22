@@ -1,0 +1,10 @@
+{
+  "description": "Private conservative duplicate-cleaned PlantDoc repack derivative with a 27-class deterministic benchmark manifest.",
+  "id": "sayemahmedshayeed/plantdoc-clean-grouped-v1",
+  "licenses": [
+    {
+      "name": "other"
+    }
+  ],
+  "title": "PlantDoc Clean Grouped 27 Class V1"
+}

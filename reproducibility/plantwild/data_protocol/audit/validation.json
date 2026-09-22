@@ -1,0 +1,14 @@
+{
+  "errors": [],
+  "manifest_classes": 105,
+  "manifest_components": 10272,
+  "manifest_images": 10272,
+  "ok": true,
+  "source_archive_sha256": "5c3fd0c6ecf9a346c9d2dd03ff47769c71e581eb1170a68477d718ab43cfee5b",
+  "source_tree_unchanged": true,
+  "split_counts": {
+    "test": 1523,
+    "train": 7188,
+    "validation": 1561
+  }
+}

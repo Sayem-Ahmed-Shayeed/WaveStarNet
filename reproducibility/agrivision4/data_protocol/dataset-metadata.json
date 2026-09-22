@@ -1,0 +1,10 @@
+{
+  "description": "Private conservative duplicate-cleaned AgriVision 4 derivative with a 21-class deterministic benchmark manifest.",
+  "id": "sumitnath07/agrivision4-clean-grouped-v1",
+  "licenses": [
+    {
+      "name": "other"
+    }
+  ],
+  "title": "AgriVision 4 Clean Grouped 21-Class V1"
+}

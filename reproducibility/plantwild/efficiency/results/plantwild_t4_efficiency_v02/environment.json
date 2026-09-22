@@ -1,0 +1,21 @@
+{
+  "benchmark_scope": "model_only_synthetic_input",
+  "checkpoint_required": false,
+  "created_at": "2026-07-22T11:46:44.295943+00:00",
+  "cuda_available": true,
+  "cuda_device": "Tesla T4",
+  "cuda_device_count": 1,
+  "cuda_runtime": "12.8",
+  "cudnn": 91002,
+  "cudnn_benchmark": true,
+  "dataset_accessed": false,
+  "numpy": "2.0.2",
+  "platform": "Linux-6.12.90+-x86_64-with-glibc2.35",
+  "processor": "x86_64",
+  "protocol_id": "plantwild_model_only_t4_efficiency_v1",
+  "python": "3.12.13",
+  "tf32_cudnn": false,
+  "tf32_matmul": false,
+  "timm": "1.0.26",
+  "torch": "2.10.0+cu128"
+}

@@ -1,0 +1,32 @@
+{
+  "ablation_key": "no_learned_gates",
+  "active_seeds": [
+    42,
+    2024,
+    3407
+  ],
+  "completed_at": "2026-07-25T22:37:33.348726+00:00",
+  "dataset_id": "sayemahmedshayeed/agrivision4-clean-grouped-research-v2",
+  "display_name": "WavestarNet V2 (no learned gates)",
+  "expected_manifest_sha256": {
+    "class_mapping": "bc9f0fbb6a2e7bc24ffb01910207edfc764066c7316376588625b3b004536e18",
+    "train": "255477b324d5d868072b61f47715f63dbcdaea7c66a5ad5f2cb17e35840c05b2",
+    "validation": "3d3f6d0764767178aa1701a12b9493ec10b7e8bbc38a28d3ba9f066083c8473a"
+  },
+  "expected_version": 1,
+  "image_dataset_id": "sumitnath07/agrivision4-clean-grouped-v1",
+  "initialization": "random",
+  "kernel_id": "sayemahmedshayeed/agrivision4-wavestarnet-v2-ablation",
+  "pretrained": false,
+  "protocol_id": "agrivision4_wavestarnet_v2_ablation_v1",
+  "run_mode": "development",
+  "source_sha256": {
+    "ablation_model": "5417606b8613e1f756a22f6404ff8d8806274c20f79fd31b324fde75668fe0e0",
+    "canonical_model": "1e600b84c2a901640ff93ec9ef8e255291cbb07f335d5217988ffe147c2ca53f",
+    "core": "c3bfa5b379daf6978fe7792de1fc551ae1a503917aa18becf66e17475e35f5bd",
+    "runtime": "7a84dab8e144c8e134e37d9242d11b6599580cc6d2e05a9d87a320933dbe50c2"
+  },
+  "started_at": "2026-07-25T16:52:46.340864+00:00",
+  "status": "complete",
+  "test_accessed": false
+}

@@ -1,0 +1,26 @@
+{
+  "acknowledgement": "RUN_AGRIVISION4_RESEARCH_V2_FINAL_HOLDOUT_ONCE",
+  "attempt_id": "e3d3bdd000f84140aa7143523bad724f",
+  "completed_at": "2026-09-08T21:15:45.438884+00:00",
+  "evaluation_id": "agrivision4_scratch_research_v2_final_holdout_v1",
+  "final_holdout_sha256": "aa8f05ee626b7e1b95eb3bd8b411acbe6b76fc96f3ec4c3323c233899f866f05",
+  "inference_precision": "fp32",
+  "model_selection_performed": false,
+  "models": [
+    "wavestarnet_big_transfer_v2",
+    "efficientnet_b0",
+    "efficientnet_b3",
+    "mobilenetv3_large_100",
+    "mobilevit_s"
+  ],
+  "protocol_id": "agrivision4_clean_grouped_research_v2",
+  "seed_ensemble": false,
+  "seeds": [
+    42,
+    2024,
+    3407
+  ],
+  "started_at": "2026-09-08T21:05:09.691106+00:00",
+  "test_samples": 579,
+  "tta": false
+}

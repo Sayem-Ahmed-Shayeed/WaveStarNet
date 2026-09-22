@@ -1,0 +1,19 @@
+{
+  "accuracy": 0.5095206828627709,
+  "balanced_accuracy": 0.4525448595690792,
+  "brier": 0.6586298173307741,
+  "checkpoint_sha256": "7c6028da2f1b1977953d54146683f4a2020459c88d115ce704d29b0cf04988ae",
+  "display_name": "WavestarNet-Big-Transfer-V2",
+  "ece_15bin": 0.09796223645138256,
+  "macro_f1": 0.4428564115206916,
+  "macro_precision": 0.4565012776988837,
+  "macro_recall": 0.4525448595690792,
+  "model_key": "wavestarnet_big_transfer_v2",
+  "nll": 2.1618848538285667,
+  "parameters": 3013109,
+  "runtime_seconds": 74.81723754199629,
+  "seed": 42,
+  "weighted_f1": 0.5052178877559279,
+  "weighted_precision": 0.5162585903651157,
+  "weighted_recall": 0.5095206828627709
+}

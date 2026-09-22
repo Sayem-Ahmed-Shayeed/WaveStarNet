@@ -1,0 +1,5 @@
+category,count,fraction
+both_correct,530,0.5792349726775956
+both_wrong,214,0.23387978142076501
+wavestarnet_only_correct,91,0.0994535519125683
+mobilevit_only_correct,80,0.08743169398907104

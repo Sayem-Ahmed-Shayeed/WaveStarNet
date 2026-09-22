@@ -1,0 +1,10 @@
+{
+  "checkpoint_zip_sha256": "761cb0eba8a5a652b0ecf91ece12c7610a74ec2f9a01e92d7e166ea26b4c5764",
+  "checkpoints": {
+    "mobilevit_s": "fb9c8dc2b88a7d3a92805fa92095a2940a56df0db3d75f96b5fae66e206df7b9",
+    "wavestarnet_big_transfer_v2": "6aad03be256fbf5d6227375bffad9961a3a69f4045475518c831200c74815fc2"
+  },
+  "class_mapping_sha256": "bc9f0fbb6a2e7bc24ffb01910207edfc764066c7316376588625b3b004536e18",
+  "image_zip_sha256": "df327b5d88a4a02cbfc4ba12c123724b3aa10f79c61bda088009b276f3b971ae",
+  "validation_manifest_sha256": "3d3f6d0764767178aa1701a12b9493ec10b7e8bbc38a28d3ba9f066083c8473a"
+}

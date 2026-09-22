@@ -1,0 +1,279 @@
+{
+  "checkpoint_count": 15,
+  "checkpoint_table": [
+    {
+      "architecture_sha256": "9ecf1f23cfdfb2c710ba89cc9f1620337ef96cbdc11f48a7c8c305df8798f474",
+      "backbone_schema_sha256": "f642f9b1eb6ca21454566ae81d7bc76782bed77e9210b4c4edaa32c63596bf94",
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/wavestarnet-v2/plantwild_scratch_wavestarnet_transfer_v2_development_v01/seed_42/best_checkpoint.pt",
+      "checkpoint_sha256": "7c6028da2f1b1977953d54146683f4a2020459c88d115ce704d29b0cf04988ae",
+      "display_name": "WavestarNet-Big-Transfer-V2",
+      "model_key": "wavestarnet_big_transfer_v2",
+      "parameters": 3013109,
+      "seed": 42
+    },
+    {
+      "architecture_sha256": "9ecf1f23cfdfb2c710ba89cc9f1620337ef96cbdc11f48a7c8c305df8798f474",
+      "backbone_schema_sha256": "f642f9b1eb6ca21454566ae81d7bc76782bed77e9210b4c4edaa32c63596bf94",
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/wavestarnet-v2/plantwild_scratch_wavestarnet_transfer_v2_development_v01/seed_2024/best_checkpoint.pt",
+      "checkpoint_sha256": "e13f8002041a02ed9aef21a8c4818e3c1ecde66d6afb472e686f681039fda3e6",
+      "display_name": "WavestarNet-Big-Transfer-V2",
+      "model_key": "wavestarnet_big_transfer_v2",
+      "parameters": 3013109,
+      "seed": 2024
+    },
+    {
+      "architecture_sha256": "9ecf1f23cfdfb2c710ba89cc9f1620337ef96cbdc11f48a7c8c305df8798f474",
+      "backbone_schema_sha256": "f642f9b1eb6ca21454566ae81d7bc76782bed77e9210b4c4edaa32c63596bf94",
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/wavestarnet-v2/plantwild_scratch_wavestarnet_transfer_v2_development_v01/seed_3407/best_checkpoint.pt",
+      "checkpoint_sha256": "a9cc947a81384fc367471ec547de760a32cd07ac44a2f5e20e6ff663d18aedfb",
+      "display_name": "WavestarNet-Big-Transfer-V2",
+      "model_key": "wavestarnet_big_transfer_v2",
+      "parameters": 3013109,
+      "seed": 3407
+    },
+    {
+      "architecture_sha256": "cd9d1a52a7aa4530d25621109efded07793315a66dda2379e1ca212a168272d4",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/efficientnet_b0/plantwild_scratch_efficientnet_b0_development_v01/seed_42/best_checkpoint.pt",
+      "checkpoint_sha256": "2b74bfc30367d17021542380f0b5b32b4e0b3cf9e5fa14bf079ad7c22b221b8d",
+      "display_name": "EfficientNet-B0",
+      "model_key": "efficientnet_b0",
+      "parameters": 4142053,
+      "seed": 42
+    },
+    {
+      "architecture_sha256": "cd9d1a52a7aa4530d25621109efded07793315a66dda2379e1ca212a168272d4",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/efficientnet_b0/plantwild_scratch_efficientnet_b0_development_v01/seed_2024/best_checkpoint.pt",
+      "checkpoint_sha256": "2dc58eb828a298d80dfb861ed4715cfce23133ec50773290150c454a9f0d29d8",
+      "display_name": "EfficientNet-B0",
+      "model_key": "efficientnet_b0",
+      "parameters": 4142053,
+      "seed": 2024
+    },
+    {
+      "architecture_sha256": "cd9d1a52a7aa4530d25621109efded07793315a66dda2379e1ca212a168272d4",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/efficientnet_b0/plantwild_scratch_efficientnet_b0_development_v01/seed_3407/best_checkpoint.pt",
+      "checkpoint_sha256": "4fd703cc239f2cbf0ebfdf4aa01230d65b5515ee31970af9f5e6816a49e0fd7e",
+      "display_name": "EfficientNet-B0",
+      "model_key": "efficientnet_b0",
+      "parameters": 4142053,
+      "seed": 3407
+    },
+    {
+      "architecture_sha256": "a2ff0fdc492ccc09bb4e3c4d6b466781ac5aab149959d23cd5eedf75785fb826",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/efficientnet_b3/plantwild_scratch_efficientnet_b3_development_v01/seed_42/best_checkpoint.pt",
+      "checkpoint_sha256": "da5bdcc345339fdd914f2d52575e591cce7b70484cad51ef1aa5b199f7fcfe1e",
+      "display_name": "EfficientNet-B3",
+      "model_key": "efficientnet_b3",
+      "parameters": 10857617,
+      "seed": 42
+    },
+    {
+      "architecture_sha256": "a2ff0fdc492ccc09bb4e3c4d6b466781ac5aab149959d23cd5eedf75785fb826",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/efficientnet_b3/plantwild_scratch_efficientnet_b3_development_v01/seed_2024/best_checkpoint.pt",
+      "checkpoint_sha256": "68c9480bd3a314c5276d087e6103e891659c194367e65b37914d59413f50b786",
+      "display_name": "EfficientNet-B3",
+      "model_key": "efficientnet_b3",
+      "parameters": 10857617,
+      "seed": 2024
+    },
+    {
+      "architecture_sha256": "a2ff0fdc492ccc09bb4e3c4d6b466781ac5aab149959d23cd5eedf75785fb826",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/efficientnet_b3/plantwild_scratch_efficientnet_b3_development_v01/seed_3407/best_checkpoint.pt",
+      "checkpoint_sha256": "5d0dd6b454fd532edb23fbfa85f4a141ca0eae5b63f0945c58028d7d606f4bff",
+      "display_name": "EfficientNet-B3",
+      "model_key": "efficientnet_b3",
+      "parameters": 10857617,
+      "seed": 3407
+    },
+    {
+      "architecture_sha256": "e665362caf6c7b27aa57b72e6a86fad46fb9dfc570d1be1ed9fd5c36863b6a8c",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/mobilenetv3_large_100/plantwild_scratch_mobilenetv3_large_development_v01/seed_42/best_checkpoint.pt",
+      "checkpoint_sha256": "d62fe7a14ccaee3fce1990459ed1298d0cfdf6b556d6bee6ae5949feefaf7499",
+      "display_name": "MobileNetV3-Large",
+      "model_key": "mobilenetv3_large_100",
+      "parameters": 4336537,
+      "seed": 42
+    },
+    {
+      "architecture_sha256": "e665362caf6c7b27aa57b72e6a86fad46fb9dfc570d1be1ed9fd5c36863b6a8c",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/mobilenetv3_large_100/plantwild_scratch_mobilenetv3_large_development_v01/seed_2024/best_checkpoint.pt",
+      "checkpoint_sha256": "2bdc59ef1d3b5c19b37dfb367893527f0ab112e03ca2b2fb07183173c376d801",
+      "display_name": "MobileNetV3-Large",
+      "model_key": "mobilenetv3_large_100",
+      "parameters": 4336537,
+      "seed": 2024
+    },
+    {
+      "architecture_sha256": "e665362caf6c7b27aa57b72e6a86fad46fb9dfc570d1be1ed9fd5c36863b6a8c",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/mobilenetv3_large_100/plantwild_scratch_mobilenetv3_large_development_v01/seed_3407/best_checkpoint.pt",
+      "checkpoint_sha256": "ab8edfe9e9d03daa9f305fbf8291febec24fc589136e0724173ce151bad0eac5",
+      "display_name": "MobileNetV3-Large",
+      "model_key": "mobilenetv3_large_100",
+      "parameters": 4336537,
+      "seed": 3407
+    },
+    {
+      "architecture_sha256": "f494a94b37ea4aed7d998e17a2b54df84b1ff6e175934d7c07fc8aaf555acadb",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/mobilevit-s/plantwild_scratch_mobilevit_s_development_v01/seed_42/best_checkpoint.pt",
+      "checkpoint_sha256": "4d0ce97d77762361fdf9880012811409ffa74d2fba0a49e74823e5a238e11d96",
+      "display_name": "MobileViT-S",
+      "model_key": "mobilevit_s",
+      "parameters": 5004937,
+      "seed": 42
+    },
+    {
+      "architecture_sha256": "f494a94b37ea4aed7d998e17a2b54df84b1ff6e175934d7c07fc8aaf555acadb",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/mobilevit-s/plantwild_scratch_mobilevit_s_development_v01/seed_2024/best_checkpoint.pt",
+      "checkpoint_sha256": "17881cc99e798ffd7a29687c463d32aa91136c00117f208104b2df800f1619f5",
+      "display_name": "MobileViT-S",
+      "model_key": "mobilevit_s",
+      "parameters": 5004937,
+      "seed": 2024
+    },
+    {
+      "architecture_sha256": "f494a94b37ea4aed7d998e17a2b54df84b1ff6e175934d7c07fc8aaf555acadb",
+      "backbone_schema_sha256": null,
+      "checkpoint_path": "/run/media/sha-weed/adc6c87e-0116-4a25-a6e9-8555193c1e51/Research/Agrivision4/plantwild/results/scratch comparison/mobilevit-s/plantwild_scratch_mobilevit_s_development_v01/seed_3407/best_checkpoint.pt",
+      "checkpoint_sha256": "50047b59bb5555299798ddc0633b564780d706e175b3a30024e4e5237ec7efed",
+      "display_name": "MobileViT-S",
+      "model_key": "mobilevit_s",
+      "parameters": 5004937,
+      "seed": 3407
+    }
+  ],
+  "protocol": {
+    "class_count": 105,
+    "manifest_sha256": {
+      "class_mapping": "aa5c417832ff1fd0d1024e085002b1e3811a46c9af64a534e0dc1fa6355d86ca",
+      "test": "83395b392417e6d1a6036bd19b2555600ea8fb4b36fa7075c6da294294c16748",
+      "train": "41fcfd247c504f0f0bdf5a0a47029436620145818a263be728af22c07b3bc84e",
+      "validation": "72d10da4d023c08632eb8df5ad76f566f276d07a93046950ecfc06db0fa22f87"
+    },
+    "maximum_class_support": 57,
+    "minimum_class_support": 3,
+    "overlap": {
+      "train_vs_test": {
+        "component_id": 0,
+        "file_sha256": 0,
+        "sample_id": 0
+      },
+      "train_vs_validation": {
+        "component_id": 0,
+        "file_sha256": 0,
+        "sample_id": 0
+      },
+      "validation_vs_test": {
+        "component_id": 0,
+        "file_sha256": 0,
+        "sample_id": 0
+      }
+    },
+    "registry_sha256": "49ccf0cc4f9ec91691526f69279ea82094b30688b74acf7c5d7eb0ac132f623f",
+    "test_samples": 1523
+  },
+  "sealed_inference_executed": false,
+  "status": "preflight_passed",
+  "strict_load_audits": [
+    {
+      "model_key": "wavestarnet_big_transfer_v2",
+      "parameters": 3013109,
+      "seed": 42,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "wavestarnet_big_transfer_v2",
+      "parameters": 3013109,
+      "seed": 2024,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "wavestarnet_big_transfer_v2",
+      "parameters": 3013109,
+      "seed": 3407,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "efficientnet_b0",
+      "parameters": 4142053,
+      "seed": 42,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "efficientnet_b0",
+      "parameters": 4142053,
+      "seed": 2024,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "efficientnet_b0",
+      "parameters": 4142053,
+      "seed": 3407,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "efficientnet_b3",
+      "parameters": 10857617,
+      "seed": 42,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "efficientnet_b3",
+      "parameters": 10857617,
+      "seed": 2024,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "efficientnet_b3",
+      "parameters": 10857617,
+      "seed": 3407,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "mobilenetv3_large_100",
+      "parameters": 4336537,
+      "seed": 42,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "mobilenetv3_large_100",
+      "parameters": 4336537,
+      "seed": 2024,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "mobilenetv3_large_100",
+      "parameters": 4336537,
+      "seed": 3407,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "mobilevit_s",
+      "parameters": 5004937,
+      "seed": 42,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "mobilevit_s",
+      "parameters": 5004937,
+      "seed": 2024,
+      "strict_state_dict": true
+    },
+    {
+      "model_key": "mobilevit_s",
+      "parameters": 5004937,
+      "seed": 3407,
+      "strict_state_dict": true
+    }
+  ]
+}

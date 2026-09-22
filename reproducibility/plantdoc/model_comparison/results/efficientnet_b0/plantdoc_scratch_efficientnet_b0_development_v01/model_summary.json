@@ -1,0 +1,11 @@
+{
+  "architecture_sha256": "b89bddbe4b8890f08e43d30c3906819e1aa58ea167ebefe65468a3c3993b4635",
+  "backbone_schema_sha256": null,
+  "checkpoint_loaded": false,
+  "display_name": "EfficientNet-B0",
+  "initialization": "random",
+  "model_key": "efficientnet_b0",
+  "parameters": 4042135,
+  "pretrained": false,
+  "teacher_loaded": false
+}

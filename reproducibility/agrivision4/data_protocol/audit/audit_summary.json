@@ -1,0 +1,34 @@
+{
+  "canonical_images_before_support_filter": 3936,
+  "class_count": 21,
+  "component_count": 4213,
+  "duplicate_components": 652,
+  "duplicate_images_discarded": 511,
+  "exact_duplicate_edges": 942,
+  "excluded_conflicting_components": 277,
+  "excluded_conflicting_images": 799,
+  "excluded_under_supported_classes": 7,
+  "excluded_under_supported_images": 45,
+  "fractions": {
+    "test": 0.15,
+    "train": 0.7,
+    "validation": 0.15
+  },
+  "minimum_components_per_class": 20,
+  "near_duplicate_edges": 164,
+  "near_duplicate_thresholds": {
+    "max_hamming": 4,
+    "max_rgb_mad": 0.001,
+    "signature_size": 32
+  },
+  "retained_images": 3891,
+  "seed": 42,
+  "source_archive": "Agri-Vision4 Original Images.zip",
+  "source_archive_sha256": "70853ddd987e0bf5d8553a5e767476ad6cb3ae41d1d0bbc37faa67d5b05b3a05",
+  "source_images": 5246,
+  "split_counts": {
+    "test": 579,
+    "train": 2725,
+    "validation": 587
+  }
+}

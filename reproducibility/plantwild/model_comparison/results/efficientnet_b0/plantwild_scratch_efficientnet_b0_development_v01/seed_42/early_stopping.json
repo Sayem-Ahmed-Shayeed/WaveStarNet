@@ -1,0 +1,11 @@
+{
+  "bad_epochs": 14,
+  "best_epoch": 86,
+  "best_macro_f1": 0.3632043349212264,
+  "epochs_run": 100,
+  "min_delta": 0.001,
+  "patience": 30,
+  "reason": "maximum_epochs",
+  "start_epoch": 10,
+  "stop_epoch": null
+}

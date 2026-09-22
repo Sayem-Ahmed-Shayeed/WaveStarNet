@@ -1,0 +1,32 @@
+{
+  "ablation_key": "fixed_haar_wavedown",
+  "active_seeds": [
+    42,
+    2024,
+    3407
+  ],
+  "completed_at": "2026-09-04T14:41:30.318411+00:00",
+  "dataset_id": "sayemahmedshayeed/agrivision4-clean-grouped-research-v2",
+  "display_name": "WavestarNet (fixed Haar WaveDown)",
+  "expected_manifest_sha256": {
+    "class_mapping": "bc9f0fbb6a2e7bc24ffb01910207edfc764066c7316376588625b3b004536e18",
+    "train": "255477b324d5d868072b61f47715f63dbcdaea7c66a5ad5f2cb17e35840c05b2",
+    "validation": "3d3f6d0764767178aa1701a12b9493ec10b7e8bbc38a28d3ba9f066083c8473a"
+  },
+  "expected_version": 1,
+  "image_dataset_id": "sumitnath07/agrivision4-clean-grouped-v1",
+  "initialization": "random",
+  "kernel_id": "sayemahmedshayeed/agrivision4-wavestarnet-wavedown-controls",
+  "pretrained": false,
+  "protocol_id": "agrivision4_wavestarnet_wavedown_controls_v1",
+  "run_mode": "development",
+  "source_sha256": {
+    "ablation_model": "bcc96720adaf2b174afa1941c1f8e764912c98416a39a33d478ce4e4cb4f7915",
+    "canonical_model": "1e600b84c2a901640ff93ec9ef8e255291cbb07f335d5217988ffe147c2ca53f",
+    "core": "e0f3f693e0be8f1944f3116a7cbcf482cfb7a6059cf7810aee400a59e71afcc8",
+    "runtime": "334d025f2c20af81f2cfaedb305366e820a17f9971d2d3763bb001f85649a84d"
+  },
+  "started_at": "2026-09-04T08:22:12.624527+00:00",
+  "status": "complete",
+  "test_accessed": false
+}

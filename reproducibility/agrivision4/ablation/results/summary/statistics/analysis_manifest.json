@@ -1,0 +1,52 @@
+{
+  "analysis_id": "agrivision4_ablation_statistics_v1",
+  "analysis_script_sha256": "97b1caf0ce659fa760244da5fd1603522b0c8c2065c68fa2ee9348bd10047e28",
+  "bootstrap_method": "class-stratified paired nonparametric bootstrap",
+  "class_count": 21,
+  "component_count": 915,
+  "input_prediction_sha256": {
+    "agrivision4/results wavestarnet.zip::results/scratch comparison/wavestarnet_big_transfer_v2/agrivision4_scratch_wavestarnet_transfer_v2_development_v01/seed_2024/validation_predictions.csv": "226b9c63e6475fb6e4d4fba175380157bf51ff7ceb766878a18f6e150b139404",
+    "agrivision4/results wavestarnet.zip::results/scratch comparison/wavestarnet_big_transfer_v2/agrivision4_scratch_wavestarnet_transfer_v2_development_v01/seed_3407/validation_predictions.csv": "4614045d3a70e627acbe49da0cb17f717a00582981226cc549d1158d8ff8a63e",
+    "agrivision4/results wavestarnet.zip::results/scratch comparison/wavestarnet_big_transfer_v2/agrivision4_scratch_wavestarnet_transfer_v2_development_v01/seed_42/validation_predictions.csv": "e76e34271302e8471e007bfa6e3350f518af6d3f1465dfbfb5d42c5642e824c3",
+    "agrivision4/results/additive_fusion/agrivision4_ablation_additive_fusion_development_v01/seed_2024/validation_predictions.csv": "2c2eebbe48cda79db6cc70ed7395e8d9dc7424a6904fc249f12a073afcea79d5",
+    "agrivision4/results/additive_fusion/agrivision4_ablation_additive_fusion_development_v01/seed_3407/validation_predictions.csv": "22352689e19dcfcac833a10639c928c25a0b7199306ed244cee21890bc82186b",
+    "agrivision4/results/additive_fusion/agrivision4_ablation_additive_fusion_development_v01/seed_42/validation_predictions.csv": "7cbeb421b3927cfe232b592fcab09a35db6465db5a551948e7e0744e6a68f1eb",
+    "agrivision4/results/all_blocks_gated/agrivision4_ablation_all_blocks_gated_development_v01/seed_2024/validation_predictions.csv": "e1ddddda956a0f26fbe448aefb7b4a86a6a97285db7bf13ad9e1c80b5e7914f7",
+    "agrivision4/results/all_blocks_gated/agrivision4_ablation_all_blocks_gated_development_v01/seed_3407/validation_predictions.csv": "611c669c311d2eb088665e7a0e267035785d5f51d8e60300792f84b818085b45",
+    "agrivision4/results/all_blocks_gated/agrivision4_ablation_all_blocks_gated_development_v01/seed_42/validation_predictions.csv": "b68b012e99c6c330c4c07a1018cafb31f4c5b960d85c952d9b939078fc83b13a",
+    "agrivision4/results/capacity_matched_conventional_downsampling.zip::agrivision4_ablation_capacity_matched_conventional_downsampling_development_v01/seed_2024/validation_predictions.csv": "fc17e54deda1874072cd31078dd1fba17aa465263b319be55c95610c5a7ae1d8",
+    "agrivision4/results/capacity_matched_conventional_downsampling.zip::agrivision4_ablation_capacity_matched_conventional_downsampling_development_v01/seed_3407/validation_predictions.csv": "5a12b544575b96005bc4a3cad2e75327891367b425473cdbc8df60420d2ea3a4",
+    "agrivision4/results/capacity_matched_conventional_downsampling.zip::agrivision4_ablation_capacity_matched_conventional_downsampling_development_v01/seed_42/validation_predictions.csv": "428c763f7c5626cd475f39afe1ff2a2c21b8048915d030ef2f9736a360f57583",
+    "agrivision4/results/conventional_downsampling/agrivision4_ablation_conventional_downsampling_development_v01/seed_2024/validation_predictions.csv": "9f762ca22d318624046d995ddd6b516e7b8f7d8202ca3d5c0a8872e91d764826",
+    "agrivision4/results/conventional_downsampling/agrivision4_ablation_conventional_downsampling_development_v01/seed_3407/validation_predictions.csv": "bda7c4e8b7396dc7fcccda8dc20d413c6e721e8c60f59f58a4a30e8af85c5d33",
+    "agrivision4/results/conventional_downsampling/agrivision4_ablation_conventional_downsampling_development_v01/seed_42/validation_predictions.csv": "daa25cf714a840f2f239ce0f058b924df662c011d588885c33faf1728c03811b",
+    "agrivision4/results/fixed_haar_wavedown.zip::agrivision4_ablation_fixed_haar_wavedown_development_v01/seed_2024/validation_predictions.csv": "9b9daaab609ab91c1517ec8e4390c14e1f855469dfb11d42b15a30e5416d3942",
+    "agrivision4/results/fixed_haar_wavedown.zip::agrivision4_ablation_fixed_haar_wavedown_development_v01/seed_3407/validation_predictions.csv": "92934c39efd566add7444b503e730d6e715ed85ae2aabad7fa41870ca72f7e26",
+    "agrivision4/results/fixed_haar_wavedown.zip::agrivision4_ablation_fixed_haar_wavedown_development_v01/seed_42/validation_predictions.csv": "c2f296ca8aa1d69ac9f29923773f1ef13da10ea103fa2e5640e2ee736d831615",
+    "agrivision4/results/no_learned_gates/agrivision4_ablation_no_learned_gates_development_v01/seed_2024/validation_predictions.csv": "2c586d08dd2e434e4829a95e6f6f33f78b8a656919e5d6fa3eb183d7f5ce77ab",
+    "agrivision4/results/no_learned_gates/agrivision4_ablation_no_learned_gates_development_v01/seed_3407/validation_predictions.csv": "02707de53d7e90d4746ec1a2399d24813597b17144eebebd88ff0be4cacecb26",
+    "agrivision4/results/no_learned_gates/agrivision4_ablation_no_learned_gates_development_v01/seed_42/validation_predictions.csv": "3253f8d18bab6e1c0f6a9d0f528966a574a880d598791b8f57fc43c299958caa",
+    "agrivision4/results/se_attention/agrivision4_ablation_se_attention_development_v01/seed_2024/validation_predictions.csv": "58d19a146672f93e347e1d55be19f7a78c916c6dc7462c5e93421eb0999df603",
+    "agrivision4/results/se_attention/agrivision4_ablation_se_attention_development_v01/seed_3407/validation_predictions.csv": "b9cb31e7606ceebf1abb1a37000127d19d2a948f011385e6aef4ae7f11b42bbb",
+    "agrivision4/results/se_attention/agrivision4_ablation_se_attention_development_v01/seed_42/validation_predictions.csv": "599a6f35bab31affccedb9e233f2051cfa14a7adb872773a6a2c3a42a8bb2c80",
+    "agrivision4/results/stage4_only_head/agrivision4_ablation_stage4_only_head_development_v01/seed_2024/validation_predictions.csv": "b2c84d323652a2fe6aa623c9d2b4b73333e8d352efa254b07393b4f468b81654",
+    "agrivision4/results/stage4_only_head/agrivision4_ablation_stage4_only_head_development_v01/seed_3407/validation_predictions.csv": "d01cfc13df96d710f3c2649c81b5a24209122486c6d1e5e2e22552f2ac497e4e",
+    "agrivision4/results/stage4_only_head/agrivision4_ablation_stage4_only_head_development_v01/seed_42/validation_predictions.csv": "f5b02d767de95d38352f39e94f4b68e562090d6fdb4b6ebd437b1f749f23c12f"
+  },
+  "multiple_testing": "Holm correction separately within each metric family",
+  "output_sha256": {
+    "ablation_statistical_comparison.csv": "98cb92d67a876fb99ec3395862693bbebd78c7be285e1646b21b93734c01eb78",
+    "ablation_statistical_comparison.md": "a38cb85ae242c247c1a159ad2607374b650e1a1a0b6a68913b90b398a205aac2",
+    "ablation_statistical_comparison_long.csv": "00fddd0873b34ce14094961b8aee946960af1566146192a75c280ba0a1607f95"
+  },
+  "random_seed": 20260905,
+  "randomization_method": "paired sample-wise label-swap randomization",
+  "reference_key": "wavestarnet_big_transfer_v2",
+  "resamples": 10000,
+  "sample_count": 915,
+  "seeds": [
+    42,
+    2024,
+    3407
+  ]
+}

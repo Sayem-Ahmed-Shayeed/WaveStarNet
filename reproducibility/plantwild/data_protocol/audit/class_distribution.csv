@@ -1,0 +1,116 @@
+label,source_images,independent_components,retained_benchmark_images,benchmark_eligible
+apple black rot,83,80,80,True
+apple mosaic virus,89,88,88,True
+apple rust,139,134,134,True
+apple scab,258,253,253,True
+banana anthracnose,71,68,68,True
+banana black leaf streak,167,143,143,True
+banana bunchy top,157,135,135,True
+banana cigar end rot,60,55,55,True
+banana cordana leaf spot,55,50,50,True
+banana panama disease,63,61,61,True
+basil downy mildew,63,63,63,True
+bean halo blight,56,54,54,True
+bean mosaic virus,58,56,56,True
+bean rust,115,109,109,True
+bell pepper bacterial spot,76,61,61,True
+bell pepper blossom end rot,112,98,98,True
+bell pepper frogeye leaf spot,31,18,0,False
+bell pepper powdery mildew,28,23,23,True
+blueberry anthracnose,42,34,34,True
+blueberry botrytis blight,36,34,34,True
+blueberry mummy berry,47,43,43,True
+blueberry rust,44,43,43,True
+blueberry scorch,43,42,42,True
+broccoli alternaria leaf spot,65,42,42,True
+broccoli downy mildew,29,25,25,True
+broccoli ring spot,16,5,0,False
+cabbage alternaria leaf spot,63,45,45,True
+cabbage black rot,131,111,111,True
+cabbage downy mildew,84,78,78,True
+carrot alternaria leaf blight,60,49,49,True
+carrot cavity spot,72,72,72,True
+carrot cercospora leaf blight,19,15,0,False
+cauliflower alternaria leaf spot,54,32,32,True
+cauliflower bacterial soft rot,36,27,27,True
+celery anthracnose,29,28,28,True
+celery early blight,36,35,35,True
+cherry leaf spot,107,106,106,True
+cherry powdery mildew,33,31,31,True
+citrus canker,390,383,383,True
+citrus greening disease,133,133,133,True
+coffee berry blotch,118,72,72,True
+coffee black rot,7,6,0,False
+coffee brown eye spot,20,11,0,False
+coffee leaf rust,159,152,152,True
+corn gray leaf spot,107,107,107,True
+corn northern leaf blight,130,130,130,True
+corn rust,177,177,177,True
+corn smut,202,202,202,True
+cucumber angular leaf spot,182,179,179,True
+cucumber bacterial wilt,108,100,100,True
+cucumber powdery mildew,189,172,172,True
+eggplant cercospora leaf spot,60,56,56,True
+eggplant phomopsis fruit rot,46,40,40,True
+eggplant phytophthora blight,33,31,31,True
+garlic leaf blight,92,90,90,True
+garlic rust,106,103,103,True
+ginger leaf spot,25,25,25,True
+ginger sheath blight,68,58,58,True
+grape black rot,122,120,120,True
+grape downy mildew,281,276,276,True
+grape leaf spot,91,79,79,True
+grapevine leafroll disease,71,71,71,True
+lettuce downy mildew,84,82,82,True
+lettuce mosaic virus,39,39,39,True
+maple tar spot,114,113,113,True
+peach anthracnose,13,13,0,False
+peach brown rot,173,151,151,True
+peach leaf curl,182,182,182,True
+peach rust,8,8,0,False
+peach scab,78,69,69,True
+plum bacterial spot,16,15,0,False
+plum brown rot,81,70,70,True
+plum pocket disease,57,57,57,True
+plum pox virus,33,32,32,True
+plum rust,34,33,33,True
+potato early blight,126,110,110,True
+potato late blight,117,114,114,True
+raspberry fire blight,34,29,29,True
+raspberry gray mold,40,36,36,True
+raspberry leaf spot,19,18,0,False
+raspberry yellow rust,37,36,36,True
+rice blast,83,83,83,True
+rice sheath blight,76,66,66,True
+soybean bacterial blight,91,74,74,True
+soybean brown spot,71,54,54,True
+soybean downy mildew,153,121,121,True
+soybean frog eye leaf spot,238,190,190,True
+soybean mosaic,117,109,109,True
+soybean rust,118,105,105,True
+squash powdery mildew,182,156,156,True
+strawberry anthracnose,58,58,58,True
+strawberry leaf scorch,39,39,39,True
+tobacco blue mold,60,51,51,True
+tobacco brown spot,66,53,53,True
+tobacco frogeye leaf spot,28,16,0,False
+tobacco mosaic virus,41,40,40,True
+tomato bacterial leaf spot,110,103,103,True
+tomato early blight,187,169,169,True
+tomato late blight,163,163,163,True
+tomato leaf mold,156,155,155,True
+tomato mosaic virus,63,56,56,True
+tomato septoria leaf spot,130,119,119,True
+tomato yellow leaf curl virus,93,88,88,True
+wheat bacterial leaf streak (black chaff),117,106,106,True
+wheat head scab,319,258,258,True
+wheat leaf rust,132,119,119,True
+wheat loose smut,215,172,172,True
+wheat powdery mildew,271,254,254,True
+wheat septoria blotch,232,188,188,True
+wheat stem rust,148,125,125,True
+wheat stripe rust,358,314,314,True
+zucchini bacterial wilt,81,63,63,True
+zucchini downy mildew,45,41,41,True
+zucchini powdery mildew,223,168,168,True
+zucchini yellow mosaic virus,95,95,95,True

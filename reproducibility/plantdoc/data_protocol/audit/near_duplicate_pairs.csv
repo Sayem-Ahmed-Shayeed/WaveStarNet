@@ -1,0 +1,9 @@
+left_index,right_index,left_path,right_path,left_label,right_label,hamming,rgb_mad
+889,960,train/Corn_leaf_blight/train_Corn leaf blight_147.jpg,train/Corn_leaf_blight/train_Corn leaf blight_49.jpg,Corn_leaf_blight,Corn_leaf_blight,2,0.0004212622
+1270,2018,train/Potato_leaf_early_blight/train_Potato leaf early blight_35.jpg,train/Tomato_Early_blight_leaf/train_Tomato Early blight leaf_59.jpg,Potato_leaf_early_blight,Tomato_Early_blight_leaf,1,0.0004863665
+1289,2373,train/Potato_leaf_early_blight/train_Potato leaf early blight_47.jpg,train/Tomato_leaf_late_blight/train_Tomato leaf late blight_44.jpg,Potato_leaf_early_blight,Tomato_leaf_late_blight,0,0.0002655229
+1573,1976,train/Potato_leaf_late_blight/train_Potato leaf late blight_95.jpg,train/Tomato_Early_blight_leaf/train_Tomato Early blight leaf_20.jpg,Potato_leaf_late_blight,Tomato_Early_blight_leaf,0,0.0007365707
+1619,1675,train/Raspberry_leaf/train_Raspberry leaf_30.jpg,train/Raspberry_leaf/train_Raspberry leaf_81.jpg,Raspberry_leaf,Raspberry_leaf,0,0.0009625205
+2148,2166,train/Tomato_Septoria_leaf_spot/train_Tomato Septoria leaf spot_63.jpg,train/Tomato_Septoria_leaf_spot/train_Tomato Septoria leaf spot_8.jpg,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,0,0.0000000000
+2336,2382,train/Tomato_leaf_late_blight/train_Tomato leaf late blight_101.jpg,train/Tomato_leaf_late_blight/train_Tomato leaf late blight_52.jpg,Tomato_leaf_late_blight,Tomato_leaf_late_blight,0,0.0000000000
+2346,2360,train/Tomato_leaf_late_blight/train_Tomato leaf late blight_2.jpg,train/Tomato_leaf_late_blight/train_Tomato leaf late blight_32.jpg,Tomato_leaf_late_blight,Tomato_leaf_late_blight,2,0.0005412581

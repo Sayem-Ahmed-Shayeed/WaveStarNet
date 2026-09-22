@@ -1,0 +1,1493 @@
+[
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 32,
+    "parameter_name": "blocks.0.0.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 32,
+    "parameter_name": "blocks.0.0.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 16,
+    "parameter_name": "blocks.0.0.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 16,
+    "parameter_name": "blocks.0.0.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 288,
+    "parameter_name": "blocks.0.0.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 512,
+    "parameter_name": "blocks.0.0.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 32,
+    "parameter_name": "blocks.0.0.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 256,
+    "parameter_name": "blocks.0.0.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 8,
+    "parameter_name": "blocks.0.0.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 256,
+    "parameter_name": "blocks.0.0.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 96,
+    "parameter_name": "blocks.1.0.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 96,
+    "parameter_name": "blocks.1.0.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 96,
+    "parameter_name": "blocks.1.0.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 96,
+    "parameter_name": "blocks.1.0.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 24,
+    "parameter_name": "blocks.1.0.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 24,
+    "parameter_name": "blocks.1.0.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 864,
+    "parameter_name": "blocks.1.0.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 1536,
+    "parameter_name": "blocks.1.0.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 2304,
+    "parameter_name": "blocks.1.0.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 96,
+    "parameter_name": "blocks.1.0.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 384,
+    "parameter_name": "blocks.1.0.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 4,
+    "parameter_name": "blocks.1.0.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 384,
+    "parameter_name": "blocks.1.0.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 144,
+    "parameter_name": "blocks.1.1.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 144,
+    "parameter_name": "blocks.1.1.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 144,
+    "parameter_name": "blocks.1.1.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 144,
+    "parameter_name": "blocks.1.1.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 24,
+    "parameter_name": "blocks.1.1.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 24,
+    "parameter_name": "blocks.1.1.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 1296,
+    "parameter_name": "blocks.1.1.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 3456,
+    "parameter_name": "blocks.1.1.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 3456,
+    "parameter_name": "blocks.1.1.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 144,
+    "parameter_name": "blocks.1.1.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 864,
+    "parameter_name": "blocks.1.1.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 6,
+    "parameter_name": "blocks.1.1.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 864,
+    "parameter_name": "blocks.1.1.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 144,
+    "parameter_name": "blocks.2.0.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 144,
+    "parameter_name": "blocks.2.0.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 144,
+    "parameter_name": "blocks.2.0.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 144,
+    "parameter_name": "blocks.2.0.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 40,
+    "parameter_name": "blocks.2.0.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 40,
+    "parameter_name": "blocks.2.0.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 3600,
+    "parameter_name": "blocks.2.0.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 3456,
+    "parameter_name": "blocks.2.0.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 5760,
+    "parameter_name": "blocks.2.0.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 144,
+    "parameter_name": "blocks.2.0.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 864,
+    "parameter_name": "blocks.2.0.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 6,
+    "parameter_name": "blocks.2.0.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 864,
+    "parameter_name": "blocks.2.0.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 240,
+    "parameter_name": "blocks.2.1.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 240,
+    "parameter_name": "blocks.2.1.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 240,
+    "parameter_name": "blocks.2.1.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 240,
+    "parameter_name": "blocks.2.1.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 40,
+    "parameter_name": "blocks.2.1.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 40,
+    "parameter_name": "blocks.2.1.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 6000,
+    "parameter_name": "blocks.2.1.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 9600,
+    "parameter_name": "blocks.2.1.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 9600,
+    "parameter_name": "blocks.2.1.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 240,
+    "parameter_name": "blocks.2.1.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 2400,
+    "parameter_name": "blocks.2.1.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 10,
+    "parameter_name": "blocks.2.1.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 2400,
+    "parameter_name": "blocks.2.1.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 240,
+    "parameter_name": "blocks.3.0.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 240,
+    "parameter_name": "blocks.3.0.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 240,
+    "parameter_name": "blocks.3.0.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 240,
+    "parameter_name": "blocks.3.0.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 80,
+    "parameter_name": "blocks.3.0.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 80,
+    "parameter_name": "blocks.3.0.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 2160,
+    "parameter_name": "blocks.3.0.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 9600,
+    "parameter_name": "blocks.3.0.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 19200,
+    "parameter_name": "blocks.3.0.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 240,
+    "parameter_name": "blocks.3.0.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 2400,
+    "parameter_name": "blocks.3.0.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 10,
+    "parameter_name": "blocks.3.0.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 2400,
+    "parameter_name": "blocks.3.0.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.3.1.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.3.1.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.3.1.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.3.1.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 80,
+    "parameter_name": "blocks.3.1.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 80,
+    "parameter_name": "blocks.3.1.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 4320,
+    "parameter_name": "blocks.3.1.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 38400,
+    "parameter_name": "blocks.3.1.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 38400,
+    "parameter_name": "blocks.3.1.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.3.1.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 9600,
+    "parameter_name": "blocks.3.1.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 20,
+    "parameter_name": "blocks.3.1.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 9600,
+    "parameter_name": "blocks.3.1.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.3.2.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.3.2.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.3.2.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.3.2.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 80,
+    "parameter_name": "blocks.3.2.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 80,
+    "parameter_name": "blocks.3.2.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 4320,
+    "parameter_name": "blocks.3.2.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 38400,
+    "parameter_name": "blocks.3.2.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 38400,
+    "parameter_name": "blocks.3.2.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.3.2.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 9600,
+    "parameter_name": "blocks.3.2.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 20,
+    "parameter_name": "blocks.3.2.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 9600,
+    "parameter_name": "blocks.3.2.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.4.0.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.4.0.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.4.0.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.4.0.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 112,
+    "parameter_name": "blocks.4.0.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 112,
+    "parameter_name": "blocks.4.0.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 12000,
+    "parameter_name": "blocks.4.0.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 38400,
+    "parameter_name": "blocks.4.0.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 53760,
+    "parameter_name": "blocks.4.0.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 480,
+    "parameter_name": "blocks.4.0.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 9600,
+    "parameter_name": "blocks.4.0.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 20,
+    "parameter_name": "blocks.4.0.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 9600,
+    "parameter_name": "blocks.4.0.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.4.1.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.4.1.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.4.1.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.4.1.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 112,
+    "parameter_name": "blocks.4.1.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 112,
+    "parameter_name": "blocks.4.1.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 16800,
+    "parameter_name": "blocks.4.1.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 75264,
+    "parameter_name": "blocks.4.1.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 75264,
+    "parameter_name": "blocks.4.1.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.4.1.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 18816,
+    "parameter_name": "blocks.4.1.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 28,
+    "parameter_name": "blocks.4.1.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 18816,
+    "parameter_name": "blocks.4.1.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.4.2.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.4.2.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.4.2.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.4.2.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 112,
+    "parameter_name": "blocks.4.2.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 112,
+    "parameter_name": "blocks.4.2.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 16800,
+    "parameter_name": "blocks.4.2.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 75264,
+    "parameter_name": "blocks.4.2.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 75264,
+    "parameter_name": "blocks.4.2.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.4.2.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 18816,
+    "parameter_name": "blocks.4.2.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 28,
+    "parameter_name": "blocks.4.2.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 18816,
+    "parameter_name": "blocks.4.2.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.5.0.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.5.0.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.5.0.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.5.0.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 192,
+    "parameter_name": "blocks.5.0.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 192,
+    "parameter_name": "blocks.5.0.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 16800,
+    "parameter_name": "blocks.5.0.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 75264,
+    "parameter_name": "blocks.5.0.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 129024,
+    "parameter_name": "blocks.5.0.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 672,
+    "parameter_name": "blocks.5.0.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 18816,
+    "parameter_name": "blocks.5.0.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 28,
+    "parameter_name": "blocks.5.0.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 18816,
+    "parameter_name": "blocks.5.0.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.1.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.1.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.1.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.1.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 192,
+    "parameter_name": "blocks.5.1.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 192,
+    "parameter_name": "blocks.5.1.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 28800,
+    "parameter_name": "blocks.5.1.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 221184,
+    "parameter_name": "blocks.5.1.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 221184,
+    "parameter_name": "blocks.5.1.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.1.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 55296,
+    "parameter_name": "blocks.5.1.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 48,
+    "parameter_name": "blocks.5.1.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 55296,
+    "parameter_name": "blocks.5.1.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.2.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.2.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.2.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.2.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 192,
+    "parameter_name": "blocks.5.2.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 192,
+    "parameter_name": "blocks.5.2.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 28800,
+    "parameter_name": "blocks.5.2.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 221184,
+    "parameter_name": "blocks.5.2.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 221184,
+    "parameter_name": "blocks.5.2.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.2.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 55296,
+    "parameter_name": "blocks.5.2.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 48,
+    "parameter_name": "blocks.5.2.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 55296,
+    "parameter_name": "blocks.5.2.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.3.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.3.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.3.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.3.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 192,
+    "parameter_name": "blocks.5.3.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 192,
+    "parameter_name": "blocks.5.3.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 28800,
+    "parameter_name": "blocks.5.3.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 221184,
+    "parameter_name": "blocks.5.3.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 221184,
+    "parameter_name": "blocks.5.3.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.5.3.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 55296,
+    "parameter_name": "blocks.5.3.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 48,
+    "parameter_name": "blocks.5.3.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 55296,
+    "parameter_name": "blocks.5.3.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.6.0.bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.6.0.bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.6.0.bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.6.0.bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 320,
+    "parameter_name": "blocks.6.0.bn3.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 320,
+    "parameter_name": "blocks.6.0.bn3.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 10368,
+    "parameter_name": "blocks.6.0.conv_dw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 221184,
+    "parameter_name": "blocks.6.0.conv_pw.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 368640,
+    "parameter_name": "blocks.6.0.conv_pwl.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1152,
+    "parameter_name": "blocks.6.0.se.conv_expand.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 55296,
+    "parameter_name": "blocks.6.0.se.conv_expand.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 48,
+    "parameter_name": "blocks.6.0.se.conv_reduce.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 55296,
+    "parameter_name": "blocks.6.0.se.conv_reduce.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 32,
+    "parameter_name": "bn1.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 32,
+    "parameter_name": "bn1.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1280,
+    "parameter_name": "bn2.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 1280,
+    "parameter_name": "bn2.weight",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "no_decay",
+    "lr": 0.0003,
+    "numel": 27,
+    "parameter_name": "classifier.bias",
+    "weight_decay": 0.0
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 34560,
+    "parameter_name": "classifier.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 409600,
+    "parameter_name": "conv_head.weight",
+    "weight_decay": 0.05
+  },
+  {
+    "group": "decay",
+    "lr": 0.0003,
+    "numel": 864,
+    "parameter_name": "conv_stem.weight",
+    "weight_decay": 0.05
+  }
+]

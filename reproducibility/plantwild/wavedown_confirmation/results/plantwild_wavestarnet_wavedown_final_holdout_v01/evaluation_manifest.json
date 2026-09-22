@@ -1,0 +1,18 @@
+{
+  "completed_at": "2026-09-15T03:58:58.224286+00:00",
+  "evaluation_id": "plantwild_wavestarnet_wavedown_final_holdout_v01",
+  "paired_test_statistics_completed_at": "2026-09-15T04:20:40.498858+00:00",
+  "report_analysis_completed_at": "2026-09-15T04:20:40.498842+00:00",
+  "seeds": [
+    42,
+    2024,
+    3407
+  ],
+  "test_accessed": true,
+  "test_manifest_sha256": "83395b392417e6d1a6036bd19b2555600ea8fb4b36fa7075c6da294294c16748",
+  "test_samples": 1523,
+  "variants": [
+    "full_wavestarnet",
+    "parameter_matched_conventional_downsampling"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "active_epochs": 100,
+  "early_stopping_min_delta": 0.001,
+  "early_stopping_patience": 30,
+  "early_stopping_start_epoch": 10,
+  "eval_batch_size": 64,
+  "gradient_accumulation_steps": 1,
+  "gradient_clip_norm": 1.0,
+  "image_size": 224,
+  "label_smoothing": 0.05,
+  "learning_rate": 0.0003,
+  "max_epochs": 100,
+  "min_lr_ratio": 0.05,
+  "model_key": "efficientnet_b0",
+  "num_classes": 105,
+  "run_mode": "development",
+  "seed": 3407,
+  "seeds": [
+    42,
+    2024,
+    3407
+  ],
+  "selection": "validation_macro_f1_then_nll_then_earlier_epoch",
+  "smoke_epochs": 1,
+  "train_batch_size": 32,
+  "warmup_epochs": 5,
+  "weight_decay": 0.05
+}

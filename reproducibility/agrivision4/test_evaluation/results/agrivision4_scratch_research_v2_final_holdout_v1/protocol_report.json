@@ -1,0 +1,34 @@
+{
+  "class_count": 21,
+  "class_mapping_sha256": "bc9f0fbb6a2e7bc24ffb01910207edfc764066c7316376588625b3b004536e18",
+  "final_holdout_samples": 579,
+  "final_holdout_sha256": "aa8f05ee626b7e1b95eb3bd8b411acbe6b76fc96f3ec4c3323c233899f866f05",
+  "image_archive_hash_verified": true,
+  "image_archive_sha256": "df327b5d88a4a02cbfc4ba12c123724b3aa10f79c61bda088009b276f3b971ae",
+  "maximum_class_support": 62,
+  "minimum_class_support": 4,
+  "missing_archive_members": 0,
+  "modeling_pool_samples": 2725,
+  "overlap": {
+    "train_vs_final_holdout": {
+      "component_id": 0,
+      "sample_id": 0,
+      "sha256": 0
+    },
+    "train_vs_validation": {
+      "component_id": 0,
+      "sample_id": 0,
+      "sha256": 0
+    },
+    "validation_vs_final_holdout": {
+      "component_id": 0,
+      "sample_id": 0,
+      "sha256": 0
+    }
+  },
+  "protocol_id": "agrivision4_clean_grouped_research_v2",
+  "train_samples": 1810,
+  "train_sha256": "255477b324d5d868072b61f47715f63dbcdaea7c66a5ad5f2cb17e35840c05b2",
+  "validation_samples": 915,
+  "validation_sha256": "3d3f6d0764767178aa1701a12b9493ec10b7e8bbc38a28d3ba9f066083c8473a"
+}

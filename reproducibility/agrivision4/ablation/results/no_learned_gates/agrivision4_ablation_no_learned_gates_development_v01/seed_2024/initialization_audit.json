@@ -1,0 +1,25 @@
+{
+  "ablation_key": "no_learned_gates",
+  "architecture_sha256": "8aef3de8b192d6e3608b0f582cc015d36c4c4986ed5542077a9915c830b2a3e9",
+  "backbone_schema_sha256": null,
+  "checkpoint_loaded": false,
+  "display_name": "WavestarNet V2 (no learned gates)",
+  "downsampling_locations": [
+    "stages.0.0",
+    "stages.1.0",
+    "stages.2.0",
+    "stages.3.0"
+  ],
+  "downsampling_type": "wave_down",
+  "head_type": "multistage_s2_s3_s4",
+  "initialization": "random",
+  "parameters": 2708397,
+  "pretrained": false,
+  "se_attention_count": 0,
+  "se_attention_locations": [],
+  "spectral_operator": "fixed_half_scale_bypass",
+  "state_schema_sha256": "517f3deea983f4718ff94540ed633d40e4095d51842e959a377d8b72a8a3eba5",
+  "teacher_loaded": false,
+  "wavelet_gate_count": 0,
+  "wavelet_gate_locations": []
+}

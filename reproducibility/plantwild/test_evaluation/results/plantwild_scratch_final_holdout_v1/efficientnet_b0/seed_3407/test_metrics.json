@@ -1,0 +1,19 @@
+{
+  "accuracy": 0.41628365068942874,
+  "balanced_accuracy": 0.3551315381751621,
+  "brier": 0.7559822108739654,
+  "checkpoint_sha256": "4fd703cc239f2cbf0ebfdf4aa01230d65b5515ee31970af9f5e6816a49e0fd7e",
+  "display_name": "EfficientNet-B0",
+  "ece_15bin": 0.08790384675483132,
+  "macro_f1": 0.3456198644505467,
+  "macro_precision": 0.3563567977989987,
+  "macro_recall": 0.3551315381751621,
+  "model_key": "efficientnet_b0",
+  "nll": 2.7171198123555262,
+  "parameters": 4142053,
+  "runtime_seconds": 60.70856719299627,
+  "seed": 3407,
+  "weighted_f1": 0.4076208430105042,
+  "weighted_precision": 0.41428156223217966,
+  "weighted_recall": 0.41628365068942874
+}

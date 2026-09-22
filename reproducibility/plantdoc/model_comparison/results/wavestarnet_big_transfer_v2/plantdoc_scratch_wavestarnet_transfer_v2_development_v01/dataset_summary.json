@@ -1,0 +1,45 @@
+{
+  "active_split_counts": {
+    "train": 2028,
+    "validation": 440
+  },
+  "class_names": [
+    "Apple_Scab_Leaf",
+    "Apple_leaf",
+    "Apple_rust_leaf",
+    "Bell_pepper_leaf",
+    "Bell_pepper_leaf_spot",
+    "Blueberry_leaf",
+    "Cherry_leaf",
+    "Corn_Gray_leaf_spot",
+    "Corn_leaf_blight",
+    "Corn_rust_leaf",
+    "Peach_leaf",
+    "Potato_leaf_early_blight",
+    "Potato_leaf_late_blight",
+    "Raspberry_leaf",
+    "Soyabean_leaf",
+    "Squash_Powdery_mildew_leaf",
+    "Strawberry_leaf",
+    "Tomato_Early_blight_leaf",
+    "Tomato_Septoria_leaf_spot",
+    "Tomato_leaf",
+    "Tomato_leaf_bacterial_spot",
+    "Tomato_leaf_late_blight",
+    "Tomato_leaf_mosaic_virus",
+    "Tomato_leaf_yellow_virus",
+    "Tomato_mold_leaf",
+    "grape_leaf",
+    "grape_leaf_black_rot"
+  ],
+  "dataset_id": "sayemahmedshayeed/plantdoc-clean-grouped-v1",
+  "development_split_counts": {
+    "train": 2028,
+    "validation": 440
+  },
+  "manifest_sha256": {
+    "class_mapping": "eb2569cc4986958025fab1380f03b7706c966df7bd089d9e2d942bb1581ef5ea",
+    "train": "b142d4baa5577ade7e9368071f1b93a87b4ef36dddc24963459bb68bb43e0db0",
+    "validation": "96305f43735d61f06f9eba0df85a21b256c5a46ab96e6105504e22cc21c81f0a"
+  }
+}

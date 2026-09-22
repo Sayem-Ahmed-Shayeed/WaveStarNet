@@ -1,0 +1,16 @@
+{
+  "captured_at": "2026-09-08T21:15:45.436193+00:00",
+  "cpu_count": 8,
+  "device": "cpu",
+  "fp32_inference": true,
+  "gpu": null,
+  "numpy": "2.4.4",
+  "pandas": "3.0.3",
+  "platform": "Linux-7.0.0-31-generic-x86_64-with-glibc2.43",
+  "python": "3.11.15",
+  "seed_ensemble": false,
+  "timm": "1.0.27",
+  "torch": "2.12.1+cpu",
+  "torchvision": "0.27.1+cpu",
+  "tta": false
+}

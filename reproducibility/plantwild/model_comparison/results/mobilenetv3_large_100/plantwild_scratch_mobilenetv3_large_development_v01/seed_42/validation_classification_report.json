@@ -1,0 +1,951 @@
+{
+  "classes": [
+    {
+      "class_name": "apple black rot",
+      "f1": 0.28571428571428575,
+      "label_id": 0,
+      "precision": 0.3333333333333333,
+      "recall": 0.25,
+      "support": 12
+    },
+    {
+      "class_name": "apple mosaic virus",
+      "f1": 0.608695652173913,
+      "label_id": 1,
+      "precision": 0.7,
+      "recall": 0.5384615384615384,
+      "support": 13
+    },
+    {
+      "class_name": "apple rust",
+      "f1": 0.28571428571428564,
+      "label_id": 2,
+      "precision": 0.2727272727272727,
+      "recall": 0.3,
+      "support": 20
+    },
+    {
+      "class_name": "apple scab",
+      "f1": 0.22950819672131145,
+      "label_id": 3,
+      "precision": 0.30434782608695654,
+      "recall": 0.18421052631578946,
+      "support": 38
+    },
+    {
+      "class_name": "banana anthracnose",
+      "f1": 0.27586206896551724,
+      "label_id": 4,
+      "precision": 0.21052631578947367,
+      "recall": 0.4,
+      "support": 10
+    },
+    {
+      "class_name": "banana black leaf streak",
+      "f1": 0.7906976744186046,
+      "label_id": 5,
+      "precision": 0.8095238095238095,
+      "recall": 0.7727272727272727,
+      "support": 22
+    },
+    {
+      "class_name": "banana bunchy top",
+      "f1": 0.6666666666666666,
+      "label_id": 6,
+      "precision": 0.6363636363636364,
+      "recall": 0.7,
+      "support": 20
+    },
+    {
+      "class_name": "banana cigar end rot",
+      "f1": 0.3157894736842105,
+      "label_id": 7,
+      "precision": 0.2727272727272727,
+      "recall": 0.375,
+      "support": 8
+    },
+    {
+      "class_name": "banana cordana leaf spot",
+      "f1": 0.5555555555555556,
+      "label_id": 8,
+      "precision": 0.5,
+      "recall": 0.625,
+      "support": 8
+    },
+    {
+      "class_name": "banana panama disease",
+      "f1": 0.46153846153846156,
+      "label_id": 9,
+      "precision": 0.75,
+      "recall": 0.3333333333333333,
+      "support": 9
+    },
+    {
+      "class_name": "basil downy mildew",
+      "f1": 0.3529411764705882,
+      "label_id": 10,
+      "precision": 0.42857142857142855,
+      "recall": 0.3,
+      "support": 10
+    },
+    {
+      "class_name": "bean halo blight",
+      "f1": 0.2,
+      "label_id": 11,
+      "precision": 0.16666666666666666,
+      "recall": 0.25,
+      "support": 8
+    },
+    {
+      "class_name": "bean mosaic virus",
+      "f1": 0.42857142857142855,
+      "label_id": 12,
+      "precision": 0.6,
+      "recall": 0.3333333333333333,
+      "support": 9
+    },
+    {
+      "class_name": "bean rust",
+      "f1": 0.06451612903225808,
+      "label_id": 13,
+      "precision": 0.07142857142857142,
+      "recall": 0.058823529411764705,
+      "support": 17
+    },
+    {
+      "class_name": "bell pepper bacterial spot",
+      "f1": 0.09999999999999999,
+      "label_id": 14,
+      "precision": 0.09090909090909091,
+      "recall": 0.1111111111111111,
+      "support": 9
+    },
+    {
+      "class_name": "bell pepper blossom end rot",
+      "f1": 0.3703703703703704,
+      "label_id": 15,
+      "precision": 0.4166666666666667,
+      "recall": 0.3333333333333333,
+      "support": 15
+    },
+    {
+      "class_name": "bell pepper powdery mildew",
+      "f1": 0.6666666666666666,
+      "label_id": 16,
+      "precision": 1.0,
+      "recall": 0.5,
+      "support": 4
+    },
+    {
+      "class_name": "blueberry anthracnose",
+      "f1": 0.5,
+      "label_id": 17,
+      "precision": 0.6666666666666666,
+      "recall": 0.4,
+      "support": 5
+    },
+    {
+      "class_name": "blueberry botrytis blight",
+      "f1": 0.15384615384615385,
+      "label_id": 18,
+      "precision": 0.125,
+      "recall": 0.2,
+      "support": 5
+    },
+    {
+      "class_name": "blueberry mummy berry",
+      "f1": 0.6666666666666666,
+      "label_id": 19,
+      "precision": 0.8,
+      "recall": 0.5714285714285714,
+      "support": 7
+    },
+    {
+      "class_name": "blueberry rust",
+      "f1": 0.16666666666666666,
+      "label_id": 20,
+      "precision": 0.2,
+      "recall": 0.14285714285714285,
+      "support": 7
+    },
+    {
+      "class_name": "blueberry scorch",
+      "f1": 0.1818181818181818,
+      "label_id": 21,
+      "precision": 0.2,
+      "recall": 0.16666666666666666,
+      "support": 6
+    },
+    {
+      "class_name": "broccoli alternaria leaf spot",
+      "f1": 0.0,
+      "label_id": 22,
+      "precision": 0.0,
+      "recall": 0.0,
+      "support": 6
+    },
+    {
+      "class_name": "broccoli downy mildew",
+      "f1": 0.0,
+      "label_id": 23,
+      "precision": 0.0,
+      "recall": 0.0,
+      "support": 4
+    },
+    {
+      "class_name": "cabbage alternaria leaf spot",
+      "f1": 0.14285714285714285,
+      "label_id": 24,
+      "precision": 0.14285714285714285,
+      "recall": 0.14285714285714285,
+      "support": 7
+    },
+    {
+      "class_name": "cabbage black rot",
+      "f1": 0.6666666666666667,
+      "label_id": 25,
+      "precision": 0.7692307692307693,
+      "recall": 0.5882352941176471,
+      "support": 17
+    },
+    {
+      "class_name": "cabbage downy mildew",
+      "f1": 0.6363636363636365,
+      "label_id": 26,
+      "precision": 0.7,
+      "recall": 0.5833333333333334,
+      "support": 12
+    },
+    {
+      "class_name": "carrot alternaria leaf blight",
+      "f1": 0.5,
+      "label_id": 27,
+      "precision": 0.4166666666666667,
+      "recall": 0.625,
+      "support": 8
+    },
+    {
+      "class_name": "carrot cavity spot",
+      "f1": 0.6666666666666666,
+      "label_id": 28,
+      "precision": 0.7,
+      "recall": 0.6363636363636364,
+      "support": 11
+    },
+    {
+      "class_name": "cauliflower alternaria leaf spot",
+      "f1": 0.0,
+      "label_id": 29,
+      "precision": 0.0,
+      "recall": 0.0,
+      "support": 5
+    },
+    {
+      "class_name": "cauliflower bacterial soft rot",
+      "f1": 0.46153846153846156,
+      "label_id": 30,
+      "precision": 0.3333333333333333,
+      "recall": 0.75,
+      "support": 4
+    },
+    {
+      "class_name": "celery anthracnose",
+      "f1": 0.4444444444444445,
+      "label_id": 31,
+      "precision": 0.4,
+      "recall": 0.5,
+      "support": 4
+    },
+    {
+      "class_name": "celery early blight",
+      "f1": 0.16666666666666666,
+      "label_id": 32,
+      "precision": 0.14285714285714285,
+      "recall": 0.2,
+      "support": 5
+    },
+    {
+      "class_name": "cherry leaf spot",
+      "f1": 0.07692307692307693,
+      "label_id": 33,
+      "precision": 0.1,
+      "recall": 0.0625,
+      "support": 16
+    },
+    {
+      "class_name": "cherry powdery mildew",
+      "f1": 0.14285714285714285,
+      "label_id": 34,
+      "precision": 0.1111111111111111,
+      "recall": 0.2,
+      "support": 5
+    },
+    {
+      "class_name": "citrus canker",
+      "f1": 0.6016260162601627,
+      "label_id": 35,
+      "precision": 0.5692307692307692,
+      "recall": 0.6379310344827587,
+      "support": 58
+    },
+    {
+      "class_name": "citrus greening disease",
+      "f1": 0.3076923076923077,
+      "label_id": 36,
+      "precision": 0.3157894736842105,
+      "recall": 0.3,
+      "support": 20
+    },
+    {
+      "class_name": "coffee berry blotch",
+      "f1": 0.5925925925925926,
+      "label_id": 37,
+      "precision": 0.5,
+      "recall": 0.7272727272727273,
+      "support": 11
+    },
+    {
+      "class_name": "coffee leaf rust",
+      "f1": 0.37209302325581395,
+      "label_id": 38,
+      "precision": 0.4,
+      "recall": 0.34782608695652173,
+      "support": 23
+    },
+    {
+      "class_name": "corn gray leaf spot",
+      "f1": 0.5625,
+      "label_id": 39,
+      "precision": 0.5625,
+      "recall": 0.5625,
+      "support": 16
+    },
+    {
+      "class_name": "corn northern leaf blight",
+      "f1": 0.46511627906976744,
+      "label_id": 40,
+      "precision": 0.43478260869565216,
+      "recall": 0.5,
+      "support": 20
+    },
+    {
+      "class_name": "corn rust",
+      "f1": 0.5862068965517241,
+      "label_id": 41,
+      "precision": 0.5483870967741935,
+      "recall": 0.6296296296296297,
+      "support": 27
+    },
+    {
+      "class_name": "corn smut",
+      "f1": 0.7352941176470588,
+      "label_id": 42,
+      "precision": 0.6578947368421053,
+      "recall": 0.8333333333333334,
+      "support": 30
+    },
+    {
+      "class_name": "cucumber angular leaf spot",
+      "f1": 0.456140350877193,
+      "label_id": 43,
+      "precision": 0.43333333333333335,
+      "recall": 0.48148148148148145,
+      "support": 27
+    },
+    {
+      "class_name": "cucumber bacterial wilt",
+      "f1": 0.09523809523809522,
+      "label_id": 44,
+      "precision": 0.16666666666666666,
+      "recall": 0.06666666666666667,
+      "support": 15
+    },
+    {
+      "class_name": "cucumber powdery mildew",
+      "f1": 0.3793103448275862,
+      "label_id": 45,
+      "precision": 0.34375,
+      "recall": 0.4230769230769231,
+      "support": 26
+    },
+    {
+      "class_name": "eggplant cercospora leaf spot",
+      "f1": 0.13333333333333333,
+      "label_id": 46,
+      "precision": 0.16666666666666666,
+      "recall": 0.1111111111111111,
+      "support": 9
+    },
+    {
+      "class_name": "eggplant phomopsis fruit rot",
+      "f1": 0.4,
+      "label_id": 47,
+      "precision": 0.5,
+      "recall": 0.3333333333333333,
+      "support": 6
+    },
+    {
+      "class_name": "eggplant phytophthora blight",
+      "f1": 0.28571428571428575,
+      "label_id": 48,
+      "precision": 0.5,
+      "recall": 0.2,
+      "support": 5
+    },
+    {
+      "class_name": "garlic leaf blight",
+      "f1": 0.08,
+      "label_id": 49,
+      "precision": 0.09090909090909091,
+      "recall": 0.07142857142857142,
+      "support": 14
+    },
+    {
+      "class_name": "garlic rust",
+      "f1": 0.23076923076923075,
+      "label_id": 50,
+      "precision": 0.3,
+      "recall": 0.1875,
+      "support": 16
+    },
+    {
+      "class_name": "ginger leaf spot",
+      "f1": 0.3333333333333333,
+      "label_id": 51,
+      "precision": 0.25,
+      "recall": 0.5,
+      "support": 4
+    },
+    {
+      "class_name": "ginger sheath blight",
+      "f1": 0.125,
+      "label_id": 52,
+      "precision": 0.14285714285714285,
+      "recall": 0.1111111111111111,
+      "support": 9
+    },
+    {
+      "class_name": "grape black rot",
+      "f1": 0.2857142857142857,
+      "label_id": 53,
+      "precision": 0.22580645161290322,
+      "recall": 0.3888888888888889,
+      "support": 18
+    },
+    {
+      "class_name": "grape downy mildew",
+      "f1": 0.46511627906976744,
+      "label_id": 54,
+      "precision": 0.45454545454545453,
+      "recall": 0.47619047619047616,
+      "support": 42
+    },
+    {
+      "class_name": "grape leaf spot",
+      "f1": 0.08,
+      "label_id": 55,
+      "precision": 0.07692307692307693,
+      "recall": 0.08333333333333333,
+      "support": 12
+    },
+    {
+      "class_name": "grapevine leafroll disease",
+      "f1": 0.3,
+      "label_id": 56,
+      "precision": 0.3333333333333333,
+      "recall": 0.2727272727272727,
+      "support": 11
+    },
+    {
+      "class_name": "lettuce downy mildew",
+      "f1": 0.34782608695652173,
+      "label_id": 57,
+      "precision": 0.36363636363636365,
+      "recall": 0.3333333333333333,
+      "support": 12
+    },
+    {
+      "class_name": "lettuce mosaic virus",
+      "f1": 0.25,
+      "label_id": 58,
+      "precision": 0.5,
+      "recall": 0.16666666666666666,
+      "support": 6
+    },
+    {
+      "class_name": "maple tar spot",
+      "f1": 0.48,
+      "label_id": 59,
+      "precision": 0.75,
+      "recall": 0.35294117647058826,
+      "support": 17
+    },
+    {
+      "class_name": "peach brown rot",
+      "f1": 0.6818181818181819,
+      "label_id": 60,
+      "precision": 0.7142857142857143,
+      "recall": 0.6521739130434783,
+      "support": 23
+    },
+    {
+      "class_name": "peach leaf curl",
+      "f1": 0.4166666666666667,
+      "label_id": 61,
+      "precision": 0.47619047619047616,
+      "recall": 0.37037037037037035,
+      "support": 27
+    },
+    {
+      "class_name": "peach scab",
+      "f1": 0.6,
+      "label_id": 62,
+      "precision": 0.6666666666666666,
+      "recall": 0.5454545454545454,
+      "support": 11
+    },
+    {
+      "class_name": "plum brown rot",
+      "f1": 0.45454545454545453,
+      "label_id": 63,
+      "precision": 0.45454545454545453,
+      "recall": 0.45454545454545453,
+      "support": 11
+    },
+    {
+      "class_name": "plum pocket disease",
+      "f1": 0.14285714285714285,
+      "label_id": 64,
+      "precision": 0.2,
+      "recall": 0.1111111111111111,
+      "support": 9
+    },
+    {
+      "class_name": "plum pox virus",
+      "f1": 0.3636363636363636,
+      "label_id": 65,
+      "precision": 0.3333333333333333,
+      "recall": 0.4,
+      "support": 5
+    },
+    {
+      "class_name": "plum rust",
+      "f1": 0.20000000000000004,
+      "label_id": 66,
+      "precision": 0.2,
+      "recall": 0.2,
+      "support": 5
+    },
+    {
+      "class_name": "potato early blight",
+      "f1": 0.2580645161290323,
+      "label_id": 67,
+      "precision": 0.2857142857142857,
+      "recall": 0.23529411764705882,
+      "support": 17
+    },
+    {
+      "class_name": "potato late blight",
+      "f1": 0.35,
+      "label_id": 68,
+      "precision": 0.30434782608695654,
+      "recall": 0.4117647058823529,
+      "support": 17
+    },
+    {
+      "class_name": "raspberry fire blight",
+      "f1": 0.0,
+      "label_id": 69,
+      "precision": 0.0,
+      "recall": 0.0,
+      "support": 5
+    },
+    {
+      "class_name": "raspberry gray mold",
+      "f1": 0.6666666666666666,
+      "label_id": 70,
+      "precision": 1.0,
+      "recall": 0.5,
+      "support": 6
+    },
+    {
+      "class_name": "raspberry yellow rust",
+      "f1": 0.2,
+      "label_id": 71,
+      "precision": 0.25,
+      "recall": 0.16666666666666666,
+      "support": 6
+    },
+    {
+      "class_name": "rice blast",
+      "f1": 0.5217391304347826,
+      "label_id": 72,
+      "precision": 0.6,
+      "recall": 0.46153846153846156,
+      "support": 13
+    },
+    {
+      "class_name": "rice sheath blight",
+      "f1": 0.3870967741935483,
+      "label_id": 73,
+      "precision": 0.2857142857142857,
+      "recall": 0.6,
+      "support": 10
+    },
+    {
+      "class_name": "soybean bacterial blight",
+      "f1": 0.23076923076923075,
+      "label_id": 74,
+      "precision": 0.2,
+      "recall": 0.2727272727272727,
+      "support": 11
+    },
+    {
+      "class_name": "soybean brown spot",
+      "f1": 0.47058823529411764,
+      "label_id": 75,
+      "precision": 0.4444444444444444,
+      "recall": 0.5,
+      "support": 8
+    },
+    {
+      "class_name": "soybean downy mildew",
+      "f1": 0.4210526315789474,
+      "label_id": 76,
+      "precision": 0.4,
+      "recall": 0.4444444444444444,
+      "support": 18
+    },
+    {
+      "class_name": "soybean frog eye leaf spot",
+      "f1": 0.5483870967741935,
+      "label_id": 77,
+      "precision": 0.5151515151515151,
+      "recall": 0.5862068965517241,
+      "support": 29
+    },
+    {
+      "class_name": "soybean mosaic",
+      "f1": 0.4324324324324324,
+      "label_id": 78,
+      "precision": 0.4,
+      "recall": 0.47058823529411764,
+      "support": 17
+    },
+    {
+      "class_name": "soybean rust",
+      "f1": 0.37837837837837834,
+      "label_id": 79,
+      "precision": 0.3333333333333333,
+      "recall": 0.4375,
+      "support": 16
+    },
+    {
+      "class_name": "squash powdery mildew",
+      "f1": 0.26666666666666666,
+      "label_id": 80,
+      "precision": 0.2857142857142857,
+      "recall": 0.25,
+      "support": 24
+    },
+    {
+      "class_name": "strawberry anthracnose",
+      "f1": 0.5333333333333333,
+      "label_id": 81,
+      "precision": 0.6666666666666666,
+      "recall": 0.4444444444444444,
+      "support": 9
+    },
+    {
+      "class_name": "strawberry leaf scorch",
+      "f1": 0.6153846153846153,
+      "label_id": 82,
+      "precision": 0.5714285714285714,
+      "recall": 0.6666666666666666,
+      "support": 6
+    },
+    {
+      "class_name": "tobacco blue mold",
+      "f1": 0.36363636363636365,
+      "label_id": 83,
+      "precision": 0.6666666666666666,
+      "recall": 0.25,
+      "support": 8
+    },
+    {
+      "class_name": "tobacco brown spot",
+      "f1": 0.13333333333333333,
+      "label_id": 84,
+      "precision": 0.14285714285714285,
+      "recall": 0.125,
+      "support": 8
+    },
+    {
+      "class_name": "tobacco mosaic virus",
+      "f1": 0.3333333333333333,
+      "label_id": 85,
+      "precision": 0.3333333333333333,
+      "recall": 0.3333333333333333,
+      "support": 6
+    },
+    {
+      "class_name": "tomato bacterial leaf spot",
+      "f1": 0.16216216216216214,
+      "label_id": 86,
+      "precision": 0.14285714285714285,
+      "recall": 0.1875,
+      "support": 16
+    },
+    {
+      "class_name": "tomato early blight",
+      "f1": 0.4444444444444445,
+      "label_id": 87,
+      "precision": 0.42857142857142855,
+      "recall": 0.46153846153846156,
+      "support": 26
+    },
+    {
+      "class_name": "tomato late blight",
+      "f1": 0.30434782608695654,
+      "label_id": 88,
+      "precision": 0.3333333333333333,
+      "recall": 0.28,
+      "support": 25
+    },
+    {
+      "class_name": "tomato leaf mold",
+      "f1": 0.5777777777777778,
+      "label_id": 89,
+      "precision": 0.5909090909090909,
+      "recall": 0.5652173913043478,
+      "support": 23
+    },
+    {
+      "class_name": "tomato mosaic virus",
+      "f1": 0.0,
+      "label_id": 90,
+      "precision": 0.0,
+      "recall": 0.0,
+      "support": 9
+    },
+    {
+      "class_name": "tomato septoria leaf spot",
+      "f1": 0.21621621621621623,
+      "label_id": 91,
+      "precision": 0.21052631578947367,
+      "recall": 0.2222222222222222,
+      "support": 18
+    },
+    {
+      "class_name": "tomato yellow leaf curl virus",
+      "f1": 0.380952380952381,
+      "label_id": 92,
+      "precision": 0.5,
+      "recall": 0.3076923076923077,
+      "support": 13
+    },
+    {
+      "class_name": "wheat bacterial leaf streak (black chaff)",
+      "f1": 0.17391304347826086,
+      "label_id": 93,
+      "precision": 0.2857142857142857,
+      "recall": 0.125,
+      "support": 16
+    },
+    {
+      "class_name": "wheat head scab",
+      "f1": 0.6923076923076923,
+      "label_id": 94,
+      "precision": 0.6923076923076923,
+      "recall": 0.6923076923076923,
+      "support": 39
+    },
+    {
+      "class_name": "wheat leaf rust",
+      "f1": 0.4444444444444444,
+      "label_id": 95,
+      "precision": 0.4444444444444444,
+      "recall": 0.4444444444444444,
+      "support": 18
+    },
+    {
+      "class_name": "wheat loose smut",
+      "f1": 0.7692307692307693,
+      "label_id": 96,
+      "precision": 0.7692307692307693,
+      "recall": 0.7692307692307693,
+      "support": 26
+    },
+    {
+      "class_name": "wheat powdery mildew",
+      "f1": 0.41025641025641024,
+      "label_id": 97,
+      "precision": 0.4,
+      "recall": 0.42105263157894735,
+      "support": 38
+    },
+    {
+      "class_name": "wheat septoria blotch",
+      "f1": 0.5517241379310344,
+      "label_id": 98,
+      "precision": 0.5333333333333333,
+      "recall": 0.5714285714285714,
+      "support": 28
+    },
+    {
+      "class_name": "wheat stem rust",
+      "f1": 0.5238095238095238,
+      "label_id": 99,
+      "precision": 0.4782608695652174,
+      "recall": 0.5789473684210527,
+      "support": 19
+    },
+    {
+      "class_name": "wheat stripe rust",
+      "f1": 0.6,
+      "label_id": 100,
+      "precision": 0.5660377358490566,
+      "recall": 0.6382978723404256,
+      "support": 47
+    },
+    {
+      "class_name": "zucchini bacterial wilt",
+      "f1": 0.4000000000000001,
+      "label_id": 101,
+      "precision": 0.4,
+      "recall": 0.4,
+      "support": 10
+    },
+    {
+      "class_name": "zucchini downy mildew",
+      "f1": 0.3636363636363636,
+      "label_id": 102,
+      "precision": 0.4,
+      "recall": 0.3333333333333333,
+      "support": 6
+    },
+    {
+      "class_name": "zucchini powdery mildew",
+      "f1": 0.40625000000000006,
+      "label_id": 103,
+      "precision": 0.3333333333333333,
+      "recall": 0.52,
+      "support": 25
+    },
+    {
+      "class_name": "zucchini yellow mosaic virus",
+      "f1": 0.35714285714285715,
+      "label_id": 104,
+      "precision": 0.35714285714285715,
+      "recall": 0.35714285714285715,
+      "support": 14
+    }
+  ],
+  "labels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104
+  ]
+}

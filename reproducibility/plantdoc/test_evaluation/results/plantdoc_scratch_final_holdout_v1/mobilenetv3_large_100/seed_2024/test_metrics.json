@@ -1,0 +1,19 @@
+{
+  "accuracy": 0.3953488372093023,
+  "balanced_accuracy": 0.3407878634828962,
+  "brier": 0.8138239859341374,
+  "checkpoint_sha256": "8406599510eea8607ac6771b99761ebdbc64c0063753dec887f11ce2d15b9907",
+  "display_name": "MobileNetV3-Large",
+  "ece_15bin": 0.17868886676638623,
+  "macro_f1": 0.33486345451250255,
+  "macro_precision": 0.34845656351038157,
+  "macro_recall": 0.3407878634828962,
+  "model_key": "mobilenetv3_large_100",
+  "nll": 2.533288241916949,
+  "parameters": 4236619,
+  "runtime_seconds": 14.383614135003882,
+  "seed": 2024,
+  "weighted_f1": 0.3784045112054688,
+  "weighted_precision": 0.3798320386943398,
+  "weighted_recall": 0.3953488372093023
+}

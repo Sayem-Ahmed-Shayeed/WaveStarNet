@@ -1,0 +1,30 @@
+{
+  "active_seeds": [
+    42,
+    2024,
+    3407
+  ],
+  "completed_at": "2026-07-23T13:57:43.536685+00:00",
+  "dataset_id": "sumitnath8987/plantwild-clean-training-v1",
+  "display_name": "WavestarNet-Big-Transfer-V2",
+  "expected_manifest_sha256": {
+    "class_mapping": "aa5c417832ff1fd0d1024e085002b1e3811a46c9af64a534e0dc1fa6355d86ca",
+    "train": "41fcfd247c504f0f0bdf5a0a47029436620145818a263be728af22c07b3bc84e",
+    "validation": "72d10da4d023c08632eb8df5ad76f566f276d07a93046950ecfc06db0fa22f87"
+  },
+  "expected_version": 1,
+  "initialization": "random",
+  "kernel_id": "sayemahmedshayeed/plantwild-scratch-comparison",
+  "model_key": "wavestarnet_big_transfer_v2",
+  "pretrained": false,
+  "protocol_id": "plantwild_scratch_comparison_v1",
+  "run_mode": "development",
+  "source_sha256": {
+    "core": "79056ec95256ad8780776ded74594e5cbd3c62634059441d68107ec234450568",
+    "model": "1e600b84c2a901640ff93ec9ef8e255291cbb07f335d5217988ffe147c2ca53f",
+    "runtime": "34644ef3c9e55e64d21b4fe10d3cb08f271259897d5b2454052ffd45c1477b9c"
+  },
+  "started_at": "2026-07-23T04:57:37.019595+00:00",
+  "status": "complete",
+  "test_accessed": false
+}

@@ -1,0 +1,30 @@
+{
+  "active_seeds": [
+    42,
+    2024,
+    3407
+  ],
+  "completed_at": "2026-07-24T22:28:50.405400+00:00",
+  "dataset_id": "sayemahmedshayeed/plantdoc-clean-grouped-v1",
+  "display_name": "MobileNetV3-Large",
+  "expected_manifest_sha256": {
+    "class_mapping": "eb2569cc4986958025fab1380f03b7706c966df7bd089d9e2d942bb1581ef5ea",
+    "train": "b142d4baa5577ade7e9368071f1b93a87b4ef36dddc24963459bb68bb43e0db0",
+    "validation": "96305f43735d61f06f9eba0df85a21b256c5a46ab96e6105504e22cc21c81f0a"
+  },
+  "expected_version": 1,
+  "initialization": "random",
+  "kernel_id": "sayemahmedshayeed/plantdoc-scratch-comparison",
+  "model_key": "mobilenetv3_large_100",
+  "pretrained": false,
+  "protocol_id": "plantdoc_scratch_comparison_v1",
+  "run_mode": "development",
+  "source_sha256": {
+    "core": "5166d056b31bd3f99b108f0d613e4d092517538870c13ced5af57e4b57e55f45",
+    "model": "1e600b84c2a901640ff93ec9ef8e255291cbb07f335d5217988ffe147c2ca53f",
+    "runtime": "157252d5de7a7bbfe123edbd9389e9d865372f706ec0f53610d07c2aa7756496"
+  },
+  "started_at": "2026-07-24T18:44:13.221889+00:00",
+  "status": "complete",
+  "test_accessed": false
+}

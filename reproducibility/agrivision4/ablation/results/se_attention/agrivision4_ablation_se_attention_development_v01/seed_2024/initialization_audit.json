@@ -1,0 +1,32 @@
+{
+  "ablation_key": "se_attention",
+  "architecture_sha256": "dc4051cadc894c40f4cbfafb49790a7e83f29063c56c1eb630ca75e56add08e5",
+  "backbone_schema_sha256": null,
+  "checkpoint_loaded": false,
+  "display_name": "WavestarNet V2 (standard channel SE attention)",
+  "downsampling_locations": [
+    "stages.0.0",
+    "stages.1.0",
+    "stages.2.0",
+    "stages.3.0"
+  ],
+  "downsampling_type": "wave_down",
+  "fusion_operator": "multiplicative_star",
+  "head_type": "multistage_s2_s3_s4",
+  "initialization": "random",
+  "parameters": 2767793,
+  "pretrained": false,
+  "se_attention_count": 5,
+  "se_attention_locations": [
+    "stages.0.1.spec",
+    "stages.1.1.spec",
+    "stages.2.1.spec",
+    "stages.2.5.spec",
+    "stages.3.1.spec"
+  ],
+  "spectral_operator": "selective_spatial_se",
+  "state_schema_sha256": "17b8bc5f2365a44d0814ddc817356c4019994cf04ebb5522d8545d40b642c041",
+  "teacher_loaded": false,
+  "wavelet_gate_count": 0,
+  "wavelet_gate_locations": []
+}

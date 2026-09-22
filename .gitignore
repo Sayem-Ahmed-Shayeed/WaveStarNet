@@ -1,0 +1,7 @@
+# Large release artifacts are attached to GitHub Releases, never Git history.
+release_artifacts/
+*.pt
+*.ckpt
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

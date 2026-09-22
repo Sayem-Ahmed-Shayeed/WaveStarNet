@@ -1,0 +1,26 @@
+{
+  "file_count": 4,
+  "files": [
+    {
+      "bytes": 423,
+      "path": "benchmark_config.json",
+      "sha256": "17b519c640a624d27c09e2bb7c3b04b8a9ce64302fabdc4161b8b8f14b6500bd"
+    },
+    {
+      "bytes": 6727,
+      "path": "efficiency_results.csv",
+      "sha256": "a5f8207ca26056811ee571939f74f8c8933e679d1d81cebc2db1f3bb400f58cf"
+    },
+    {
+      "bytes": 593,
+      "path": "environment.json",
+      "sha256": "a546515fcd86d80c4c252d881fd584c098bb9c1e5df6a12f7a4cfe8e281c3aa8"
+    },
+    {
+      "bytes": 1983,
+      "path": "model_complexity.csv",
+      "sha256": "b84de4fcecbb8b77a9864534a2c413170915186bd85607b4328265e0fbf0f5b3"
+    }
+  ],
+  "valid": true
+}

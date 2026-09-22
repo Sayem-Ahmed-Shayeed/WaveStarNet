@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "package_sha256": "df327b5d88a4a02cbfc4ba12c123724b3aa10f79c61bda088009b276f3b971ae",
+  "split_counts": {
+    "test": 579,
+    "train": 2725,
+    "validation": 587
+  },
+  "total_images": 3891
+}

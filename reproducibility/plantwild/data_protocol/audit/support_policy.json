@@ -1,0 +1,18 @@
+{
+  "excluded_classes": {
+    "bell pepper frogeye leaf spot": 18,
+    "broccoli ring spot": 5,
+    "carrot cercospora leaf blight": 15,
+    "coffee black rot": 6,
+    "coffee brown eye spot": 11,
+    "peach anthracnose": 13,
+    "peach rust": 8,
+    "plum bacterial spot": 15,
+    "raspberry leaf spot": 18,
+    "tobacco frogeye leaf spot": 16
+  },
+  "excluded_source_images_deleted": false,
+  "minimum_independent_components_per_class": 20,
+  "policy_basis": "predeclared support-only rule applied before model training",
+  "source_taxonomy_preserved_in_inventory": true
+}

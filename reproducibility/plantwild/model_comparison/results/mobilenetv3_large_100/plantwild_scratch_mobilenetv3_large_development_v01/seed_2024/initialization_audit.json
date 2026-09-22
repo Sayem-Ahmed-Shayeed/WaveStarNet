@@ -1,0 +1,11 @@
+{
+  "architecture_sha256": "e665362caf6c7b27aa57b72e6a86fad46fb9dfc570d1be1ed9fd5c36863b6a8c",
+  "backbone_schema_sha256": null,
+  "checkpoint_loaded": false,
+  "display_name": "MobileNetV3-Large",
+  "initialization": "random",
+  "model_key": "mobilenetv3_large_100",
+  "parameters": 4336537,
+  "pretrained": false,
+  "teacher_loaded": false
+}

@@ -1,0 +1,23 @@
+{
+  "audit_split_adopted": {
+    "test": 0.15,
+    "train": 0.7,
+    "validation": 0.15
+  },
+  "audit_split_reason": "fixed duplicate-aware development protocol with validation separated from sealed test",
+  "filename_source_engine_is_original_source_id": false,
+  "label_provenance": "immediate_parent_directory",
+  "local_archive_contains_fixed_split": false,
+  "local_archive_contains_license_file": false,
+  "local_archive_contains_metadata": false,
+  "official_baseline_commit_inspected": "fe7082d486d65ca1eac8b1a5eae1c9af87b3280b",
+  "official_baseline_repository": "https://github.com/tqwei05/MVPDR",
+  "official_loader_declared_fractions": {
+    "test": 0.2,
+    "train": 0.7,
+    "validation": 0.1
+  },
+  "official_loader_reproducibility_issue": "seeded sampling is applied to unsorted os.listdir results",
+  "official_project_url": "https://tqwei05.github.io/PlantWild/",
+  "official_training_validity_issue": "main.py selects the best epoch using test features"
+}
