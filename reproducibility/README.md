@@ -2,6 +2,12 @@
 
 This package contains the code, fixed splits, executed notebooks, and compact results supporting the paper. All models were trained without pretrained weights on AgriVision4, PlantDoc, and PlantWild.
 
+## Datasets
+
+- [AgriVision4 dataset (Mendeley Data)](https://data.mendeley.com/datasets/8t6k37ztxc/1)
+- [PlantDoc classification dataset used in this study (Kaggle)](https://www.kaggle.com/datasets/nirmalsankalana/plantdoc-dataset)
+- [PlantWild v2 dataset (official project page)](https://tqwei05.github.io/PlantWild/)
+
 ```text
 code/          Canonical implementation
 agrivision4/   Comparison, test evaluation, ablations, and Grad-CAM
